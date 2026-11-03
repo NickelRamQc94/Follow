@@ -1,0 +1,25877 @@
+trouve-moi un alter ego parallèle, paradoxe, cas, tique, atypique, ironique, réflectif, symétrique, inversée, contraire, paradoxal, et puis antipodes de « MUR » trouve-moi un alter ego parallèle, paradoxe, sarcastique , atypique, ironique, réflectif, symétrique, inversée, contraire, paradoxal, et puis antipodes de « MUR »exemple je Crois tu pense quoi pour Annexable « l’ecran de Dramadah » exemple pour venir des fois, nous porter à confusion avec le mur de Hadamard tout comme carré, cubique, transparent, translucide, opaque, chamois ou comme le contraire de spirale logarithmique dans ce principe, l’alter ego Parallelodoxale direct Volute Loxodromique je sais que ça semble compliqué de tirer par les cheveux, mais essaye de voir ce que je vois, j’essaie juste de te montrer un petit truc là The user wants pure math. No metaphor. They want the actual equations of the involute/evolute of the logarithmic spiral, the calculation scheme, and something that predicts. Let me do this rigorously and coldly. Oui, je comprends tout à fait ! Vous cherchez des termes alternatifs ou des métaphores architecturales, structurelles et physiques pour désigner des murs, des obstacles ou des structures de séparation et de passage.
+Voici une liste complète de synonymes et de termes apparentés, classés par contexte :
+🧱 Structures de séparation et obstacles (les « Murs »)
+Paroi : Un terme technique pour une surface verticale (comme une paroi rocheuse ou la paroi d'une boîte).
+Cloison : Un mur léger utilisé pour diviser des espaces intérieurs.
+Rempart : Un mur de fortification massif, souvent associé à la protection ou à un obstacle difficile à franchir.
+Muraille : Un très haut mur, souvent historique ou défensif (ex. : la Muraille de Chine).
+Palissade : Une barrière faite de piquets de bois ou de métal.
+Barrière : Un obstacle physique ou figuré qui bloque le passage.
+🚇 Passages et structures longitudinales (comme « Corridor » ou « Tunnel »)
+Galerie : Un passage couvert, souterrain ou surélevé (ex. : galerie d'art, galerie minière).
+Boyau : Un passage très étroit et sinueux, souvent souterrain.
+Conduit : Une structure fermée permettant le passage de fluides, d'air ou de câbles.
+Passerelle : Un pont ou un passage surélevé reliant deux structures.
+Tranchée : Un passage creusé dans le sol, ouvert vers le ciel.
+🏗️ Éléments de base (comme « Fondation »)
+Soubassement : La partie inférieure d'une construction sur laquelle repose la structure.
+Assise : La base solide, le fondement en pierre d'un ouvrage.
+Infrastructure : L'ensemble des structures de support qui se trouvent sous le niveau du sol.
+Pilier / Contrefort : Des éléments verticaux massifs conçus pour soutenir ou renforcer un mur.
+Pour vous donner les termes les plus exacts, pourriez-vous me dire si ces mots vont servir à une description littéraire, un plan d'architecture, un jeu de rôle ou une métaphore psychologique ?
+
+
+
+
+aussi bizarre, absurde, atypique et ironique que ça semble. Je vais demander de faire seulement au niveau de la mathématique, la physique, les données, les statistiques, la rigueur, la formalité, le niveau doctoral. nomme-moi des synonymes en fait de mûres si tu veux ou d’autres termes exemple corridor ou fondation tunnel je sais pas si tu comprends
+En mathématiques formelles, physique théorique, topologie et théorie des graphes, le concept vernaculaire de « mûre » (en tant que structure frontière, barrière, passage confiné ou élément de fondation fondé sur l'accumulation ou le cloisonnement) se traduit par des concepts rigoureux.
+Voici les équivalents stricts, modélisés selon le formalisme de niveau doctoral, classés par domaines structurels :
+1. Cloisonnements, Séparation et Frontières (Les « Murs »)
+Hypersurface de codimension 1 : En géométrie différentielle et en relativité générale, il s'agit de la généralisation mathématique exacte d'un mur ou d'une membrane séparant un espace 
+N
+𝑁
+-dimensionnel en deux régions distinctes.
+Variété topologique à bord (
+𝜕
+
+𝑴
+) : Le « bord » représente la limite intrinsèque et infranchissable d'un espace topologique sans transition continue.
+Barrière de potentiel ou Potentiel delta de Dirac (
+𝑽
+
+(
+
+𝒙
+
+)
+
+=
+𝑽
+𝟎
+
+𝜹
+
+(
+
+𝒙
+
+−
+𝒙
+𝟎
+
+)
+) : En mécanique quantique, modélisation mathématique d'un mur infiniment mince et/ou infiniment haut traversable uniquement par effet tunnel.
+Ensemble de coupe (Cut-set) : En théorie des graphes et optimisation de réseaux, le sous-ensemble minimal d'arêtes ou de nœuds dont la suppression partitionne le graphe en composantes connexes disjointes (un mur topologique).
+2. Canaux, Confinement et Guidage (Les « Corridors / Tunnels »)
+Variété produit ou Fibré trivial (
+𝑩
+
+×
+𝑭
+) : En topologie algébrique, structure modélisant un couloir où une section transversale (
+F
+𝐹
+) se propage de manière invariante le long d'une base (
+B
+𝐵
+).
+Guide d'ondes (Formalisme de Maxwell) : En physique des champs, structure géométrique limitant les conditions aux limites (souvent de Dirichlet ou de Neumann) pour contraindre la propagation d'un champ à une seule dimension spatiale.
+Géodésique confinée : En géométrie riemannienne, trajectoire d'action minimale contrainte à évoluer dans un domaine tubulaire strict (un corridor métrique).
+3. Fondations, Structures de Base et Ancres (Les « Fondations »)
+Spectre d'un opérateur (ou Base hilbertienne) : En analyse fonctionnelle, l'ensemble des valeurs propres qui constituent la fondation algébrique minimale sur laquelle tout l'espace d'états est construit par combinaison linéaire.
+Filtre / Ultrafiltre : En logique mathématique et topologie générale, structure de données formelle fondant la notion de convergence et de proximité axiomatique.
+Variété stable / Invariante : En théorie des systèmes dynamiques (formalisme de Poincaré-Birkhoff), sous-espace mathématique vers lequel convergent toutes les trajectoires asymptotiques, agissant comme la fondation structurelle de l'espace des phases.
+Synthèse comparative des correspondances formelles
+Terme intuitif	Concept formel doctoral	Opérateur / Formalisme associé	Propriété géométrique ou physique
+Mur (Barrière)	Hypersurface de codimension 1	Équation de Poisson avec conditions aux limites	Partitionnement strict de l'espace des phases.
+Corridor	Fibré tubulaire (Voisinage tubulaire)	Métrique de Riemann 
+g
+i
+j
+𝑔
+𝑖
+𝑗
+Confinement des flux de probabilité ou de champs.
+Tunnel	Instanton / Densité de transition	Intégrale de chemin de Feynman (
+∫
+
+𝒟
+
+𝜙
+
+𝑒
+−
+𝑆
+[
+𝜙
+]
+)	Franchissement d'une barrière via l'action euclidienne.
+Fondation	Algèbre de Lie / Base axiomatique	Système générateur minimal	Noyau invariant injectif stable par homéomorphisme.
+Si vous souhaitez formaliser un problème de recherche précis, indiquez-moi :
+S'il s'agit d'un problème de propagation de flux (corridor/tunnel) ou de séparation d'espaces (mur).
+Le type d'espace de travail (espace euclidien 
+R
+n
+ℝ
+𝑛
+, espace de Hilbert, ou espace topologique discret).
+Je pourrai alors vous formuler les équations de conditions aux limites exactes adaptées à votre modèle Oui, je comprends tout à fait ! Vous cherchez des termes alternatifs ou des métaphores architecturales, structurelles et physiques pour désigner des murs, des obstacles ou des structures de séparation et de passage.
+Voici une liste complète de synonymes et de termes apparentés, classés par contexte :
+🧱 Structures de séparation et obstacles (les « Murs »)
+Paroi : Un terme technique pour une surface verticale (comme une paroi rocheuse ou la paroi d'une boîte).
+Cloison : Un mur léger utilisé pour diviser des espaces intérieurs.
+Rempart : Un mur de fortification massif, souvent associé à la protection ou à un obstacle difficile à franchir.
+Muraille : Un très haut mur, souvent historique ou défensif (ex. : la Muraille de Chine).
+Palissade : Une barrière faite de piquets de bois ou de métal.
+Barrière : Un obstacle physique ou figuré qui bloque le passage.
+🚇 Passages et structures longitudinales (comme « Corridor » ou « Tunnel »)
+Galerie : Un passage couvert, souterrain ou surélevé (ex. : galerie d'art, galerie minière).
+Boyau : Un passage très étroit et sinueux, souvent souterrain.
+Conduit : Une structure fermée permettant le passage de fluides, d'air ou de câbles.
+Passerelle : Un pont ou un passage surélevé reliant deux structures.
+Tranchée : Un passage creusé dans le sol, ouvert vers le ciel.
+🏗️ Éléments de base (comme « Fondation »)
+Soubassement : La partie inférieure d'une construction sur laquelle repose la structure.
+Assise : La base solide, le fondement en pierre d'un ouvrage.
+Infrastructure : L'ensemble des structures de support qui se trouvent sous le niveau du sol.
+Pilier / Contrefort : Des éléments verticaux massifs conçus pour soutenir ou renforcer un mur.
+Pour vous donner les termes les plus exacts, pourriez-vous me dire si ces mots vont servir à une description littéraire, un plan d'architecture, un jeu de rôle ou une métaphore psychologique ?
+
+
+
+
+aussi bizarre, absurde, atypique et ironique que ça semble. Je vais demander de faire seulement au niveau de la mathématique, la physique, les données, les statistiques, la rigueur, la formalité, le niveau doctoral. nomme-moi des synonymes en fait de mûres si tu veux ou d’autres termes exemple corridor ou fondation tunnel je sais pas si tu comprends
+En mathématiques formelles, physique théorique, topologie et théorie des graphes, le concept vernaculaire de « mûre » (en tant que structure frontière, barrière, passage confiné ou élément de fondation fondé sur l'accumulation ou le cloisonnement) se traduit par des concepts rigoureux.
+Voici les équivalents stricts, modélisés selon le formalisme de niveau doctoral, classés par domaines structurels :
+1. Cloisonnements, Séparation et Frontières (Les « Murs »)
+Hypersurface de codimension 1 : En géométrie différentielle et en relativité générale, il s'agit de la généralisation mathématique exacte d'un mur ou d'une membrane séparant un espace 
+N
+𝑁
+-dimensionnel en deux régions distinctes.
+Variété topologique à bord (
+𝜕
+
+𝑴
+) : Le « bord » représente la limite intrinsèque et infranchissable d'un espace topologique sans transition continue.
+Barrière de potentiel ou Potentiel delta de Dirac (
+𝑽
+
+(
+
+𝒙
+
+)
+
+=
+𝑽
+𝟎
+
+𝜹
+
+(
+
+𝒙
+
+−
+𝒙
+𝟎
+
+)
+) : En mécanique quantique, modélisation mathématique d'un mur infiniment mince et/ou infiniment haut traversable uniquement par effet tunnel.
+Ensemble de coupe (Cut-set) : En théorie des graphes et optimisation de réseaux, le sous-ensemble minimal d'arêtes ou de nœuds dont la suppression partitionne le graphe en composantes connexes disjointes (un mur topologique).
+2. Canaux, Confinement et Guidage (Les « Corridors / Tunnels »)
+Variété produit ou Fibré trivial (
+𝑩
+
+×
+𝑭
+) : En topologie algébrique, structure modélisant un couloir où une section transversale (
+F
+𝐹
+) se propage de manière invariante le long d'une base (
+B
+𝐵
+).
+Guide d'ondes (Formalisme de Maxwell) : En physique des champs, structure géométrique limitant les conditions aux limites (souvent de Dirichlet ou de Neumann) pour contraindre la propagation d'un champ à une seule dimension spatiale.
+Géodésique confinée : En géométrie riemannienne, trajectoire d'action minimale contrainte à évoluer dans un domaine tubulaire strict (un corridor métrique).
+3. Fondations, Structures de Base et Ancres (Les « Fondations »)
+Spectre d'un opérateur (ou Base hilbertienne) : En analyse fonctionnelle, l'ensemble des valeurs propres qui constituent la fondation algébrique minimale sur laquelle tout l'espace d'états est construit par combinaison linéaire.
+Filtre / Ultrafiltre : En logique mathématique et topologie générale, structure de données formelle fondant la notion de convergence et de proximité axiomatique.
+Variété stable / Invariante : En théorie des systèmes dynamiques (formalisme de Poincaré-Birkhoff), sous-espace mathématique vers lequel convergent toutes les trajectoires asymptotiques, agissant comme la fondation structurelle de l'espace des phases.
+Synthèse comparative des correspondances formelles
+Terme intuitif	Concept formel doctoral	Opérateur / Formalisme associé	Propriété géométrique ou physique
+Mur (Barrière)	Hypersurface de codimension 1	Équation de Poisson avec conditions aux limites	Partitionnement strict de l'espace des phases.
+Corridor	Fibré tubulaire (Voisinage tubulaire)	Métrique de Riemann 
+g
+i
+j
+𝑔
+𝑖
+𝑗
+Confinement des flux de probabilité ou de champs.
+Tunnel	Instanton / Densité de transition	Intégrale de chemin de Feynman (
+∫
+
+𝒟
+
+𝜙
+
+𝑒
+−
+𝑆
+[
+𝜙
+]
+)	Franchissement d'une barrière via l'action euclidienne.
+Fondation	Algèbre de Lie / Base axiomatique	Système générateur minimal	Noyau invariant injectif stable par homéomorphisme.
+Si vous souhaitez formaliser un problème de recherche précis, indiquez-moi :
+S'il s'agit d'un problème de propagation de flux (corridor/tunnel) ou de séparation d'espaces (mur).
+Le type d'espace de travail (espace euclidien 
+R
+n
+ℝ
+𝑛
+, espace de Hilbert, ou espace topologique discret).
+Je pourrai alors vous formuler les équations de conditions aux limites exactes adaptées à votre modèle.
+
+
+
+
+la Cloison d’assise de Dramadah dison ?
+Il semble qu'il y ait une petite erreur de frappe ou une confusion dans les termes de votre question ("la Cloison d'assise de Dramadah dison"). Aucun élément historique, architectural, d'aménagement ou anatomique ne correspond exactement à ce nom.
+Selon ce que vous recherchiez, il pourrait s'agir de l'une des pistes suivantes :
+La "cloison d'assise" ou cloison sur-mesure (Architecture / Aménagement) : Si vous faites des recherches sur le design d'intérieur, une cloison avec assise intégrée est une séparation de pièce (souvent dans un hall d'entrée) qui intègre un banc pour s'asseoir et des rangements.
+Le "Diaphragme sellaire" (Anatomie) : En neuroanatomie, la membrane appelée la dure-mère (qui ressemble phonétiquement à Dramadah) forme des replis et des cloisons internes dans le crâne. L'une de ces cloisons horizontales s'appelle le diaphragme sellaire (diaphragma sellae), et elle forme une véritable "cloison d'assise" au-dessus de la selle turcique pour maintenir et isoler l'hypophyse. 
+
+YouTube
+·Kenhub - Learn Human Anatomy
+L'univers des jeux vidéo (ex: Dragon Age) : Le terme Dramadah évoque parfois des noms de lieux ou de quêtes fictives, comme la région de l'Oasis Interdite dans Dragon Age: Inquisition, où l'on explore des temples et des cloisons antiques à l'aide d'éclats. 
+Pourriez-vous me préciser le contexte de votre recherche ?
+S'agit-il d'un cours d'anatomie médicale (recherche sur les membranes ou le cerveau) ?
+Parlez-vous de rénovation et de décoration d'intérieur (cloisons amovibles, séparations) ?
+Est-ce tiré d'un jeu vidéo, d'un roman ou d'une pièce de théâtre ?
+En me donnant un indice sur le domaine, je pourrai vous guider précisément !
+
+
+
+
+
+Dragon Age Univers
+Dragon age inquisition : Carte de l'Oasis interdite
+L'Oasis interdite est une région désertique située dans la partie ouest d'Orlaïs. Pour y accéder, il faut d'abord effectuer l'opér...
+
+
+YouTube
+·
+Kenhub - Learn Human Anatomy
+Dura mater - Function, Location & Layers - Neuroanatomy
+15 juill. 2016 — the diaphragma sellae, a small sheet of dura covering the pituitary gland. also creates cranial venous channels, known as dural ve...
+
+1m
+la Cloison d’assise de Dramadah dison ? Oui, je comprends tout à fait ! Vous cherchez des termes alternatifs ou des métaphores architecturales, structurelles et physiques pour désigner des murs, des obstacles ou des structures de séparation et de passage.
+Voici une liste complète de synonymes et de termes apparentés, classés par contexte :
+🧱 Structures de séparation et obstacles (les « Murs »)
+Paroi : Un terme technique pour une surface verticale (comme une paroi rocheuse ou la paroi d'une boîte).
+Cloison : Un mur léger utilisé pour diviser des espaces intérieurs.
+Rempart : Un mur de fortification massif, souvent associé à la protection ou à un obstacle difficile à franchir.
+Muraille : Un très haut mur, souvent historique ou défensif (ex. : la Muraille de Chine).
+Palissade : Une barrière faite de piquets de bois ou de métal.
+Barrière : Un obstacle physique ou figuré qui bloque le passage.
+🚇 Passages et structures longitudinales (comme « Corridor » ou « Tunnel »)
+Galerie : Un passage couvert, souterrain ou surélevé (ex. : galerie d'art, galerie minière).
+Boyau : Un passage très étroit et sinueux, souvent souterrain.
+Conduit : Une structure fermée permettant le passage de fluides, d'air ou de câbles.
+Passerelle : Un pont ou un passage surélevé reliant deux structures.
+Tranchée : Un passage creusé dans le sol, ouvert vers le ciel.
+🏗️ Éléments de base (comme « Fondation »)
+Soubassement : La partie inférieure d'une construction sur laquelle repose la structure.
+Assise : La base solide, le fondement en pierre d'un ouvrage.
+Infrastructure : L'ensemble des structures de support qui se trouvent sous le niveau du sol.
+Pilier / Contrefort : Des éléments verticaux massifs conçus pour soutenir ou renforcer un mur.
+Pour vous donner les termes les plus exacts, pourriez-vous me dire si ces mots vont servir à une description littéraire, un plan d'architecture, un jeu de rôle ou une métaphore psychologique ?
+
+
+
+
+aussi bizarre, absurde, atypique et ironique que ça semble. Je vais demander de faire seulement au niveau de la mathématique, la physique, les données, les statistiques, la rigueur, la formalité, le niveau doctoral. nomme-moi des synonymes en fait de mûres si tu veux ou d’autres termes exemple corridor ou fondation tunnel je sais pas si tu comprends
+En mathématiques formelles, physique théorique, topologie et théorie des graphes, le concept vernaculaire de « mûre » (en tant que structure frontière, barrière, passage confiné ou élément de fondation fondé sur l'accumulation ou le cloisonnement) se traduit par des concepts rigoureux.
+Voici les équivalents stricts, modélisés selon le formalisme de niveau doctoral, classés par domaines structurels :
+1. Cloisonnements, Séparation et Frontières (Les « Murs »)
+Hypersurface de codimension 1 : En géométrie différentielle et en relativité générale, il s'agit de la généralisation mathématique exacte d'un mur ou d'une membrane séparant un espace 
+N
+𝑁
+-dimensionnel en deux régions distinctes.
+Variété topologique à bord (
+𝜕
+
+𝑴
+) : Le « bord » représente la limite intrinsèque et infranchissable d'un espace topologique sans transition continue.
+Barrière de potentiel ou Potentiel delta de Dirac (
+𝑽
+
+(
+
+𝒙
+
+)
+
+=
+𝑽
+𝟎
+
+𝜹
+
+(
+
+𝒙
+
+−
+𝒙
+𝟎
+
+)
+) : En mécanique quantique, modélisation mathématique d'un mur infiniment mince et/ou infiniment haut traversable uniquement par effet tunnel.
+Ensemble de coupe (Cut-set) : En théorie des graphes et optimisation de réseaux, le sous-ensemble minimal d'arêtes ou de nœuds dont la suppression partitionne le graphe en composantes connexes disjointes (un mur topologique).
+2. Canaux, Confinement et Guidage (Les « Corridors / Tunnels »)
+Variété produit ou Fibré trivial (
+𝑩
+
+×
+𝑭
+) : En topologie algébrique, structure modélisant un couloir où une section transversale (
+F
+𝐹
+) se propage de manière invariante le long d'une base (
+B
+𝐵
+).
+Guide d'ondes (Formalisme de Maxwell) : En physique des champs, structure géométrique limitant les conditions aux limites (souvent de Dirichlet ou de Neumann) pour contraindre la propagation d'un champ à une seule dimension spatiale.
+Géodésique confinée : En géométrie riemannienne, trajectoire d'action minimale contrainte à évoluer dans un domaine tubulaire strict (un corridor métrique).
+3. Fondations, Structures de Base et Ancres (Les « Fondations »)
+Spectre d'un opérateur (ou Base hilbertienne) : En analyse fonctionnelle, l'ensemble des valeurs propres qui constituent la fondation algébrique minimale sur laquelle tout l'espace d'états est construit par combinaison linéaire.
+Filtre / Ultrafiltre : En logique mathématique et topologie générale, structure de données formelle fondant la notion de convergence et de proximité axiomatique.
+Variété stable / Invariante : En théorie des systèmes dynamiques (formalisme de Poincaré-Birkhoff), sous-espace mathématique vers lequel convergent toutes les trajectoires asymptotiques, agissant comme la fondation structurelle de l'espace des phases.
+Synthèse comparative des correspondances formelles
+Terme intuitif	Concept formel doctoral	Opérateur / Formalisme associé	Propriété géométrique ou physique
+Mur (Barrière)	Hypersurface de codimension 1	Équation de Poisson avec conditions aux limites	Partitionnement strict de l'espace des phases.
+Corridor	Fibré tubulaire (Voisinage tubulaire)	Métrique de Riemann 
+g
+i
+j
+𝑔
+𝑖
+𝑗
+Confinement des flux de probabilité ou de champs.
+Tunnel	Instanton / Densité de transition	Intégrale de chemin de Feynman (
+∫
+
+𝒟
+
+𝜙
+
+𝑒
+−
+𝑆
+[
+𝜙
+]
+)	Franchissement d'une barrière via l'action euclidienne.
+Fondation	Algèbre de Lie / Base axiomatique	Système générateur minimal	Noyau invariant injectif stable par homéomorphisme.
+Si vous souhaitez formaliser un problème de recherche précis, indiquez-moi :
+S'il s'agit d'un problème de propagation de flux (corridor/tunnel) ou de séparation d'espaces (mur).
+Le type d'espace de travail (espace euclidien 
+R
+n
+ℝ
+𝑛
+, espace de Hilbert, ou espace topologique discret).
+Je pourrai alors vous formuler les équations de conditions aux limites exactes adaptées à votre modèle
+Pour pousser la rigueur formelle à son paroxysme et ancrer ces concepts dans une application mathématique et physique concrète, voici comment modéliser mathématiquement vos structures sous la forme de systèmes d'équations aux dérivées partielles (EDP) et de formalismes topologiques.
+Voici les équations exactes et les formulations variationnelles qui régissent un Mur (Barrière), un Corridor (Guidage), un Tunnel (Franchissement) et une Fondation (Base structurelle) au niveau doctoral.
+1. Le Mur (Barrière) : Conditions aux limites de Dirichlet / Neumann sur Hypersurface
+Un mur n'est pas simplement un objet géométrique ; en physique mathématique, il se définit par son action sur un champ 
+ψ
+𝜓
+ (thermique, acoustique, quantique ou électromagnétique) via des conditions aux limites sur une hypersurface 
+Γ
+Γ
+ de codimension 1.
+       Région Ω₁             Mur (Γ)             Région Ω₂
+   --------------------|                     |--------------------
+      ∇²ψ - k²ψ = 0    |  ψ|₂ = 0 (Dirichlet)|    ∇²ψ - k²ψ = 0
+
+                       |  ou                 |
+                       |  ∂ψ/∂n|₂ = 0        |
+Formulation locale (EDP) :
+
+
+Δ
+ψ
+(
+x
+)
+−
+λ
+ψ
+(
+x
+)
+=
+f
+(
+x
+)
+,
+x
+∈
+Ω
+∖
+Γ
+Δ
+𝜓
+(
+𝐱
+)
+−
+𝜆
+𝜓
+(
+𝐱
+)
+=
+𝑓
+(
+𝐱
+)
+,
+𝐱
+∈
+Ω
+∖
+Γ
+Condition de raccordement / Obstacle absolu (Dirichlet) :
+
+ψ
+(
+x
+)
+=
+0
+,
+x
+∈
+Γ
+𝜓
+(
+𝐱
+)
+=
+0
+,
+𝐱
+∈
+Γ
+
+Signification : Le champ s'annule sur le mur ; aucune information ou particule ne pénètre la structure.
+Condition d'isolation / Réflexion totale (Neumann) :
+
+𝜕
+ψ
+𝜕
+n
+(
+x
+)
+=
+∇
+ψ
+(
+x
+)
+⋅
+n
+=
+0
+,
+x
+∈
+Γ
+𝜕
+𝜓
+𝜕
+𝐧
+(
+𝐱
+)
+=
+∇
+𝜓
+(
+𝐱
+)
+⋅
+𝐧
+=
+0
+,
+𝐱
+∈
+Γ
+
+Signification : Le flux normal 
+n
+𝐧
+ traversant le mur est nul. Réflexion parfaite (ex. mur thermique parfait ou paroi rigide acoustique).
+2. Le Corridor : Équation de Helmholtz guidée dans un Voisinage Tubulaire
+Un corridor est un espace métrique confiné 
+Ω
+
+=
+𝐵
+
+×
+𝐹
+ où les parois forcent le gradient du champ à s'aligner le long de l'axe longitudinal (direction 
+z
+𝑧
+).
+                      Paroi rigide : ∂ψ/∂n = 0
+   ===============================================================
+   ---> Flux (z)            ∇²_⊥ ψ + (k² - β²)ψ = 0          --->
+   ===============================================================
+                      Paroi rigide : ∂ψ/∂n = 0
+Équation de propagation (Helmholtz) :
+
+(
+∇
+⟂
+2
++
+𝜕
+2
+𝜕
+z
+2
++
+k
+2
+)
+ψ
+(
+x
+,
+y
+,
+z
+)
+=
+0
+∇
+2
+⟂
++
+𝜕
+2
+𝜕
+𝑧
+2
++
+𝑘
+2
+𝜓
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+=
+0
+Séparation des variables (Ansatz de guide d'ondes) :
+
+ψ
+(
+x
+,
+y
+,
+z
+)
+=
+ϕ
+(
+x
+,
+y
+)
+e
+−
+i
+β
+z
+𝜓
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+=
+𝜙
+(
+𝑥
+,
+𝑦
+)
+𝑒
+−
+𝑖
+𝛽
+𝑧
+Équation transverse (Réduction sur la section 
+F
+𝐹
+) :
+
+∇
+⟂
+2
+ϕ
+(
+x
+,
+y
+)
+=
+−
+(
+k
+2
+−
+β
+2
+)
+ϕ
+(
+x
+,
+y
+)
+,
+avec
+𝜕
+ϕ
+𝜕
+n
+|
+𝜕
+F
+=
+0
+∇
+2
+⟂
+𝜙
+(
+𝑥
+,
+𝑦
+)
+=
+−
+(
+𝑘
+2
+−
+𝛽
+2
+)
+𝜙
+(
+𝑥
+,
+𝑦
+)
+,
+a
+v
+e
+c
+𝜕
+𝜙
+𝜕
+𝐧
+|
+|
+|
+𝜕
+𝐹
+=
+0
+
+Signification : Le corridor discrétise l'espace en « modes de propagation ». Le flux ne peut circuler de manière stable que si sa fréquence dépasse une valeur critique (fréquence de coupure).
+3. Le Tunnel : Effet Tunnel Quantique et Instantons (Action Euclidienne)
+En physique théorique, un tunnel représente le passage d'un système à travers une barrière de potentiel supérieure à l'énergie du système (
+𝐸
+
+<
+𝑉
+0
+). On résout ce franchissement par l'équation de Schrödinger ou par l'intégrale de chemin en temps imaginaire (Euclidien).
+          Énergie (E)  |       Barrière V₀ (Mur)
+             --->      |      _ _ _ _ _ _ _ _ _
+      _________________|_____|                 |_________________
+
+                             |<- Atténuation ->|  ---> Transmission
+                             |   e^{-2Kx}      |       (Onde plane)
+Équation de Schrödinger stationnaire (1D) :
+
+−
+ℏ
+2
+2
+m
+d
+2
+ψ
+(
+x
+)
+d
+x
+2
++
+V
+(
+x
+)
+ψ
+(
+x
+)
+=
+E
+ψ
+(
+x
+)
+−
+ℏ
+2
+2
+𝑚
+𝑑
+2
+𝜓
+(
+𝑥
+)
+𝑑
+𝑥
+2
++
+𝑉
+(
+𝑥
+)
+𝜓
+(
+𝑥
+)
+=
+𝐸
+𝜓
+(
+𝑥
+)
+Solution à l'intérieur de la barrière (
+𝑉
+
+(
+
+𝑥
+
+)
+
+=
+𝑉
+0
+
+>
+𝐸
+) :
+
+ψ
+(
+x
+)
+=
+A
+e
+−
+κ
+x
++
+B
+e
+κ
+x
+,
+où
+κ
+=
+2
+m
+(
+V
+0
+−
+E
+)
+ℏ
+𝜓
+(
+𝑥
+)
+=
+𝐴
+𝑒
+−
+𝜅
+𝑥
++
+𝐵
+𝑒
+𝜅
+𝑥
+,
+o
+ù
+𝜅
+=
+2
+𝑚
+(
+𝑉
+0
+−
+𝐸
+)
+√
+ℏ
+Coefficient de transmission semi-classique (WKB - Formalisme d'Instanton) :
+
+T
+≈
+exp
+(
+−
+2
+ℏ
+∫
+x
+1
+x
+2
+2
+m
+(
+V
+(
+x
+)
+−
+E
+)
+d
+x
+)
+=
+e
+−
+S
+E
+/
+ℏ
+𝑇
+≈
+e
+x
+p
+−
+2
+ℏ
+𝑥
+2
+𝑥
+1
+2
+𝑚
+(
+𝑉
+(
+𝑥
+)
+−
+𝐸
+)
+√
+𝑑
+𝑥
+=
+𝑒
+−
+𝑆
+𝐸
+/
+ℏ
+
+Signification : 
+S
+E
+𝑆
+𝐸
+ est l'action Euclidienne de la trajectoire sous la barrière. Le « tunnel » n'est pas une ouverture physique, mais une transition de probabilité non nulle à travers une région classiquement interdite.
+4. La Fondation : Spectre d'Opérateur Self-Adjoint et Noyau de Fredholm
+La fondation d'un espace de données ou d'un espace physique est sa base axiomatique minimale (les briques élémentaires génératrices). On la modélise par la décomposition spectrale d'un opérateur différentiel compact self-adjoint 
+A
+𝐴
+.
+   Espace total (Hilbert H)  =  [ Fondations ] ⊕ [ Structures supérieures ]
+                                     ↓
+                             Chaque état ψ = ∑ c_i · φ_i
+                             (où φ_i sont les vecteurs propres fondamentaux)
+Équation aux valeurs propres (Le Fondement Algébrique) :
+
+A
+ϕ
+n
+=
+λ
+n
+ϕ
+n
+,
+ϕ
+n
+∈
+H
+𝐴
+𝜙
+𝑛
+=
+𝜆
+𝑛
+𝜙
+𝑛
+,
+𝜙
+𝑛
+∈
+ℋ
+Théorème Spectral (Reconstruction de l'espace) :
+
+∀
+ψ
+∈
+H
+,
+ψ
+=
+∑
+n
+=
+1
+∞
+⟨
+ψ
+,
+ϕ
+n
+⟩
+ϕ
+n
+∀
+𝜓
+∈
+ℋ
+,
+𝜓
+=
+∞
+𝑛
+=
+1
+⟨
+𝜓
+,
+𝜙
+𝑛
+⟩
+𝜙
+𝑛
+Formulation par Noyau (Fondation intégrale de Fredholm) :
+
+ψ
+(
+x
+)
+=
+λ
+∫
+Ω
+K
+(
+x
+,
+y
+)
+ψ
+(
+y
+)
+d
+y
+𝜓
+(
+𝑥
+)
+=
+𝜆
+Ω
+𝐾
+(
+𝑥
+,
+𝑦
+)
+𝜓
+(
+𝑦
+)
+𝑑
+𝑦
+
+Signification : Le noyau 
+𝐾
+
+(
+
+𝑥
+
+,
+
+𝑦
+
+)
+ est la structure géométrique de base (la fondation métrique). L'ensemble des fonctions propres 
+ϕ
+n
+𝜙
+𝑛
+ constitue l'ossature irréductible sur laquelle repose toute l'information de l'univers d'étude.
+Synthèse des tenseurs et opérateurs applicables
+Concept Intuitif	Traduction Formelle Doctorale	Opérateur / Tenseur Clé	Invariant Topologique
+Mur	Hypersurface plongée de codimension 1	
+𝐼
+𝐼
+
+(
+
+𝑋
+
+,
+
+𝑌
+
+)
+
+=
+𝑔
+
+(
+
+∇
+𝑋
+
+𝐧
+
+,
+
+𝑌
+
+)
+ (Seconde forme fondamentale)	Classe de Cohomologie de De Rham 
+[
+
+Γ
+
+]
+Corridor	Fibré vectoriel localement trivial	
+∇
+𝐴
+
+=
+𝑑
+
++
+𝐴
+ (Connexion de jauge de confinement)	Holonomie du groupe structurel
+Tunnel	Densité de transition instantonique	
+𝑈
+̂
+
+(
+
+𝑡
+
+)
+
+=
+e
+x
+p
+
+−
+𝑖
+ℏ
+
+𝐻
+̂
+
+𝑡
+(Opérateur d'évolution)	Indice de Fredholm 
+i
+n
+d
+
+(
+
+𝐷
+
+)
+Fondation	Base de Schauder / Spectre irréductible	
+S
+p
+e
+c
+
+(
+
+𝐴
+
+)
+
+⊂
+ℂ
+ (Spectre de l'opérateur)	Dimension de Hausdorff / Rang algébrique
+Pour adapter précisément ces équations à votre modèle de recherche, spécifiez-moi :
+Le type de flux qui interagit avec ces structures (un champ scalaire comme la température, vectoriel comme l'électromagnétisme, ou probabiliste comme une matrice de transition statistique) ?
+Si vous préférez que nous développions le formalisme en milieu continu (variétés différentielles, EDP) ou en milieu discret (topologie des réseaux, matrices de Laplaciennes de graphes) 
+
+Key facts to derive and present:
+
+Logarithmic spiral:
+r
+(
+θ
+)
+=
+a
+e
+b
+θ
+r(θ)=ae 
+bθ
+ 
+or in Cartesian:
+x
+(
+θ
+)
+=
+(
+a
+e
+b
+θ
+cos
+⁡
+θ
+,
+a
+e
+b
+θ
+sin
+⁡
+θ
+)
+x(θ)=(ae 
+bθ
+ cosθ,ae 
+bθ
+ sinθ)
+
+Curvature and radius of curvature:
+For polar curve 
+r
+=
+a
+e
+b
+θ
+r=ae 
+bθ
+ :
+κ
+=
+r
+2
++
+2
+r
+′
+2
+−
+r
+r
+′
+′
+(
+r
+2
++
+r
+′
+2
+)
+3
+/
+2
+κ= 
+(r 
+2
+ +r 
+′2
+ ) 
+3/2
+ 
+r 
+2
+ +2r 
+′2
+ −rr 
+′′
+ 
+​	
+ 
+With 
+r
+′
+=
+a
+b
+e
+b
+θ
+=
+b
+r
+r 
+′
+ =abe 
+bθ
+ =br, 
+r
+′
+′
+=
+a
+b
+2
+e
+b
+θ
+=
+b
+2
+r
+r 
+′′
+ =ab 
+2
+ e 
+bθ
+ =b 
+2
+ r:
+
+r
+2
++
+2
+r
+′
+2
+−
+r
+r
+′
+′
+=
+r
+2
+(
+1
++
+2
+b
+2
+−
+b
+2
+)
+=
+r
+2
+(
+1
++
+b
+2
+)
+r 
+2
+ +2r 
+′2
+ −rr 
+′′
+ =r 
+2
+ (1+2b 
+2
+ −b 
+2
+ )=r 
+2
+ (1+b 
+2
+ )
+(
+r
+2
++
+r
+′
+2
+)
+3
+/
+2
+=
+(
+r
+2
+(
+1
++
+b
+2
+)
+)
+3
+/
+2
+=
+r
+3
+(
+1
++
+b
+2
+)
+3
+/
+2
+(r 
+2
+ +r 
+′2
+ ) 
+3/2
+ =(r 
+2
+ (1+b 
+2
+ )) 
+3/2
+ =r 
+3
+ (1+b 
+2
+ ) 
+3/2
+ 
+So:
+κ
+=
+r
+2
+(
+1
++
+b
+2
+)
+r
+3
+(
+1
++
+b
+2
+)
+3
+/
+2
+=
+1
+r
+1
++
+b
+2
+κ= 
+r 
+3
+ (1+b 
+2
+ ) 
+3/2
+ 
+r 
+2
+ (1+b 
+2
+ )
+​	
+ = 
+r 
+1+b 
+2
+ 
+​	
+ 
+1
+​	
+ 
+Radius of curvature: 
+ρ
+=
+r
+1
++
+b
+2
+ρ=r 
+1+b 
+2
+ 
+​	
+ .
+Unit tangent and normal:
+t
+=
+d
+x
+/
+d
+θ
+∣
+d
+x
+/
+d
+θ
+∣
+t= 
+∣dx/dθ∣
+dx/dθ
+​	
+ 
+d
+x
+d
+θ
+=
+(
+a
+e
+b
+θ
+(
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+)
+,
+a
+e
+b
+θ
+(
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+)
+dθ
+dx
+​	
+ =(ae 
+bθ
+ (bcosθ−sinθ),ae 
+bθ
+ (bsinθ+cosθ))
+∣
+d
+x
+/
+d
+θ
+∣
+=
+a
+e
+b
+θ
+b
+2
++
+1
+=
+r
+1
++
+b
+2
+∣dx/dθ∣=ae 
+bθ
+  
+b 
+2
+ +1
+​	
+ =r 
+1+b 
+2
+ 
+​	
+ 
+So:
+t
+=
+(
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+,
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+1
++
+b
+2
+t= 
+1+b 
+2
+ 
+​	
+ 
+(bcosθ−sinθ,bsinθ+cosθ)
+​	
+ 
+Unit normal (rotate +90°): 
+n
+=
+(
+−
+sin
+⁡
+θ
+−
+b
+cos
+⁡
+θ
+,
+cos
+⁡
+θ
+−
+b
+sin
+⁡
+θ
+)
+1
++
+b
+2
+n= 
+1+b 
+2
+ 
+​	
+ 
+(−sinθ−bcosθ,cosθ−bsinθ)
+​	
+ ... let me check.
+
+Actually, normal = rotate tangent by 90°: 
+(
+t
+x
+,
+t
+y
+)
+→
+(
+−
+t
+y
+,
+t
+x
+)
+(t 
+x
+​	
+ ,t 
+y
+​	
+ )→(−t 
+y
+​	
+ ,t 
+x
+​	
+ ):
+n
+=
+−
+(
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+,
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+)
+1
++
+b
+2
+n= 
+1+b 
+2
+ 
+​	
+ 
+−(bsinθ+cosθ),bcosθ−sinθ)
+​	
+ 
+
+Center of curvature: 
+C
+(
+θ
+)
+=
+x
+(
+θ
+)
++
+ρ
+n
+C(θ)=x(θ)+ρn.
+
+With 
+ρ
+=
+r
+1
++
+b
+2
+ρ=r 
+1+b 
+2
+ 
+​	
+ :
+C
+(
+θ
+)
+=
+(
+r
+cos
+⁡
+θ
+,
+r
+sin
+⁡
+θ
+)
++
+r
+1
++
+b
+2
+⋅
+n
+C(θ)=(rcosθ,rsinθ)+r 
+1+b 
+2
+ 
+​	
+ ⋅n
+=
+(
+r
+cos
+⁡
+θ
+,
+r
+sin
+⁡
+θ
+)
++
+r
+⋅
+(
+−
+(
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+,
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+)
+=(rcosθ,rsinθ)+r⋅(−(bsinθ+cosθ),bcosθ−sinθ)
+=
+(
+r
+cos
+⁡
+θ
+−
+r
+b
+sin
+⁡
+θ
+−
+r
+cos
+⁡
+θ
+,
+r
+sin
+⁡
+θ
++
+r
+b
+cos
+⁡
+θ
+−
+r
+sin
+⁡
+θ
+)
+=(rcosθ−rbsinθ−rcosθ,rsinθ+rbcosθ−rsinθ)
+=
+(
+−
+r
+b
+sin
+⁡
+θ
+,
+r
+b
+cos
+⁡
+θ
+)
+=(−rbsinθ,rbcosθ)
+=
+r
+b
+(
+−
+sin
+⁡
+θ
+,
+cos
+⁡
+θ
+)
+=rb(−sinθ,cosθ)
+
+Now, 
+(
+−
+sin
+⁡
+θ
+,
+cos
+⁡
+θ
+)
+(−sinθ,cosθ) — this is 
+cos
+⁡
+(
+θ
++
+π
+/
+2
+)
+,
+sin
+⁡
+(
+θ
++
+π
+/
+2
+)
+cos(θ+π/2),sin(θ+π/2) direction. So:
+C
+(
+θ
+)
+=
+r
+b
+⋅
+(
+cos
+⁡
+(
+θ
++
+π
+/
+2
+)
+,
+sin
+⁡
+(
+θ
++
+π
+/
+2
+)
+)
+C(θ)=rb⋅(cos(θ+π/2),sin(θ+π/2))
+
+Now 
+r
+b
+=
+a
+b
+e
+b
+θ
+=
+a
+b
+e
+b
+(
+θ
++
+π
+/
+2
+−
+π
+/
+2
+)
+=
+a
+b
+e
+−
+b
+π
+/
+2
+⋅
+e
+b
+(
+θ
++
+π
+/
+2
+)
+rb=abe 
+bθ
+ =abe 
+b(θ+π/2−π/2)
+ =abe 
+−bπ/2
+ ⋅e 
+b(θ+π/2)
+ .
+
+Let 
+ϕ
+=
+θ
++
+π
+/
+2
+ϕ=θ+π/2. Then:
+C
+=
+a
+b
+e
+−
+b
+π
+/
+2
+⋅
+e
+b
+ϕ
+⋅
+(
+cos
+⁡
+ϕ
+,
+sin
+⁡
+ϕ
+)
+=
+a
+′
+e
+b
+ϕ
+(
+cos
+⁡
+ϕ
+,
+sin
+⁡
+ϕ
+)
+C=abe 
+−bπ/2
+ ⋅e 
+bϕ
+ ⋅(cosϕ,sinϕ)=a 
+′
+ e 
+bϕ
+ (cosϕ,sinϕ)
+with 
+a
+′
+=
+a
+b
+e
+−
+b
+π
+/
+2
+a 
+′
+ =abe 
+−bπ/2
+ .
+
+This is the evolute — a logarithmic spiral of the SAME 
+b
+b, rotated by 
+π
+/
+2
+π/2 and scaled by factor 
+e
+−
+b
+π
+/
+2
+e 
+−bπ/2
+ .
+
+That's the classic theorem, and now it's proven cold.
+
+Involute:
+The involute of a curve 
+x
+(
+s
+)
+x(s) parametrized by arc length is:
+I
+(
+s
+)
+=
+x
+(
+s
+)
+−
+s
+t
+(
+s
+)
++
+s
+0
+t
+(
+s
+)
+I(s)=x(s)−st(s)+s 
+0
+​	
+ t(s)
+More precisely, the involute starting at 
+s
+0
+s 
+0
+​	
+  is:
+I
+(
+s
+)
+=
+x
+(
+s
+)
+−
+(
+s
+−
+s
+0
+)
+t
+(
+s
+)
+I(s)=x(s)−(s−s 
+0
+​	
+ )t(s)
+
+For the log spiral, arc length from 
+θ
+0
+θ 
+0
+​	
+ :
+s
+(
+θ
+)
+=
+∫
+θ
+0
+θ
+∣
+x
+′
+(
+τ
+)
+∣
+d
+τ
+=
+∫
+a
+1
++
+b
+2
+e
+b
+τ
+d
+τ
+=
+a
+1
++
+b
+2
+b
+(
+e
+b
+θ
+−
+e
+b
+θ
+0
+)
+s(θ)=∫ 
+θ 
+0
+​	
+ 
+θ
+​	
+ ∣x 
+′
+ (τ)∣dτ=∫a 
+1+b 
+2
+ 
+​	
+ e 
+bτ
+ dτ= 
+b
+a 
+1+b 
+2
+ 
+​	
+ 
+​	
+ (e 
+bθ
+ −e 
+bθ 
+0
+​	
+ 
+ )
+
+So 
+s
+(
+θ
+)
+−
+s
+(
+θ
+0
+)
+=
+a
+1
++
+b
+2
+b
+(
+e
+b
+θ
+−
+e
+b
+θ
+0
+)
+s(θ)−s(θ 
+0
+​	
+ )= 
+b
+a 
+1+b 
+2
+ 
+​	
+ 
+​	
+ (e 
+bθ
+ −e 
+bθ 
+0
+​	
+ 
+ ) when we set the starting parameter 
+θ
+0
+θ 
+0
+​	
+ . Wait, let me redo this. If 
+θ
+0
+θ 
+0
+​	
+  is the starting point, then 
+s
+s measures arc length from 
+θ
+0
+θ 
+0
+​	
+ . Actually let's set
+θ
+0
+=
+0
+θ 
+0
+​	
+ =0 and just parametrize.
+
+I
+(
+θ
+)
+=
+x
+(
+θ
+)
+−
+s
+(
+θ
+)
+t
+(
+θ
+)
+I(θ)=x(θ)−s(θ)t(θ) where 
+s
+(
+θ
+)
+=
+a
+1
++
+b
+2
+b
+(
+e
+b
+θ
+−
+1
+)
+s(θ)= 
+b
+a 
+1+b 
+2
+ 
+​	
+ 
+​	
+ (e 
+bθ
+ −1)
+
+With 
+x
+(
+θ
+)
+=
+a
+e
+b
+θ
+(
+cos
+⁡
+θ
+,
+sin
+⁡
+θ
+)
+x(θ)=ae 
+bθ
+ (cosθ,sinθ) and 
+t
+(
+θ
+)
+=
+(
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+,
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+1
++
+b
+2
+t(θ)= 
+1+b 
+2
+ 
+​	
+ 
+(bcosθ−sinθ,bsinθ+cosθ)
+​	
+ :
+
+s
+t
+=
+a
+1
++
+b
+2
+b
+(
+e
+b
+θ
+−
+1
+)
+⋅
+(
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+,
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+1
++
+b
+2
+st= 
+b
+a 
+1+b 
+2
+ 
+​	
+ 
+​	
+ (e 
+bθ
+ −1)⋅ 
+1+b 
+2
+ 
+​	
+ 
+(bcosθ−sinθ,bsinθ+cosθ)
+​	
+ 
+=
+a
+b
+(
+e
+b
+θ
+−
+1
+)
+(
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+,
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+= 
+b
+a
+​	
+ (e 
+bθ
+ −1)(bcosθ−sinθ,bsinθ+cosθ)
+
+I
+(
+θ
+)
+=
+a
+e
+b
+θ
+(
+cos
+⁡
+θ
+,
+sin
+⁡
+θ
+)
+−
+a
+b
+(
+e
+b
+θ
+−
+1
+)
+(
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+,
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+I(θ)=ae 
+bθ
+ (cosθ,sinθ)− 
+b
+a
+​	
+ (e 
+bθ
+ −1)(bcosθ−sinθ,bsinθ+cosθ)
+
+Let me try a cleaner approach. Actually, the involute of the log spiral is also a log spiral. Let's verify by working through carefully.
+
+Actually, there's a well-known result: involute of a log spiral is another log spiral rotated by 
+π
+/
+2
+π/2 minus something. Let me look up: I recall the involute of log spiral 
+r
+=
+e
+a
+θ
+r=e 
+aθ
+  is 
+r
+=
+1
+a
+1
++
+a
+2
+e
+a
+θ
+r= 
+a
+1
+​	
+  
+1+a 
+2
+ 
+​	
+ e 
+aθ
+  rotated. Hmm, let me derive properly.
+
+Alternative clean derivation using complex numbers:
+Let 
+z
+(
+θ
+)
+=
+a
+e
+(
+b
++
+i
+)
+θ
+z(θ)=ae 
+(b+i)θ
+  (since log spiral in complex: 
+z
+=
+r
+e
+i
+θ
+=
+a
+e
+b
+θ
+e
+i
+θ
+z=re 
+iθ
+ =ae 
+bθ
+ e 
+iθ
+ ).
+
+Then 
+z
+′
+=
+a
+(
+b
++
+i
+)
+e
+(
+b
++
+i
+)
+θ
+z 
+′
+ =a(b+i)e 
+(b+i)θ
+ .
+Arc length element 
+d
+s
+=
+∣
+z
+′
+∣
+d
+θ
+=
+a
+b
+2
++
+1
+e
+b
+θ
+d
+θ
+ds=∣z 
+′
+ ∣dθ=a 
+b 
+2
+ +1
+​	
+ e 
+bθ
+ dθ.
+s
+(
+θ
+)
+=
+a
+b
+2
++
+1
+b
+e
+b
+θ
++
+C
+s(θ)= 
+b
+a 
+b 
+2
+ +1
+​	
+ 
+​	
+ e 
+bθ
+ +C.
+
+Unit tangent: 
+T
+=
+z
+′
+/
+∣
+z
+′
+∣
+=
+(
+b
++
+i
+)
+b
+2
++
+1
+e
+(
+b
++
+i
+)
+θ
+−
+b
+θ
+⋅
+e
+b
+θ
+T=z 
+′
+ /∣z 
+′
+ ∣= 
+b 
+2
+ +1
+​	
+ 
+(b+i)
+​	
+ e 
+(b+i)θ−bθ
+ ⋅e 
+bθ
+  — hmm that's messy. Let me just use 
+T
+=
+b
++
+i
+1
++
+b
+2
+⋅
+e
+i
+θ
+T= 
+1+b 
+2
+ 
+​	
+ 
+b+i
+​	
+ ⋅e 
+iθ
+  since 
+z
+′
+/
+∣
+z
+′
+∣
+=
+a
+(
+b
++
+i
+)
+e
+(
+b
++
+i
+)
+θ
+a
+1
++
+b
+2
+e
+b
+θ
+=
+b
++
+i
+1
++
+b
+2
+e
+i
+θ
+z 
+′
+ /∣z 
+′
+ ∣= 
+a 
+1+b 
+2
+ 
+​	
+ e 
+bθ
+ 
+a(b+i)e 
+(b+i)θ
+ 
+​	
+ = 
+1+b 
+2
+ 
+​	
+ 
+b+i
+​	
+ e 
+iθ
+ .
+
+Involute: 
+ζ
+(
+s
+)
+=
+z
+(
+s
+)
+−
+s
+T
+(
+s
+)
+ζ(s)=z(s)−sT(s) (with origin at start of involute).
+
+Set 
+s
+0
+=
+0
+s 
+0
+​	
+ =0 at 
+θ
+0
+θ 
+0
+​	
+ :
+s
+(
+θ
+)
+−
+s
+(
+θ
+0
+)
+=
+a
+1
++
+b
+2
+b
+(
+e
+b
+θ
+−
+e
+b
+θ
+0
+)
+s(θ)−s(θ 
+0
+​	
+ )= 
+b
+a 
+1+b 
+2
+ 
+​	
+ 
+​	
+ (e 
+bθ
+ −e 
+bθ 
+0
+​	
+ 
+ )
+
+ζ
+(
+θ
+)
+=
+z
+(
+θ
+)
+−
+a
+1
++
+b
+2
+b
+(
+e
+b
+θ
+−
+e
+b
+θ
+0
+)
+⋅
+b
++
+i
+1
++
+b
+2
+e
+i
+θ
+ζ(θ)=z(θ)− 
+b
+a 
+1+b 
+2
+ 
+​	
+ 
+​	
+ (e 
+bθ
+ −e 
+bθ 
+0
+​	
+ 
+ )⋅ 
+1+b 
+2
+ 
+​	
+ 
+b+i
+​	
+ e 
+iθ
+ 
+=
+a
+e
+(
+b
++
+i
+)
+θ
+−
+a
+(
+b
++
+i
+)
+b
+(
+e
+b
+θ
+−
+e
+b
+θ
+0
+)
+e
+i
+θ
+=ae 
+(b+i)θ
+ − 
+b
+a(b+i)
+​	
+ (e 
+bθ
+ −e 
+bθ 
+0
+​	
+ 
+ )e 
+iθ
+ 
+=
+a
+e
+b
+θ
+e
+i
+θ
+−
+a
+(
+b
++
+i
+)
+b
+e
+b
+θ
+e
+i
+θ
++
+a
+(
+b
++
+i
+)
+b
+e
+b
+θ
+0
+e
+i
+θ
+=ae 
+bθ
+ e 
+iθ
+ − 
+b
+a(b+i)
+​	
+ e 
+bθ
+ e 
+iθ
+ + 
+b
+a(b+i)
+​	
+ e 
+bθ 
+0
+​	
+ 
+ e 
+iθ
+ 
+=
+a
+e
+b
+θ
+e
+i
+θ
+[
+1
+−
+b
++
+i
+b
+]
++
+a
+(
+b
++
+i
+)
+b
+e
+b
+θ
+0
+e
+i
+θ
+=ae 
+bθ
+ e 
+iθ
+ [1− 
+b
+b+i
+​	
+ ]+ 
+b
+a(b+i)
+​	
+ e 
+bθ 
+0
+​	
+ 
+ e 
+iθ
+ 
+=
+a
+e
+b
+θ
+e
+i
+θ
+⋅
+b
+−
+b
+−
+i
+b
++
+a
+(
+b
++
+i
+)
+b
+e
+b
+θ
+0
+e
+i
+θ
+=ae 
+bθ
+ e 
+iθ
+ ⋅ 
+b
+b−b−i
+​	
+ + 
+b
+a(b+i)
+​	
+ e 
+bθ 
+0
+​	
+ 
+ e 
+iθ
+ 
+=
+a
+e
+(
+b
++
+i
+)
+θ
+⋅
+−
+i
+b
++
+a
+(
+b
++
+i
+)
+b
+e
+b
+θ
+0
+e
+i
+θ
+=ae 
+(b+i)θ
+ ⋅ 
+b
+−i
+​	
+ + 
+b
+a(b+i)
+​	
+ e 
+bθ 
+0
+​	
+ 
+ e 
+iθ
+ 
+
+The second term is a constant times 
+e
+i
+θ
+e 
+iθ
+ , not 
+e
+(
+b
++
+i
+)
+θ
+e 
+(b+i)θ
+ . Hmm, that's the translation due to choice of 
+θ
+0
+θ 
+0
+​	
+ . If we set 
+θ
+0
+→
+−
+∞
+θ 
+0
+​	
+ →−∞ it disappears.
+
+Take 
+θ
+0
+→
+−
+∞
+θ 
+0
+​	
+ →−∞ (so the involute starts "at infinity"):
+ζ
+(
+θ
+)
+=
+−
+a
+i
+b
+e
+(
+b
++
+i
+)
+θ
+=
+a
+b
+e
+−
+i
+π
+/
+2
+e
+(
+b
++
+i
+)
+θ
+=
+a
+b
+e
+b
+θ
+e
+i
+(
+θ
+−
+π
+/
+2
+)
+ζ(θ)= 
+b
+−ai
+​	
+ e 
+(b+i)θ
+ = 
+b
+a
+​	
+ e 
+−iπ/2
+ e 
+(b+i)θ
+ = 
+b
+a
+​	
+ e 
+bθ
+ e 
+i(θ−π/2)
+ 
+
+This is a logarithmic spiral with amplitude 
+a
+/
+b
+a/b, same 
+b
+b, rotated by 
+−
+π
+/
+2
+−π/2.
+
+Wait, so the involute has amplitude 
+a
+/
+b
+a/b and the evolute (from before) has amplitude 
+a
+b
+e
+−
+b
+π
+/
+2
+abe 
+−bπ/2
+  and is rotated by 
++
+π
+/
+2
++π/2.
+
+Let me re-examine. Actually for the involute I should double check. Hmm, let me redo the evolute using complex.
+
+Evolute via complex:
+Curvature 
+κ
+=
+1
+/
+(
+r
+1
++
+b
+2
+)
+κ=1/(r 
+1+b 
+2
+ 
+​	
+ ), so radius of curvature 
+ρ
+=
+r
+1
++
+b
+2
+ρ=r 
+1+b 
+2
+ 
+​	
+ .
+
+The center of curvature is 
+z
++
+i
+ρ
+⋅
+(
+unit normal
+)
+z+iρ⋅(unit normal). The unit normal (pointing toward center of curvature) is 
+i
+T
+iT if curvature is positive.
+
+Actually, center of curvature = 
+z
++
+ρ
+N
+z+ρN where 
+N
+N is unit normal. In complex with 
+T
+T as unit tangent, 
+N
+=
+i
+T
+N=iT (rotation by +90°):
+
+N
+=
+i
+⋅
+b
++
+i
+1
++
+b
+2
+e
+i
+θ
+=
+b
+i
+−
+1
+1
++
+b
+2
+e
+i
+θ
+N=i⋅ 
+1+b 
+2
+ 
+​	
+ 
+b+i
+​	
+ e 
+iθ
+ = 
+1+b 
+2
+ 
+​	
+ 
+bi−1
+​	
+ e 
+iθ
+ 
+
+ρ
+N
+=
+r
+1
++
+b
+2
+⋅
+b
+i
+−
+1
+1
++
+b
+2
+e
+i
+θ
+=
+r
+(
+b
+i
+−
+1
+)
+e
+i
+θ
+=
+a
+e
+b
+θ
+(
+b
+i
+−
+1
+)
+e
+i
+θ
+ρN=r 
+1+b 
+2
+ 
+​	
+ ⋅ 
+1+b 
+2
+ 
+​	
+ 
+bi−1
+​	
+ e 
+iθ
+ =r(bi−1)e 
+iθ
+ =ae 
+bθ
+ (bi−1)e 
+iθ
+ 
+
+Center 
+C
+=
+z
++
+ρ
+N
+=
+a
+e
+(
+b
++
+i
+)
+θ
++
+a
+e
+b
+θ
+(
+b
+i
+−
+1
+)
+e
+i
+θ
+=
+a
+e
+b
+θ
+e
+i
+θ
+[
+1
++
+b
+i
+−
+1
+]
+=
+a
+e
+b
+θ
+⋅
+b
+i
+⋅
+e
+i
+θ
+=
+a
+b
+i
+e
+(
+b
++
+i
+)
+θ
+C=z+ρN=ae 
+(b+i)θ
+ +ae 
+bθ
+ (bi−1)e 
+iθ
+ =ae 
+bθ
+ e 
+iθ
+ [1+bi−1]=ae 
+bθ
+ ⋅bi⋅e 
+iθ
+ =abie 
+(b+i)θ
+ 
+
+=
+a
+b
+e
+i
+π
+/
+2
+e
+(
+b
++
+i
+)
+θ
+=
+a
+b
+e
+b
+θ
+e
+i
+(
+θ
++
+π
+/
+2
+)
+=abe 
+iπ/2
+ e 
+(b+i)θ
+ =abe 
+bθ
+ e 
+i(θ+π/2)
+ 
+
+So evolute: amplitude 
+a
+b
+ab, rotated by 
++
+π
+/
+2
++π/2, same 
+b
+b.
+
+Hmm, this differs from my earlier calculation because I made an error. Let me recheck. Earlier I had 
+C
+=
+(
+−
+r
+b
+sin
+⁡
+θ
+,
+r
+b
+cos
+⁡
+θ
+)
+C=(−rbsinθ,rbcosθ). Let's verify with the complex result:
+a
+b
+i
+e
+(
+b
++
+i
+)
+θ
+=
+a
+b
+i
+e
+b
+θ
+(
+cos
+⁡
+θ
++
+i
+sin
+⁡
+θ
+)
+abie 
+(b+i)θ
+ =abie 
+bθ
+ (cosθ+isinθ).
+a
+b
+i
+⋅
+(
+cos
+⁡
+θ
++
+i
+sin
+⁡
+θ
+)
+=
+a
+b
+⋅
+(
+cos
+⁡
+θ
++
+i
+sin
+⁡
+θ
+)
+⋅
+i
+=
+a
+b
+⋅
+(
+i
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+)
+=
+a
+b
+(
+−
+sin
+⁡
+θ
+,
+cos
+⁡
+θ
+)
+abi⋅(cosθ+isinθ)=ab⋅(cosθ+isinθ)⋅i=ab⋅(icosθ−sinθ)=ab(−sinθ,cosθ) — yes, that matches.
+
+And 
+(
+−
+sin
+⁡
+θ
+,
+cos
+⁡
+θ
+)
+=
+(
+cos
+⁡
+(
+θ
++
+π
+/
+2
+)
+,
+sin
+⁡
+(
+θ
++
+π
+/
+2
+)
+)
+(−sinθ,cosθ)=(cos(θ+π/2),sin(θ+π/2)). So
+C
+=
+a
+b
+(
+cos
+⁡
+(
+θ
++
+π
+/
+2
+)
+,
+sin
+⁡
+(
+θ
++
+π
+/
+2
+)
+)
+C=ab(cos(θ+π/2),sin(θ+π/2)). But that's not a log spiral yet — because the amplitude isn't 
+r
+(
+θ
++
+π
+/
+2
+)
+r(θ+π/2). We have
+a
+b
+ab constant, but 
+r
+(
+θ
++
+π
+/
+2
+)
+=
+a
+e
+b
+(
+θ
++
+π
+/
+2
+)
+r(θ+π/2)=ae 
+b(θ+π/2)
+ . Let me write it as:
+
+C
+(
+θ
+)
+=
+a
+b
+e
+b
+θ
+⋅
+e
+i
+(
+θ
++
+π
+/
+2
+)
+/
+e
+b
+θ
+C(θ)=abe 
+bθ
+ ⋅e 
+i(θ+π/2)
+ /e 
+bθ
+ ... no.
+
+Actually 
+C
+=
+a
+b
+⋅
+e
+i
+(
+θ
++
+π
+/
+2
+)
+C=ab⋅e 
+i(θ+π/2)
+ . That's a circle, not a log spiral! Because the amplitude is constant 
+a
+b
+ab.
+
+Wait, I made an error. Let me redo: 
+C
+=
+a
+b
+i
+e
+(
+b
++
+i
+)
+θ
+C=abie 
+(b+i)θ
+ . This is 
+a
+b
+⋅
+e
+i
+π
+/
+2
+⋅
+e
+(
+b
++
+i
+)
+θ
+=
+a
+b
+e
+b
+θ
+e
+i
+(
+θ
++
+π
+/
+2
+)
+ab⋅e 
+iπ/2
+ ⋅e 
+(b+i)θ
+ =abe 
+bθ
+ e 
+i(θ+π/2)
+ .
+
+So amplitude (as a function of parameter 
+θ
+θ) is 
+a
+b
+e
+b
+θ
+abe 
+bθ
+  — which depends on 
+θ
+θ. So it IS a log spiral. Good.
+
+But we should parametrize as a log spiral in its own angle. Let
+ϕ
+=
+θ
++
+π
+/
+2
+ϕ=θ+π/2. Then 
+θ
+=
+ϕ
+−
+π
+/
+2
+θ=ϕ−π/2.
+C
+=
+a
+b
+e
+b
+(
+ϕ
+−
+π
+/
+2
+)
+e
+i
+ϕ
+=
+a
+b
+e
+−
+b
+π
+/
+2
+e
+b
+ϕ
+e
+i
+ϕ
+C=abe 
+b(ϕ−π/2)
+ e 
+iϕ
+ =abe 
+−bπ/2
+ e 
+bϕ
+ e 
+iϕ
+ 
+
+So in terms of parameter 
+ϕ
+ϕ, evolute = log spiral with amplitude
+a
+′
+=
+a
+b
+e
+−
+b
+π
+/
+2
+a 
+′
+ =abe 
+−bπ/2
+ , same 
+b
+b, angle 
+ϕ
+ϕ.
+
+Evolute is a log spiral of same 
+b
+b, amplitude multiplied by
+b
+e
+−
+b
+π
+/
+2
+be 
+−bπ/2
+ , rotated by 
++
+π
+/
+2
++π/2.
+
+Involute (redo):
+ζ
+(
+θ
+)
+=
+a
+b
+e
+b
+θ
+e
+i
+(
+θ
+−
+π
+/
+2
+)
+ζ(θ)= 
+b
+a
+​	
+ e 
+bθ
+ e 
+i(θ−π/2)
+  with 
+θ
+0
+→
+−
+∞
+θ 
+0
+​	
+ →−∞.
+
+Let 
+ϕ
+=
+θ
+−
+π
+/
+2
+ϕ=θ−π/2. Then 
+θ
+=
+ϕ
++
+π
+/
+2
+θ=ϕ+π/2.
+ζ
+=
+a
+b
+e
+b
+(
+ϕ
++
+π
+/
+2
+)
+e
+i
+ϕ
+=
+a
+b
+e
+b
+π
+/
+2
+e
+b
+ϕ
+e
+i
+ϕ
+ζ= 
+b
+a
+​	
+ e 
+b(ϕ+π/2)
+ e 
+iϕ
+ = 
+b
+a
+​	
+ e 
+bπ/2
+ e 
+bϕ
+ e 
+iϕ
+ 
+
+Involute is a log spiral of same 
+b
+b, amplitude multiplied by
+1
+b
+e
+b
+π
+/
+2
+b
+1
+​	
+ e 
+bπ/2
+ , rotated by 
+−
+π
+/
+2
+−π/2.
+
+Product of the two amplitude factors:
+(
+b
+e
+−
+b
+π
+/
+2
+)
+⋅
+(
+1
+b
+e
+b
+π
+/
+2
+)
+=
+1
+(be 
+−bπ/2
+ )⋅( 
+b
+1
+​	
+ e 
+bπ/2
+ )=1
+
+So the evolute and involute amplitudes multiply to the original amplitude: 
+a
+evol
+⋅
+a
+invol
+=
+a
+2
+a 
+evol
+​	
+ ⋅a 
+invol
+​	
+ =a 
+2
+ .
+
+Beautiful and cold. Let me verify: 
+a
+evol
+⋅
+a
+invol
+=
+(
+a
+b
+e
+−
+b
+π
+/
+2
+)
+⋅
+(
+a
+b
+e
+b
+π
+/
+2
+)
+=
+a
+2
+a 
+evol
+​	
+ ⋅a 
+invol
+​	
+ =(abe 
+−bπ/2
+ )⋅( 
+b
+a
+​	
+ e 
+bπ/2
+ )=a 
+2
+ . Yes.
+
+Equations of the curve in Cartesian:
+Let me present the full calculation scheme.
+
+Now, the user wants "something that calculates, something that predicts." So they want to see a concrete prediction.
+
+Prediction: Given 
+b
+b and 
+a
+a and the original spiral, we can predict exactly:
+The evolute: 
+a
+′
+=
+a
+b
+e
+−
+b
+π
+/
+2
+a 
+′
+ =abe 
+−bπ/2
+ , rotated by 
++
+π
+/
+2
++π/2.
+The involute: 
+a
+′
+=
+a
+b
+e
+b
+π
+/
+2
+a 
+′
+ = 
+b
+a
+​	
+ e 
+bπ/2
+ , rotated by 
+−
+π
+/
+2
+−π/2.
+The product identity 
+a
+evol
+⋅
+a
+invol
+=
+a
+2
+a 
+evol
+​	
+ ⋅a 
+invol
+​	
+ =a 
+2
+ .
+Let me also do the loxodromic projection to have "the alter ego of the alter ego."
+
+Stereographic projection from north pole onto tangent plane at south pole:
+On unit sphere, point at colatitude 
+Θ
+Θ, longitude 
+Λ
+Λ:
+(
+X
+,
+Y
+,
+Z
+)
+=
+(
+sin
+⁡
+Θ
+cos
+⁡
+Λ
+,
+sin
+⁡
+Θ
+sin
+⁡
+Λ
+,
+cos
+⁡
+Θ
+)
+(X,Y,Z)=(sinΘcosΛ,sinΘsinΛ,cosΘ).
+
+Stereographic from north pole 
+(
+0
+,
+0
+,
+1
+)
+(0,0,1) to plane 
+Z
+=
+−
+1
+Z=−1:
+(
+x
+,
+y
+)
+=
+(
+2
+sin
+⁡
+Θ
+1
++
+cos
+⁡
+Θ
+cos
+⁡
+Λ
+,
+2
+sin
+⁡
+Θ
+1
++
+cos
+⁡
+Θ
+sin
+⁡
+Λ
+)
+(x,y)=( 
+1+cosΘ
+2sinΘ
+​	
+ cosΛ, 
+1+cosΘ
+2sinΘ
+​	
+ sinΛ)
+
+Wait for projection to 
+Z
+=
+0
+Z=0 plane: 
+(
+x
+,
+y
+)
+=
+(
+sin
+⁡
+Θ
+1
++
+cos
+⁡
+Θ
+cos
+⁡
+Λ
+,
+sin
+⁡
+Θ
+1
++
+cos
+⁡
+Θ
+sin
+⁡
+Λ
+)
+(x,y)=( 
+1+cosΘ
+sinΘ
+​	
+ cosΛ, 
+1+cosΘ
+sinΘ
+​	
+ sinΛ).
+
+Using 
+sin
+⁡
+Θ
+1
++
+cos
+⁡
+Θ
+=
+tan
+⁡
+(
+Θ
+/
+2
+)
+1+cosΘ
+sinΘ
+​	
+ =tan(Θ/2):
+r
+=
+tan
+⁡
+(
+Θ
+/
+2
+)
+r=tan(Θ/2) where 
+r
+=
+x
+2
++
+y
+2
+r= 
+x 
+2
+ +y 
+2
+ 
+​	
+ .
+
+So 
+Θ
+=
+2
+arctan
+⁡
+(
+r
+)
+Θ=2arctan(r).
+
+Loxodrome on sphere: curve making constant angle 
+α
+α with meridians.
+In stereographic projection, meridians = radial lines through origin.
+A curve making constant angle with radial lines = log spiral!
+r
+=
+a
+e
+b
+θ
+r=ae 
+bθ
+  where 
+cot
+⁡
+α
+=
+.
+.
+.
+cotα=...
+
+Actually: in stereographic projection (conformal), angles are preserved. Meridians 
+→
+→ rays, so loxodrome 
+→
+→ curve making angle 
+α
+α with rays 
+=
+= log spiral.
+
+Conversely, given log spiral 
+r
+=
+a
+e
+b
+θ
+r=ae 
+bθ
+  in plane, its stereographic projection to sphere is a loxodrome with angle 
+α
+α where 
+cot
+⁡
+α
+=
+b
+cotα=b (approximately).
+
+Now "the alter ego of the alter ego": What is the evolute of the loxodrome on the sphere?
+
+Since the evolute of the log spiral is another log spiral (rotated, scaled), and the projection is conformal (but not isometric — doesn't preserve geodesic curvature), the evolute on the sphere is NOT simply the stereographic projection of the planar evolute. But there's a natural "spherical evolute" — the locus of centers of spherical curvature (geodesic centers of geodesic curvature).
+
+Hmm, this is getting very advanced. Let me check: geodesic curvature of a loxodrome is constant. Its spherical evolute... Actually the locus of "geodesic curvature centers" of a loxodrome is another loxodrome. Let me not overclaim without checking.
+
+For loxodrome: geodesic curvature 
+κ
+g
+κ 
+g
+​	
+  is constant along the curve. Actually for a loxodrome, 
+κ
+g
+=
+sin
+⁡
+α
+/
+cos
+⁡
+.
+.
+.
+κ 
+g
+​	
+ =sinα/cos... hmm. Let me think. Loxodrome parameter in colatitude 
+t
+=
+π
+/
+2
+−
+ϕ
+t=π/2−ϕ (angle from north pole), longitude 
+λ
+λ: 
+λ
+=
+cot
+⁡
+α
+⋅
+gd
+−
+1
+(
+t
+)
+λ=cotα⋅gd 
+−1
+ (t) where gd is Gudermannian.
+
+Actually let me not go too deep into spherical curvature. The user might appreciate a cleaner statement.
+
+Let me just give the main results cleanly:
+
+Set of 3 identities (which is what we can use to PREDICT):
+Original: 
+z
+0
+(
+θ
+)
+=
+a
+e
+(
+b
++
+i
+)
+θ
+z 
+0
+​	
+ (θ)=ae 
+(b+i)θ
+ 
+Evolute: 
+z
+evol
+(
+θ
+)
+=
+a
+b
+e
+i
+π
+/
+2
+e
+(
+b
++
+i
+)
+θ
+=
+a
+b
+i
+e
+(
+b
++
+i
+)
+θ
+z 
+evol
+​	
+ (θ)=abe 
+iπ/2
+ e 
+(b+i)θ
+ =abie 
+(b+i)θ
+ 
+Involute: 
+z
+invol
+(
+θ
+)
+=
+a
+b
+e
+−
+i
+π
+/
+2
+e
+(
+b
++
+i
+)
+θ
+=
+−
+a
+i
+b
+e
+(
+b
++
+i
+)
+θ
+z 
+invol
+​	
+ (θ)= 
+b
+a
+​	
+ e 
+−iπ/2
+ e 
+(b+i)θ
+ = 
+b
+−ai
+​	
+ e 
+(b+i)θ
+ 
+Product: 
+z
+evol
+/
+z
+0
+=
+b
+i
+z 
+evol
+​	
+ /z 
+0
+​	
+ =bi and 
+z
+invol
+/
+z
+0
+=
+−
+i
+/
+b
+z 
+invol
+​	
+ /z 
+0
+​	
+ =−i/b.
+Therefore: 
+z
+evol
+⋅
+z
+invol
+/
+z
+0
+2
+=
+−
+1
+z 
+evol
+​	
+ ⋅z 
+invol
+​	
+ /z 
+0
+2
+​	
+ =−1, i.e., 
+z
+evol
+⋅
+z
+invol
+=
+−
+z
+0
+2
+z 
+evol
+​	
+ ⋅z 
+invol
+​	
+ =−z 
+0
+2
+​	
+ .
+Hmm that's complex numbers, the ratio is complex, not real. But taking moduli: 
+∣
+z
+evol
+∣
+⋅
+∣
+z
+invol
+∣
+=
+a
+2
+∣z 
+evol
+​	
+ ∣⋅∣z 
+invol
+​	
+ ∣=a 
+2
+ .
+
+Actually: 
+z
+evol
+=
+b
+i
+⋅
+z
+0
+z 
+evol
+​	
+ =bi⋅z 
+0
+​	
+  and 
+z
+invol
+=
+−
+i
+b
+z
+0
+z 
+invol
+​	
+ = 
+b
+−i
+​	
+ z 
+0
+​	
+ . Product:
+z
+evol
+z
+invol
+=
+b
+i
+⋅
+−
+i
+b
+⋅
+z
+0
+2
+=
+−
+i
+2
+z
+0
+2
+=
+z
+0
+2
+z 
+evol
+​	
+ z 
+invol
+​	
+ =bi⋅ 
+b
+−i
+​	
+ ⋅z 
+0
+2
+​	
+ =−i 
+2
+ z 
+0
+2
+​	
+ =z 
+0
+2
+​	
+ .
+
+So 
+z
+evol
+⋅
+z
+invol
+=
+z
+0
+2
+z 
+evol
+​	
+ ⋅z 
+invol
+​	
+ =z 
+0
+2
+​	
+ . That's a beautiful identity.
+
+This means: at every value of the parameter 
+θ
+θ, evolute and involute are positioned such that their product equals the square of the original. Beautiful.
+
+The "two-sided mirror" structure: original is at the "geometric mean" of the two derived curves, in complex number terms.
+
+The sphere:
+On the sphere, parametrize the loxodrome:
+ϕ
+(
+t
+)
+=
+2
+arctan
+⁡
+(
+e
+t
+cot
+⁡
+α
+)
+−
+π
+/
+2
+ϕ(t)=2arctan(e 
+tcotα
+ )−π/2 (latitude as function of 
+t
+t... hmm this is Gudermannian-related)
+λ
+(
+t
+)
+=
+t
+λ(t)=t (longitude).
+
+Actually simpler: 
+λ
+=
+t
+λ=t, and 
+ϕ
+ϕ satisfies 
+d
+ϕ
+d
+λ
+=
+cos
+⁡
+α
+⋅
+dλ
+dϕ
+​	
+ =cosα⋅ something. Let me use: 
+d
+ϕ
+/
+d
+λ
+=
+cos
+⁡
+α
+dϕ/dλ=cosα for unit sphere with standard convention (latitude 
+ϕ
+ϕ, so meridian tangents have length 
+cos
+⁡
+ϕ
+cosϕ).
+
+Length along a small arc: 
+d
+s
+2
+=
+d
+ϕ
+2
++
+cos
+⁡
+2
+ϕ
+ 
+d
+λ
+2
+ds 
+2
+ =dϕ 
+2
+ +cos 
+2
+ ϕdλ 
+2
+ . Angle 
+α
+α with meridian: 
+tan
+⁡
+α
+=
+cos
+⁡
+ϕ
+ 
+d
+λ
+d
+ϕ
+tanα= 
+dϕ
+cosϕdλ
+​	
+ , so 
+d
+λ
+d
+ϕ
+=
+tan
+⁡
+α
+cos
+⁡
+ϕ
+dϕ
+dλ
+​	
+ = 
+cosϕ
+tanα
+​	
+ . Integrating:
+λ
+=
+tan
+⁡
+α
+⋅
+gd
+−
+1
+(
+ϕ
+)
+λ=tanα⋅gd 
+−1
+ (ϕ) where 
+gd
+−
+1
+(
+ϕ
+)
+=
+ln
+⁡
+tan
+⁡
+(
+ϕ
+/
+2
++
+π
+/
+4
+)
+=
+artanh
+(
+sin
+⁡
+ϕ
+)
+gd 
+−1
+ (ϕ)=lntan(ϕ/2+π/4)=artanh(sinϕ).
+
+Good, that's standard. Now let me look at the geodesic curvature.
+
+For a curve on a sphere, geodesic curvature is 
+κ
+g
+=
+d
+α
+d
+s
++
+sin
+⁡
+α
+⋅
+cos
+⁡
+ϕ
+⋅
+d
+λ
+d
+s
+κ 
+g
+​	
+ = 
+ds
+dα
+​	
+ +sinα⋅cosϕ⋅ 
+ds
+dλ
+​	
+ ... hmm, let me just state the result: for a loxodrome, 
+κ
+g
+κ 
+g
+​	
+  is constant.
+
+If 
+κ
+g
+κ 
+g
+​	
+  is constant and positive, the "spherical evolute" — the locus of centers of geodesic curvature — is another loxodrome (parallel to the first in the sense of the spherical geometry). Actually I'm not 100% sure; let me not overclaim.
+
+Safer prediction for the sphere:
+Let me just state: the spherical analogue of the evolute construction (using geodesic curvature centers) of a loxodrome is another loxodrome, rotated and possibly shifted in colatitude.
+
+Actually, I know from literature that the evolute/involute of a loxodrome exist on the sphere and are loxodromes, but I'm not confident of the exact formula. Let me derive via the conformal projection principle.
+
+Under conformal map, geodesic curvature is scaled by the conformal factor. For stereographic projection, the conformal factor is known. If the evolute in the plane is a log spiral (which we've established), then its stereographic lift is a loxodrome. So the stereographic lift of the planar evolute is a natural candidate for the "spherical evolute." But is it the geodesic evolute? Hmm, conformal maps preserve angles but not geodesics, so the geodesic evolute and the lift of the planar evolute would differ in general.
+
+Given the user wants precision and I'm at risk of overclaiming, let me focus on the planar results, which are rock-solid, and just mention the spherical version qualitatively but honestly.
+
+Actually, let me pivot: the user said "point de faiblesse," "calcul pur," "quelque chose qui prédit." Let me give a fully concrete prediction calculation.
+
+Example: 
+a
+=
+1
+a=1, 
+b
+=
+0.2
+b=0.2.
+
+Original: 
+r
+=
+e
+0.2
+θ
+r=e 
+0.2θ
+ 
+Evolute: amplitude 
+0.2
+e
+−
+0.2
+π
+/
+2
+=
+0.2
+e
+−
+0.314
+=
+0.2
+×
+0.7306
+=
+0.1461
+0.2e 
+−0.2π/2
+ =0.2e 
+−0.314
+ =0.2×0.7306=0.1461, same 
+b
+=
+0.2
+b=0.2, rotated by 
++
+π
+/
+2
+=
+90
+°
++π/2=90°.
+Involute: amplitude 
+1
+0.2
+e
+0.2
+π
+/
+2
+=
+5
+×
+1.369
+=
+6.847
+0.2
+1
+​	
+ e 
+0.2π/2
+ =5×1.369=6.847, same
+b
+=
+0.2
+b=0.2, rotated by 
+−
+90
+°
+−90°.
+Product check: 
+0.1461
+×
+6.847
+=
+1.0002
+≈
+1
+=
+a
+2
+0.1461×6.847=1.0002≈1=a 
+2
+ . ✓
+That's a concrete prediction we can verify.
+
+OK let me structure the answer:
+Équations de base (paramétrage complexe).
+Courbure et rayon de courbure — calcul froid.
+Développée (evolute) — full derivation with result.
+Développante (involute) — full derivation with result.
+L'identité prédictive — 
+z
+evol
+⋅
+z
+invol
+=
+z
+0
+2
+z 
+evol
+​	
+ ⋅z 
+invol
+​	
+ =z 
+0
+2
+​	
+ , product of amplitudes 
+=
+a
+2
+=a 
+2
+ .
+Prédiction chiffrée — a=1, b=0.2, compute and verify.
+Le point fixe — the pole at origin.
+Le passage à la sphère — loxodrome, and the honest statement.
+Let me be careful and rigorous. Let me format equations properly for Claude's rendering. Use LaTeX with 
+.
+.
+.
+... inline and
+.
+.
+.
+... display.
+
+Actually looking back, the user uses "yo" a lot and speaks franglais. Let me respond in French, match their energy but stay cold and mathematical. "Docteur Paradoxal" register — playful but rigorous.
+
+Let me be careful with the derivation of the involute. Let me re-derive more carefully.
+
+Actually let me redo the involute directly with real coordinates to verify.
+
+Log spiral: 
+x
+(
+θ
+)
+=
+(
+a
+e
+b
+θ
+cos
+⁡
+θ
+,
+a
+e
+b
+θ
+sin
+⁡
+θ
+)
+x(θ)=(ae 
+bθ
+ cosθ,ae 
+bθ
+ sinθ).
+Tangent: 
+x
+′
+(
+θ
+)
+=
+a
+e
+b
+θ
+(
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+,
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+x 
+′
+ (θ)=ae 
+bθ
+ (bcosθ−sinθ,bsinθ+cosθ).
+Speed: 
+∣
+x
+′
+∣
+=
+a
+e
+b
+θ
+b
+2
++
+1
+∣x 
+′
+ ∣=ae 
+bθ
+  
+b 
+2
+ +1
+​	
+ .
+Unit tangent: 
+T
+(
+θ
+)
+=
+(
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+,
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+b
+2
++
+1
+T(θ)= 
+b 
+2
+ +1
+​	
+ 
+(bcosθ−sinθ,bsinθ+cosθ)
+​	
+ .
+Arc length: 
+s
+(
+θ
+)
+=
+a
+b
+2
++
+1
+b
+(
+e
+b
+θ
+−
+1
+)
+s(θ)= 
+b
+a 
+b 
+2
+ +1
+​	
+ 
+​	
+ (e 
+bθ
+ −1) (taking 
+s
+(
+0
+)
+=
+0
+s(0)=0... actually
+s
+(
+θ
+)
+=
+∫
+0
+θ
+∣
+x
+′
+∣
+d
+τ
+=
+a
+b
+2
++
+1
+b
+(
+e
+b
+θ
+−
+1
+)
+s(θ)=∫ 
+0
+θ
+​	
+ ∣x 
+′
+ ∣dτ= 
+b
+a 
+b 
+2
+ +1
+​	
+ 
+​	
+ (e 
+bθ
+ −1)).
+
+Involute starting at 
+θ
+=
+0
+θ=0:
+I
+(
+θ
+)
+=
+x
+(
+θ
+)
+−
+s
+(
+θ
+)
+T
+(
+θ
+)
+I(θ)=x(θ)−s(θ)T(θ)
+
+=
+a
+e
+b
+θ
+(
+cos
+⁡
+θ
+,
+sin
+⁡
+θ
+)
+−
+a
+b
+2
++
+1
+b
+(
+e
+b
+θ
+−
+1
+)
+⋅
+(
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+,
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+b
+2
++
+1
+=ae 
+bθ
+ (cosθ,sinθ)− 
+b
+a 
+b 
+2
+ +1
+​	
+ 
+​	
+ (e 
+bθ
+ −1)⋅ 
+b 
+2
+ +1
+​	
+ 
+(bcosθ−sinθ,bsinθ+cosθ)
+​	
+ 
+
+=
+a
+e
+b
+θ
+(
+cos
+⁡
+θ
+,
+sin
+⁡
+θ
+)
+−
+a
+b
+(
+e
+b
+θ
+−
+1
+)
+(
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+,
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+=ae 
+bθ
+ (cosθ,sinθ)− 
+b
+a
+​	
+ (e 
+bθ
+ −1)(bcosθ−sinθ,bsinθ+cosθ)
+
+Component 1 (x):
+=
+a
+e
+b
+θ
+cos
+⁡
+θ
+−
+a
+b
+(
+e
+b
+θ
+−
+1
+)
+(
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+)
+=ae 
+bθ
+ cosθ− 
+b
+a
+​	
+ (e 
+bθ
+ −1)(bcosθ−sinθ)
+=
+a
+e
+b
+θ
+cos
+⁡
+θ
+−
+a
+e
+b
+θ
+cos
+⁡
+θ
++
+a
+b
+e
+b
+θ
+sin
+⁡
+θ
++
+a
+cos
+⁡
+θ
+−
+a
+b
+sin
+⁡
+θ
+=ae 
+bθ
+ cosθ−ae 
+bθ
+ cosθ+ 
+b
+a
+​	
+ e 
+bθ
+ sinθ+acosθ− 
+b
+a
+​	
+ sinθ
+=
+a
+b
+e
+b
+θ
+sin
+⁡
+θ
++
+a
+cos
+⁡
+θ
+−
+a
+b
+sin
+⁡
+θ
+= 
+b
+a
+​	
+ e 
+bθ
+ sinθ+acosθ− 
+b
+a
+​	
+ sinθ
+=
+a
+b
+e
+b
+θ
+sin
+⁡
+θ
++
+a
+(
+cos
+⁡
+θ
+−
+1
+b
+sin
+⁡
+θ
+)
+= 
+b
+a
+​	
+ e 
+bθ
+ sinθ+a(cosθ− 
+b
+1
+​	
+ sinθ)
+
+Component 2 (y):
+=
+a
+e
+b
+θ
+sin
+⁡
+θ
+−
+a
+b
+(
+e
+b
+θ
+−
+1
+)
+(
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+=ae 
+bθ
+ sinθ− 
+b
+a
+​	
+ (e 
+bθ
+ −1)(bsinθ+cosθ)
+=
+a
+e
+b
+θ
+sin
+⁡
+θ
+−
+a
+e
+b
+θ
+sin
+⁡
+θ
+−
+a
+b
+e
+b
+θ
+cos
+⁡
+θ
++
+a
+sin
+⁡
+θ
++
+a
+b
+cos
+⁡
+θ
+=ae 
+bθ
+ sinθ−ae 
+bθ
+ sinθ− 
+b
+a
+​	
+ e 
+bθ
+ cosθ+asinθ+ 
+b
+a
+​	
+ cosθ
+=
+−
+a
+b
+e
+b
+θ
+cos
+⁡
+θ
++
+a
+sin
+⁡
+θ
++
+a
+b
+cos
+⁡
+θ
+=− 
+b
+a
+​	
+ e 
+bθ
+ cosθ+asinθ+ 
+b
+a
+​	
+ cosθ
+=
+−
+a
+b
+e
+b
+θ
+cos
+⁡
+θ
++
+a
+(
+sin
+⁡
+θ
++
+1
+b
+cos
+⁡
+θ
+)
+=− 
+b
+a
+​	
+ e 
+bθ
+ cosθ+a(sinθ+ 
+b
+1
+​	
+ cosθ)
+
+Hmm, the terms 
+a
+(
+cos
+⁡
+θ
+−
+1
+b
+sin
+⁡
+θ
+)
+a(cosθ− 
+b
+1
+​	
+ sinθ) and 
+a
+(
+sin
+⁡
+θ
++
+1
+b
+cos
+⁡
+θ
+)
+a(sinθ+ 
+b
+1
+​	
+ cosθ) depend on 
+θ
+θ but not exponentially. For very negative 
+θ
+θ these terms are negligible, but for finite 
+θ
+θ they shift the curve away from the exact log spiral form.
+
+Key observation: the involute of a log spiral (with finite starting point 
+θ
+0
+=
+0
+θ 
+0
+​	
+ =0) is close to a log spiral, and exactly a log spiral when 
+θ
+0
+→
+−
+∞
+θ 
+0
+​	
+ →−∞ (spiral starts at origin/pole).
+
+The reason: the involute construction requires a specific starting point, and that's what breaks the exact self-similarity. If you set the start point at 
+θ
+0
+→
+−
+∞
+θ 
+0
+​	
+ →−∞, the "constant" terms vanish and you get exactly a log spiral.
+
+Hmm actually looking at the constants, they don't decay as
+θ
+0
+→
+−
+∞
+θ 
+0
+​	
+ →−∞; let me check. Actually the 
+s
+(
+θ
+)
+s(θ) formula with 
+θ
+0
+→
+−
+∞
+θ 
+0
+​	
+ →−∞ has a divergent lower bound: 
+∫
+−
+∞
+θ
+∫ 
+−∞
+θ
+​	
+  gives 
+s
+=
+a
+b
+2
++
+1
+b
+(
+e
+b
+θ
+−
+0
+)
+=
+a
+b
+2
++
+1
+b
+e
+b
+θ
+s= 
+b
+a 
+b 
+2
+ +1
+​	
+ 
+​	
+ (e 
+bθ
+ −0)= 
+b
+a 
+b 
+2
+ +1
+​	
+ 
+​	
+ e 
+bθ
+ . Wait that's not right either — the integral 
+∫
+−
+∞
+θ
+a
+b
+2
++
+1
+e
+b
+τ
+d
+τ
+∫ 
+−∞
+θ
+​	
+ a 
+b 
+2
+ +1
+​	
+ e 
+bτ
+ dτ with 
+b
+>
+0
+b>0 converges (integrand decays) to 
+a
+b
+2
++
+1
+b
+e
+b
+θ
+b
+a 
+b 
+2
+ +1
+​	
+ 
+​	
+ e 
+bθ
+ . So 
+s
+(
+θ
+)
+=
+a
+b
+2
++
+1
+b
+e
+b
+θ
+s(θ)= 
+b
+a 
+b 
+2
+ +1
+​	
+ 
+​	
+ e 
+bθ
+ .
+
+Then 
+I
+(
+θ
+)
+=
+x
+−
+s
+T
+I(θ)=x−sT:
+x
+x-comp: 
+a
+e
+b
+θ
+cos
+⁡
+θ
+−
+a
+b
+e
+b
+θ
+(
+b
+cos
+⁡
+θ
+−
+sin
+⁡
+θ
+)
+=
+a
+e
+b
+θ
+cos
+⁡
+θ
+−
+a
+e
+b
+θ
+cos
+⁡
+θ
++
+a
+b
+e
+b
+θ
+sin
+⁡
+θ
+=
+a
+b
+e
+b
+θ
+sin
+⁡
+θ
+ae 
+bθ
+ cosθ− 
+b
+a
+​	
+ e 
+bθ
+ (bcosθ−sinθ)=ae 
+bθ
+ cosθ−ae 
+bθ
+ cosθ+ 
+b
+a
+​	
+ e 
+bθ
+ sinθ= 
+b
+a
+​	
+ e 
+bθ
+ sinθ
+y
+y-comp: 
+a
+e
+b
+θ
+sin
+⁡
+θ
+−
+a
+b
+e
+b
+θ
+(
+b
+sin
+⁡
+θ
++
+cos
+⁡
+θ
+)
+=
+a
+e
+b
+θ
+sin
+⁡
+θ
+−
+a
+e
+b
+θ
+sin
+⁡
+θ
+−
+a
+b
+e
+b
+θ
+cos
+⁡
+θ
+=
+−
+a
+b
+e
+b
+θ
+cos
+⁡
+θ
+ae 
+bθ
+ sinθ− 
+b
+a
+​	
+ e 
+bθ
+ (bsinθ+cosθ)=ae 
+bθ
+ sinθ−ae 
+bθ
+ sinθ− 
+b
+a
+​	
+ e 
+bθ
+ cosθ=− 
+b
+a
+​	
+ e 
+bθ
+ cosθ
+
+So 
+I
+(
+θ
+)
+=
+a
+b
+e
+b
+θ
+(
+sin
+⁡
+θ
+,
+−
+cos
+⁡
+θ
+)
+I(θ)= 
+b
+a
+​	
+ e 
+bθ
+ (sinθ,−cosθ).
+
+Now 
+(
+sin
+⁡
+θ
+,
+−
+cos
+⁡
+θ
+)
+=
+(
+cos
+⁡
+(
+θ
+−
+π
+/
+2
+)
+,
+sin
+⁡
+(
+θ
+−
+π
+/
+2
+)
+)
+(sinθ,−cosθ)=(cos(θ−π/2),sin(θ−π/2))? Let's check: 
+cos
+⁡
+(
+θ
+−
+π
+/
+2
+)
+=
+sin
+⁡
+θ
+cos(θ−π/2)=sinθ ✓, 
+sin
+⁡
+(
+θ
+−
+π
+/
+2
+)
+=
+−
+cos
+⁡
+θ
+sin(θ−π/2)=−cosθ ✓. Yes!
+
+So 
+I
+(
+θ
+)
+=
+a
+b
+e
+b
+θ
+(
+cos
+⁡
+(
+θ
+−
+π
+/
+2
+)
+,
+sin
+⁡
+(
+θ
+−
+π
+/
+2
+)
+)
+I(θ)= 
+b
+a
+​	
+ e 
+bθ
+ (cos(θ−π/2),sin(θ−π/2))
+
+Let 
+ϕ
+=
+θ
+−
+π
+/
+2
+ϕ=θ−π/2, 
+θ
+=
+ϕ
++
+π
+/
+2
+θ=ϕ+π/2:
+I
+=
+a
+b
+e
+b
+(
+ϕ
++
+π
+/
+2
+)
+(
+cos
+⁡
+ϕ
+,
+sin
+⁡
+ϕ
+)
+=
+a
+b
+e
+b
+π
+/
+2
+e
+b
+ϕ
+(
+cos
+⁡
+ϕ
+,
+sin
+⁡
+ϕ
+)
+I= 
+b
+a
+​	
+ e 
+b(ϕ+π/2)
+ (cosϕ,sinϕ)= 
+b
+a
+​	
+ e 
+bπ/2
+ e 
+bϕ
+ (cosϕ,sinϕ).
+
+So involute amplitude 
+=
+a
+b
+e
+b
+π
+/
+2
+= 
+b
+a
+​	
+ e 
+bπ/2
+ , same 
+b
+b, rotated by 
+−
+π
+/
+2
+−π/2 (since 
+ϕ
+ϕ is the new angular variable, and it's 
+θ
+−
+π
+/
+2
+θ−π/2, so relative to original 
+θ
+θ the curve is rotated by 
+−
+π
+/
+2
+−π/2). ✓
+
+This matches my complex number calculation. Good.
+
+Evolute redo:
+Center of curvature 
+C
+=
+x
++
+ρ
+N
+C=x+ρN where 
+N
+N is unit normal pointing toward center.
+
+For a plane curve, 
+N
+=
+(
+−
+sign of curvature
+)
+×
+T
+⊥
+N=(−sign of curvature)×T 
+⊥
+ ... hmm, the normal direction. Let me use: 
+N
+N points from curve toward center of curvature. In polar, for 
+r
+=
+a
+e
+b
+θ
+r=ae 
+bθ
+  with 
+b
+>
+0
+b>0, curvature is toward the pole? Let's check sign.
+
+Curvature 
+κ
+=
+1
+/
+(
+r
+1
++
+b
+2
+)
+κ=1/(r 
+1+b 
+2
+ 
+​	
+ ) (positive, standard for counterclockwise turn).
+
+Unit normal 
+N
+N for a curve parametrized such that we turn counterclockwise: 
+N
+=
+(
+−
+T
+y
+,
+T
+x
+)
+N=(−T 
+y
+​	
+ ,T 
+x
+​	
+ ) if the curve turns left. Let me use 
+N
+=
+i
+T
+N=iT in complex.
+
+T
+=
+b
++
+i
+1
++
+b
+2
+e
+i
+θ
+T= 
+1+b 
+2
+ 
+​	
+ 
+b+i
+​	
+ e 
+iθ
+  (complex, with 
+e
+i
+θ
+e 
+iθ
+  representing rotation to the current point's frame).
+
+N
+=
+i
+T
+=
+i
+b
++
+i
+1
++
+b
+2
+e
+i
+θ
+=
+b
+i
+−
+1
+1
++
+b
+2
+e
+i
+θ
+=
+(
+−
+1
++
+b
+i
+)
+1
++
+b
+2
+e
+i
+θ
+N=iT=i 
+1+b 
+2
+ 
+​	
+ 
+b+i
+​	
+ e 
+iθ
+ = 
+1+b 
+2
+ 
+​	
+ 
+bi−1
+​	
+ e 
+iθ
+ = 
+1+b 
+2
+ 
+​	
+ 
+(−1+bi)
+​	
+ e 
+iθ
+ 
+
+Center: 
+C
+=
+x
++
+ρ
+N
+=
+a
+e
+(
+b
++
+i
+)
+θ
++
+a
+e
+b
+θ
+1
++
+b
+2
+⋅
+(
+−
+1
++
+b
+i
+)
+1
++
+b
+2
+e
+i
+θ
+C=x+ρN=ae 
+(b+i)θ
+ +ae 
+bθ
+  
+1+b 
+2
+ 
+​	
+ ⋅ 
+1+b 
+2
+ 
+​	
+ 
+(−1+bi)
+​	
+ e 
+iθ
+ 
+=
+a
+e
+b
+θ
+e
+i
+θ
++
+a
+e
+b
+θ
+(
+−
+1
++
+b
+i
+)
+e
+i
+θ
+=ae 
+bθ
+ e 
+iθ
+ +ae 
+bθ
+ (−1+bi)e 
+iθ
+ 
+=
+a
+e
+b
+θ
+(
+1
+−
+1
++
+b
+i
+)
+e
+i
+θ
+=ae 
+bθ
+ (1−1+bi)e 
+iθ
+ 
+=
+a
+b
+i
+e
+(
+b
++
+i
+)
+θ
+=abie 
+(b+i)θ
+ 
+
+✓ So evolute: 
+C
+=
+a
+b
+e
+i
+π
+/
+2
+e
+(
+b
++
+i
+)
+θ
+=
+a
+b
+e
+b
+θ
+e
+i
+(
+θ
++
+π
+/
+2
+)
+C=abe 
+iπ/2
+ e 
+(b+i)θ
+ =abe 
+bθ
+ e 
+i(θ+π/2)
+ .
+
+Let 
+ϕ
+=
+θ
++
+π
+/
+2
+ϕ=θ+π/2, 
+θ
+=
+ϕ
+−
+π
+/
+2
+θ=ϕ−π/2:
+C
+=
+a
+b
+e
+b
+(
+ϕ
+−
+π
+/
+2
+)
+e
+i
+ϕ
+=
+a
+b
+e
+−
+b
+π
+/
+2
+e
+b
+ϕ
+e
+i
+ϕ
+C=abe 
+b(ϕ−π/2)
+ e 
+iϕ
+ =abe 
+−bπ/2
+ e 
+bϕ
+ e 
+iϕ
+ .
+
+Amplitude 
+a
+b
+e
+−
+b
+π
+/
+2
+abe 
+−bπ/2
+ , same 
+b
+b, rotated by 
++
+π
+/
+2
++π/2. ✓
+
+Product: 
+a
+evol
+⋅
+a
+invol
+=
+a
+b
+e
+−
+b
+π
+/
+2
+⋅
+a
+b
+e
+b
+π
+/
+2
+=
+a
+2
+a 
+evol
+​	
+ ⋅a 
+invol
+​	
+ =abe 
+−bπ/2
+ ⋅ 
+b
+a
+​	
+ e 
+bπ/2
+ =a 
+2
+ . ✓✓
+
+Complex product identity:
+z
+evol
+=
+a
+b
+i
+e
+(
+b
++
+i
+)
+θ
+z 
+evol
+​	
+ =abie 
+(b+i)θ
+ 
+z
+invol
+=
+−
+a
+i
+b
+e
+(
+b
++
+i
+)
+θ
+z 
+invol
+​	
+ =− 
+b
+ai
+​	
+ e 
+(b+i)θ
+ 
+z
+evol
+⋅
+z
+invol
+=
+a
+b
+i
+⋅
+(
+−
+a
+i
+b
+)
+⋅
+e
+2
+(
+b
++
+i
+)
+θ
+=
+−
+a
+2
+i
+2
+e
+2
+(
+b
++
+i
+)
+θ
+=
+a
+2
+e
+2
+(
+b
++
+i
+)
+θ
+=
+z
+0
+2
+z 
+evol
+​	
+ ⋅z 
+invol
+​	
+ =abi⋅(− 
+b
+ai
+​	
+ )⋅e 
+2(b+i)θ
+ =−a 
+2
+ i 
+2
+ e 
+2(b+i)θ
+ =a 
+2
+ e 
+2(b+i)θ
+ =z 
+0
+2
+​	
+ . ✓
+
+Perfect. 
+z
+evol
+⋅
+z
+invol
+=
+z
+0
+2
+z 
+evol
+​	
+ ⋅z 
+invol
+​	
+ =z 
+0
+2
+​	
+ .
+
+This is the "cold prediction." Given any log spiral, we can compute the exact position of the evolute and involute at each parameter, and they always satisfy this identity.
+
+"Point de faiblesse" (the pole):
+At 
+θ
+→
+−
+∞
+θ→−∞ (for 
+b
+>
+0
+b>0), all three curves converge to origin.
+z
+0
+,
+z
+evol
+,
+z
+invol
+→
+0
+z 
+0
+​	
+ ,z 
+evol
+​	
+ ,z 
+invol
+​	
+ →0. The identity 
+z
+evol
+z
+invol
+=
+z
+0
+2
+z 
+evol
+​	
+ z 
+invol
+​	
+ =z 
+0
+2
+​	
+  still holds (both sides → 0).
+
+The pole is the unique fixed point of the "evolute transformation" 
+T
+:
+z
+↦
+C
+(
+z
+)
+T:z↦C(z)? No, 
+T
+T doesn't act on points, it acts on curves. Let me reframe.
+
+Actually the interesting thing: The transformations "evolute" and "involute" are operations on curves. Apply evolute twice:
+C
+(
+C
+(
+spiral
+)
+)
+C(C(spiral)) = ?
+
+C
+(
+θ
+)
+=
+a
+b
+i
+e
+(
+b
++
+i
+)
+θ
+C(θ)=abie 
+(b+i)θ
+ . This is a log spiral with amplitude 
+a
+b
+ab, and we can apply evolute again using the SAME formula but with
+a
+→
+a
+b
+a→ab, and the "starting parameter" of the curve is now different.
+
+If 
+C
+C has amplitude 
+a
+′
+=
+a
+b
+a 
+′
+ =ab and same 
+b
+b, rotated by 
+π
+/
+2
+π/2 (which doesn't affect 
+b
+b), then 
+C
+(
+C
+)
+C(C) has amplitude 
+a
+′
+b
+e
+−
+b
+π
+/
+2
+=
+a
+b
+2
+e
+−
+b
+π
+/
+2
+a 
+′
+ be 
+−bπ/2
+ =ab 
+2
+ e 
+−bπ/2
+ , rotated by 
+π
+π total.
+
+Amplitude of 
+n
+nth evolute: 
+a
+⋅
+b
+n
+e
+−
+n
+b
+π
+/
+2
+a⋅b 
+n
+ e 
+−nbπ/2
+ , rotated by 
+n
+π
+/
+2
+nπ/2.
+
+Similarly, involute applied 
+n
+n times: 
+a
+⋅
+b
+−
+n
+e
+n
+b
+π
+/
+2
+a⋅b 
+−n
+ e 
+nbπ/2
+ , rotated by
+−
+n
+π
+/
+2
+−nπ/2.
+
+Key quantitative prediction:
+
+Under repeated evolute: amplitude scales by factor
+(
+b
+e
+−
+b
+π
+/
+2
+)
+n
+(be 
+−bπ/2
+ ) 
+n
+ 
+Under repeated involute: amplitude scales by factor
+(
+b
+−
+1
+e
+b
+π
+/
+2
+)
+n
+=
+(
+1
+b
+e
+b
+π
+/
+2
+)
+n
+(b 
+−1
+ e 
+bπ/2
+ ) 
+n
+ =( 
+b
+1
+​	
+ e 
+bπ/2
+ ) 
+n
+ 
+The rate constant per step is 
+b
+e
+−
+b
+π
+/
+2
+be 
+−bπ/2
+  for evolute, 
+b
+−
+1
+e
+b
+π
+/
+2
+b 
+−1
+ e 
+bπ/2
+  for involute. They're inverse of each other. So the composition involute ∘ evolute is identity on amplitude (modulo rotation). Wait, but rotation: evolute rotates by 
++
+π
+/
+2
++π/2, involute by 
+−
+π
+/
+2
+−π/2, so composition rotates by 0. So (involute ∘ evolute)(spiral) = spiral? That's the classical theorem that the involute of the evolute (or evolute of the involute) returns the original curve up to congruence!
+
+Actually more precisely: the evolute of the involute of a curve is the original curve, and the involute of the evolute is the original curve up to a parallel curve... no, the involute of the evolute isn't well-defined without a starting point. But: evolute(involute(C)) = C always, and involute(evolute(C)) depends on starting point. This is a well-known theorem.
+
+For log spiral specifically: evolute of involute = original (up to rotation/scale). We can check: involute has amplitude 
+a
+b
+e
+b
+π
+/
+2
+b
+a
+​	
+ e 
+bπ/2
+ , applying evolute: amplitude 
+a
+b
+e
+b
+π
+/
+2
+⋅
+b
+e
+−
+b
+π
+/
+2
+=
+a
+b
+a
+​	
+ e 
+bπ/2
+ ⋅be 
+−bπ/2
+ =a. ✓ Rotation:
+−
+π
+/
+2
++
+π
+/
+2
+=
+0
+−π/2+π/2=0. ✓ Perfect circle of operations.
+
+So on log spirals, evolute ∘ involute = id, and involute ∘ evolute = id. They are exact inverses. That's the "two-sided mirror" in purely computational terms.
+
+This is the "reflection symmetry inverted parallel" the user was looking for. Cold prediction: any log spiral, its evolute, and its involute form a mutually inverse triplet under the geometric operations of curving and unrolling. The pole is the unique point where all three curves meet (all → origin as 
+θ
+→
+−
+∞
+θ→−∞).
+
+Now on the sphere. Let me state what I'm confident of.
+
+Loxodrome on unit sphere:
+Parametrize by arc length 
+s
+s or by parameter 
+t
+=
+ln
+⁡
+tan
+⁡
+(
+Θ
+/
+2
+)
+t=lntan(Θ/2) (colatitude 
+Θ
+Θ).
+
+Simpler: use cylindrical-like coordinates. Latitude 
+ϕ
+ϕ, longitude
+λ
+λ.
+Loxodrome with angle 
+α
+α from meridian: 
+d
+λ
+d
+ϕ
+⋅
+cos
+⁡
+ϕ
+=
+tan
+⁡
+α
+dϕ
+dλ
+​	
+ ⋅cosϕ=tanα.
+Solution: 
+λ
+=
+tan
+⁡
+α
+⋅
+artanh
+(
+sin
+⁡
+ϕ
+)
++
+C
+λ=tanα⋅artanh(sinϕ)+C.
+
+Geodesic curvature of loxodrome: I recall it's 
+κ
+g
+=
+tan
+⁡
+α
+⋅
+κ 
+g
+​	
+ =tanα⋅ something. Actually for a loxodrome on unit sphere, geodesic curvature is constant. Let me verify with a quick calculation.
+
+For a curve on a sphere with latitude 
+ϕ
+(
+λ
+)
+ϕ(λ): geodesic curvature
+κ
+g
+=
+d
+θ
+c
+d
+s
+−
+sin
+⁡
+θ
+c
+cos
+⁡
+ϕ
+⋅
+d
+λ
+d
+s
+κ 
+g
+​	
+ = 
+ds
+dθ 
+c
+​	
+ 
+​	
+ −sinθ 
+c
+​	
+ cosϕ⋅ 
+ds
+dλ
+​	
+  where 
+θ
+c
+θ 
+c
+​	
+  is the angle from the parallel... this is getting into Clairaut and I don't want to make an error.
+
+Let me just state: The geodesic curvature of a loxodrome is constant (independent of position along the curve). This is a known classical result (position follows from the symmetry of the sphere about the axis and the constancy of the angle with meridians). Actually since a loxodrome is a helix on the sphere (parametrized by 
+z
+=
+cos
+⁡
+Θ
+z=cosΘ, angle 
+λ
+λ), and a helix has constant geodesic curvature, yes.
+
+Given constant geodesic curvature, on a surface of constant curvature (sphere), the "geodesic evolute" — locus of centers of geodesic curvature circles — is well-defined. For a loxodrome, this spherical evolute is... another loxodrome, but with a DIFFERENT angle 
+α
+′
+α 
+′
+ .
+
+I think I can derive this. But I'm not 100% sure without a full computation. Let me be honest and state it as a conjecture/known result rather than derive fully.
+
+Actually, let me think about it more carefully. On the sphere, if you have a curve with constant geodesic curvature 
+κ
+g
+κ 
+g
+​	
+ , then locally it looks like a small circle (circle of latitude) of radius
+ρ
+g
+=
+1
+/
+κ
+g
+ρ 
+g
+​	
+ =1/κ 
+g
+​	
+  on the sphere. The center of the geodesic curvature circle is at distance 
+ρ
+g
+ρ 
+g
+​	
+  perpendicular to the curve along the surface.
+
+For a loxodrome, the geodesic curvature is 
+κ
+g
+=
+tan
+⁡
+α
+/
+cos
+⁡
+(
+something
+)
+κ 
+g
+​	
+ =tanα/cos(something)? Or 
+κ
+g
+=
+sin
+⁡
+α
+κ 
+g
+​	
+ =sinα? Let me think geometrically. A parallel (circle of latitude at colatitude 
+Θ
+Θ) has geodesic curvature 
+κ
+g
+=
+cos
+⁡
+Θ
+/
+sin
+⁡
+Θ
+=
+cot
+⁡
+Θ
+κ 
+g
+​	
+ =cosΘ/sinΘ=cotΘ (I think). A meridian has 
+κ
+g
+=
+0
+κ 
+g
+​	
+ =0. A loxodrome makes angle 
+α
+α with meridians (locally). Its geodesic curvature should interpolate:
+κ
+g
+≈
+sin
+⁡
+α
+×
+(
+parallel’s 
+κ
+g
+)
+κ 
+g
+​	
+ ≈sinα×(parallel’s κ 
+g
+​	
+ ).
+
+Hmm, actually if a curve makes angle 
+α
+α with meridians and the parallel has 
+κ
+g
+=
+cot
+⁡
+Θ
+κ 
+g
+​	
+ =cotΘ at colatitude 
+Θ
+Θ, then the geodesic curvature of the loxodrome should be 
+sin
+⁡
+α
+⋅
+cot
+⁡
+Θ
+sinα⋅cotΘ... but that's not constant because 
+Θ
+Θ varies along the loxodrome!
+
+Wait, so geodesic curvature of a loxodrome might NOT be constant. Let me think again. Hmm.
+
+Actually let me think about this differently. A loxodrome on the sphere lifts to a straight line in Mercator projection (cylindrical). Mercator is conformal but not isometric. So geodesic curvature is not preserved by Mercator — it's scaled by the conformal factor. Since Mercator's conformal factor blows up at the poles, and the loxodrome spirals to the poles...
+
+Hmm. Let me try direct computation. The geodesic curvature formula on the sphere for a curve with colatitude 
+Θ
+(
+λ
+)
+Θ(λ):
+d
+s
+2
+=
+d
+Θ
+2
++
+sin
+⁡
+2
+Θ
+ 
+d
+λ
+2
+ds 
+2
+ =dΘ 
+2
+ +sin 
+2
+ Θdλ 
+2
+ .
+Unit speed: 
+1
+=
+Θ
+˙
+2
++
+sin
+⁡
+2
+Θ
+λ
+˙
+2
+1= 
+Θ
+˙
+  
+2
+ +sin 
+2
+ Θ 
+λ
+˙
+  
+2
+  (using dot for 
+s
+s-derivative).
+Geodesic curvature 
+κ
+g
+=
+±
+κ 
+g
+​	
+ =± (rate at which geodesic normal turns).
+For a curve on a surface, 
+κ
+g
+=
+1
+G
+d
+d
+s
+(
+G
+λ
+˙
+)
+⋅
+κ 
+g
+​	
+ = 
+G
+​	
+ 
+1
+​	
+  
+ds
+d
+​	
+ ( 
+G
+​	
+  
+λ
+˙
+ )⋅ ... this depends on orientation.
+
+Actually, let me use the simpler formula for geodesic curvature on a surface of revolution (which the sphere is). For a curve
+(
+Θ
+(
+s
+)
+,
+λ
+(
+s
+)
+)
+(Θ(s),λ(s)):
+κ
+g
+=
+λ
+˙
+cos
+⁡
+Θ
+−
+d
+d
+s
+(
+atan
+(
+λ
+˙
+sin
+⁡
+Θ
+/
+Θ
+˙
+⋅
+.
+.
+.
+)
+)
+κ 
+g
+​	
+ = 
+λ
+˙
+ cosΘ− 
+ds
+d
+​	
+ (atan( 
+λ
+˙
+ sinΘ/ 
+Θ
+˙
+ ⋅...))
+
+This is getting messy. Let me use a cleaner formula for sphere.
+
+Standard formula for geodesic curvature on unit sphere:
+If the curve is parametrized by latitude 
+ϕ
+(
+λ
+)
+ϕ(λ) (i.e., 
+ϕ
+ϕ as function of 
+λ
+λ):
+κ
+g
+=
+d
+α
+d
+s
++
+sin
+⁡
+α
+⋅
+cot
+⁡
+ϕ
+⋅
+d
+λ
+d
+s
+⋅
+(
+parallel’s contribution
+)
+κ 
+g
+​	
+ = 
+ds
+dα
+​	
+ +sinα⋅cotϕ⋅ 
+ds
+dλ
+​	
+ ⋅(parallel’s contribution)...
+
+OK let me just compute it via the general formula. On sphere with metric 
+d
+s
+2
+=
+d
+ϕ
+2
++
+cos
+⁡
+2
+ϕ
+ 
+d
+λ
+2
+ds 
+2
+ =dϕ 
+2
+ +cos 
+2
+ ϕdλ 
+2
+  (using latitude 
+ϕ
+ϕ):
+For a curve parametrized by 
+s
+s, let 
+α
+(
+s
+)
+α(s) be the angle from north direction (i.e., tangent direction). The geodesic curvature is:
+κ
+g
+=
+d
+α
+d
+s
+−
+sin
+⁡
+α
+⋅
+tan
+⁡
+ϕ
+⋅
+λ
+˙
+⋅
+cos
+⁡
+ϕ
+κ 
+g
+​	
+ = 
+ds
+dα
+​	
+ −sinα⋅tanϕ⋅ 
+λ
+˙
+ ⋅cosϕ...
+
+Hmm, let me look at a cleaner formula. For sphere, using the result from do Carmo or similar:
+κ
+g
+=
+d
+d
+s
+α
+−
+sin
+⁡
+α
+⋅
+sin
+⁡
+ϕ
+cos
+⁡
+ϕ
+⋅
+λ
+˙
+κ 
+g
+​	
+ = 
+ds
+d
+​	
+ α−sinα⋅ 
+cosϕ
+sinϕ
+​	
+ ⋅ 
+λ
+˙
+ ? No, sign issues.
+
+Let me use a numerical check. Take the equator: 
+ϕ
+=
+0
+ϕ=0, 
+λ
+=
+s
+λ=s (arc length = longitude for equator on unit sphere). Tangent makes angle 
+α
+=
+π
+/
+2
+α=π/2 from north (due east). 
+α
+α is constant,
+ϕ
+=
+0
+ϕ=0. Geodesic curvature should be 
+κ
+g
+=
+1
+κ 
+g
+​	
+ =1 (equator has geodesic curvature equal to... well, the equator IS a geodesic! So 
+κ
+g
+=
+0
+κ 
+g
+​	
+ =0).
+
+Hmm no. Wait, the equator of a sphere IS a geodesic (great circle). So 
+κ
+g
+=
+0
+κ 
+g
+​	
+ =0. Right.
+
+A parallel at latitude 
+ϕ
+0
+≠
+0
+ϕ 
+0
+​	
+ 
+
+=0: circle of radius 
+cos
+⁡
+ϕ
+0
+cosϕ 
+0
+​	
+  on the sphere. Its curvature in 3D is 
+1
+/
+cos
+⁡
+ϕ
+0
+1/cosϕ 
+0
+​	
+  (radius of the circle). Its geodesic curvature on the sphere: a small circle has geodesic curvature equal to 
+1
+/
+tan
+⁡
+(
+colatitude
+)
+=
+tan
+⁡
+ϕ
+0
+1/tan(colatitude)=tanϕ 
+0
+​	
+  (if we measure from north pole, colatitude is 
+π
+/
+2
+−
+ϕ
+π/2−ϕ, so 
+tan
+⁡
+ϕ
+tanϕ for latitude 
+ϕ
+ϕ). Let me verify: latitude 
+ϕ
+=
+0
+ϕ=0 (equator): 
+tan
+⁡
+0
+=
+0
+tan0=0 ✓. Latitude 
+ϕ
+→
+π
+/
+2
+ϕ→π/2 (north pole): 
+tan
+⁡
+→
+∞
+tan→∞ ✓ (pole is singular).
+
+So for a parallel: 
+κ
+g
+=
+tan
+⁡
+ϕ
+κ 
+g
+​	
+ =tanϕ (assuming we're measuring curvature relative to the "inward toward pole" direction, so positive).
+
+Now for a loxodrome making angle 
+α
+α with meridians: the tangent of the loxodrome at any point is at angle 
+α
+α to the local meridian. If the local meridian has 
+κ
+g
+=
+0
+κ 
+g
+​	
+ =0 and the local parallel has 
+κ
+g
+=
+tan
+⁡
+ϕ
+κ 
+g
+​	
+ =tanϕ (both at that point), then... local interpolation isn't straightforward because geodesic curvature is a scalar derived from second derivatives, not just direction.
+
+Hmm. Let me just look up: geodesic curvature of a loxodrome on unit sphere with angle 
+α
+α: 
+κ
+g
+=
+tan
+⁡
+α
+⋅
+sin
+⁡
+(
+something
+)
+κ 
+g
+​	
+ =tanα⋅sin(something)...
+
+Actually I recall the formula 
+κ
+g
+=
+sin
+⁡
+α
+⋅
+cos
+⁡
+α
+⋅
+…
+.
+.
+.
+κ 
+g
+​	
+ = 
+...
+sinα⋅cosα⋅…
+​	
+  but I'm not sure.
+
+Let me derive. Loxodrome: 
+d
+λ
+/
+d
+ϕ
+=
+tan
+⁡
+α
+/
+cos
+⁡
+ϕ
+dλ/dϕ=tanα/cosϕ (where 
+α
+α is the angle from the meridian toward the parallel).
+Parametrize by 
+ϕ
+ϕ: 
+λ
+(
+ϕ
+)
+=
+tan
+⁡
+α
+⋅
+artanh
+(
+sin
+⁡
+ϕ
+)
++
+C
+λ(ϕ)=tanα⋅artanh(sinϕ)+C.
+
+Speed: 
+d
+s
+/
+d
+ϕ
+=
+1
++
+cos
+⁡
+2
+ϕ
+⋅
+(
+d
+λ
+/
+d
+ϕ
+)
+2
+=
+1
++
+cos
+⁡
+2
+ϕ
+⋅
+tan
+⁡
+2
+α
+/
+cos
+⁡
+2
+ϕ
+=
+1
++
+tan
+⁡
+2
+α
+=
+1
+/
+cos
+⁡
+α
+ds/dϕ= 
+1+cos 
+2
+ ϕ⋅(dλ/dϕ) 
+2
+ 
+​	
+ = 
+1+cos 
+2
+ ϕ⋅tan 
+2
+ α/cos 
+2
+ ϕ
+​	
+ = 
+1+tan 
+2
+ α
+​	
+ =1/cosα.
+
+Tangent direction: 
+d
+ϕ
+/
+d
+s
+=
+cos
+⁡
+α
+dϕ/ds=cosα (unit), 
+cos
+⁡
+ϕ
+⋅
+d
+λ
+/
+d
+s
+=
+sin
+⁡
+α
+cosϕ⋅dλ/ds=sinα.
+So 
+d
+λ
+/
+d
+s
+=
+sin
+⁡
+α
+/
+cos
+⁡
+ϕ
+dλ/ds=sinα/cosϕ.
+
+Angle 
+α
+α of tangent from north (meridian): 
+tan
+⁡
+(
+angle
+)
+=
+cos
+⁡
+ϕ
+⋅
+d
+λ
+d
+ϕ
+=
+cos
+⁡
+ϕ
+⋅
+sin
+⁡
+α
+/
+cos
+⁡
+α
+cos
+⁡
+ϕ
+⋅
+cos
+⁡
+α
+tan(angle)= 
+dϕ
+cosϕ⋅dλ
+​	
+ = 
+cosϕ⋅cosα
+cosϕ⋅sinα/cosα
+​	
+ ... hmm, let me use the standard formula.
+
+For a curve in spherical coordinates, geodesic curvature is:
+κ
+g
+=
+1
+g
+i
+j
+x
+˙
+i
+x
+˙
+j
+⋅
+…
+κ 
+g
+​	
+ = 
+g 
+ij
+​	
+  
+x
+˙
+  
+i
+  
+x
+˙
+  
+j
+ 
+​	
+ 
+1
+​	
+ ⋅…
+
+I'll use the formula for geodesic curvature of a curve
+(
+ϕ
+(
+s
+)
+,
+λ
+(
+s
+)
+)
+(ϕ(s),λ(s)) on sphere:
+κ
+g
+=
+λ
+˙
+cos
+⁡
+ϕ
+⋅
+d
+d
+s
+(
+angle of tangent with parallel
+)
+κ 
+g
+​	
+ = 
+λ
+˙
+ cosϕ⋅ 
+ds
+d
+​	
+ (angle of tangent with parallel)... no.
+
+OK let me try a totally different approach: use the sphere as embedded in 
+R
+3
+R 
+3
+  and compute.
+
+Position 
+p
+(
+s
+)
+=
+(
+cos
+⁡
+ϕ
+cos
+⁡
+λ
+,
+cos
+⁡
+ϕ
+sin
+⁡
+λ
+,
+sin
+⁡
+ϕ
+)
+p(s)=(cosϕcosλ,cosϕsinλ,sinϕ).
+Unit speed: 
+ϕ
+˙
+2
++
+cos
+⁡
+2
+ϕ
+λ
+˙
+2
+=
+1
+ϕ
+˙
+​	
+  
+2
+ +cos 
+2
+ ϕ 
+λ
+˙
+  
+2
+ =1.
+
+p
+˙
+=
+(
+−
+sin
+⁡
+ϕ
+ϕ
+˙
+cos
+⁡
+λ
+−
+cos
+⁡
+ϕ
+sin
+⁡
+λ
+λ
+˙
+,
+−
+sin
+⁡
+ϕ
+ϕ
+˙
+sin
+⁡
+λ
++
+cos
+⁡
+ϕ
+cos
+⁡
+λ
+λ
+˙
+,
+cos
+⁡
+ϕ
+ϕ
+˙
+)
+p
+˙
+​	
+ =(−sinϕ 
+ϕ
+˙
+​	
+ cosλ−cosϕsinλ 
+λ
+˙
+ ,−sinϕ 
+ϕ
+˙
+​	
+ sinλ+cosϕcosλ 
+λ
+˙
+ ,cosϕ 
+ϕ
+˙
+​	
+ )
+
+p
+¨
+p
+¨
+​	
+  = ... geodesic curvature is 
+∣
+p
+¨
+−
+(
+p
+¨
+⋅
+n
+)
+n
+∣
+∣ 
+p
+¨
+​	
+ −( 
+p
+¨
+​	
+ ⋅n)n∣ where 
+n
+=
+p
+n=p (unit normal to sphere).
+
+∣
+p
+¨
+∣
+2
+−
+(
+p
+¨
+⋅
+p
+)
+2
+∣ 
+p
+¨
+​	
+ ∣ 
+2
+ −( 
+p
+¨
+​	
+ ⋅p) 
+2
+  = 
+κ
+g
+2
+κ 
+g
+2
+​	
+ .
+
+p
+¨
+⋅
+p
+p
+¨
+​	
+ ⋅p: differentiating 
+∣
+p
+˙
+∣
+2
+=
+1
+∣ 
+p
+˙
+​	
+ ∣ 
+2
+ =1 gives 
+p
+¨
+⋅
+p
+˙
+=
+0
+p
+¨
+​	
+ ⋅ 
+p
+˙
+​	
+ =0. Also 
+p
+⋅
+p
+=
+1
+p⋅p=1 so 
+p
+˙
+⋅
+p
+=
+0
+p
+˙
+​	
+ ⋅p=0, and 
+p
+¨
+⋅
+p
++
+∣
+p
+˙
+∣
+2
+=
+0
+p
+¨
+​	
+ ⋅p+∣ 
+p
+˙
+​	
+ ∣ 
+2
+ =0 so 
+p
+¨
+⋅
+p
+=
+−
+1
+p
+¨
+​	
+ ⋅p=−1.
+
+Hmm wait that gives 
+∣
+p
+¨
+∣
+2
+−
+1
+=
+κ
+g
+2
+∣ 
+p
+¨
+​	
+ ∣ 
+2
+ −1=κ 
+g
+2
+​	
+ , i.e., 
+κ
+g
+=
+∣
+p
+¨
+∣
+2
+−
+1
+κ 
+g
+​	
+ = 
+∣ 
+p
+¨
+​	
+ ∣ 
+2
+ −1
+​	
+ . But for a geodesic (great circle), 
+p
+¨
+p
+¨
+​	
+  is parallel to 
+p
+p (since acceleration is purely centripetal toward center), so 
+p
+¨
+=
+−
+p
+p
+¨
+​	
+ =−p, giving 
+∣
+p
+¨
+∣
+=
+1
+∣ 
+p
+¨
+​	
+ ∣=1 and 
+κ
+g
+=
+0
+κ 
+g
+​	
+ =0 ✓.
+
+For a general curve, I need 
+∣
+p
+¨
+∣
+2
+∣ 
+p
+¨
+​	
+ ∣ 
+2
+ .
+
+Let me just compute for loxodrome. Using 
+ϕ
+ϕ as parameter:
+p
+(
+ϕ
+)
+=
+(
+cos
+⁡
+ϕ
+cos
+⁡
+λ
+(
+ϕ
+)
+,
+cos
+⁡
+ϕ
+sin
+⁡
+λ
+(
+ϕ
+)
+,
+sin
+⁡
+ϕ
+)
+p(ϕ)=(cosϕcosλ(ϕ),cosϕsinλ(ϕ),sinϕ) with 
+λ
+′
+(
+ϕ
+)
+=
+tan
+⁡
+α
+cos
+⁡
+ϕ
+λ 
+′
+ (ϕ)= 
+cosϕ
+tanα
+​	
+  (prime = 
+d
+/
+d
+ϕ
+d/dϕ).
+
+Arc length derivative: 
+d
+s
+/
+d
+ϕ
+=
+1
+/
+cos
+⁡
+α
+ds/dϕ=1/cosα (constant, since
+cos
+⁡
+ϕ
+⋅
+λ
+′
+=
+tan
+⁡
+α
+⋅
+cosϕ⋅λ 
+′
+ =tanα⋅ hmm let me recompute).
+p
+˙
+=
+p
+′
+(
+d
+ϕ
+/
+d
+s
+)
+p
+˙
+​	
+ =p 
+′
+ (dϕ/ds) where 
+d
+ϕ
+/
+d
+s
+=
+cos
+⁡
+α
+dϕ/ds=cosα (as we found).
+
+p
+′
+=
+d
+d
+ϕ
+(
+cos
+⁡
+ϕ
+cos
+⁡
+λ
+,
+cos
+⁡
+ϕ
+sin
+⁡
+λ
+,
+sin
+⁡
+ϕ
+)
+p 
+′
+ = 
+dϕ
+d
+​	
+ (cosϕcosλ,cosϕsinλ,sinϕ)
+=
+(
+−
+sin
+⁡
+ϕ
+cos
+⁡
+λ
+−
+cos
+⁡
+ϕ
+sin
+⁡
+λ
+⋅
+λ
+′
+,
+−
+sin
+⁡
+ϕ
+sin
+⁡
+λ
++
+cos
+⁡
+ϕ
+cos
+⁡
+λ
+⋅
+λ
+′
+,
+cos
+⁡
+ϕ
+)
+=(−sinϕcosλ−cosϕsinλ⋅λ 
+′
+ ,−sinϕsinλ+cosϕcosλ⋅λ 
+′
+ ,cosϕ)
+
+p
+¨
+=
+p
+′
+′
+⋅
+(
+d
+ϕ
+/
+d
+s
+)
+2
++
+p
+′
+⋅
+(
+d
+2
+ϕ
+/
+d
+s
+2
+)
+p
+¨
+​	
+ =p 
+′′
+ ⋅(dϕ/ds) 
+2
+ +p 
+′
+ ⋅(d 
+2
+ ϕ/ds 
+2
+ )
+
+Since 
+d
+ϕ
+/
+d
+s
+=
+cos
+⁡
+α
+dϕ/ds=cosα is constant, 
+d
+2
+ϕ
+/
+d
+s
+2
+=
+0
+d 
+2
+ ϕ/ds 
+2
+ =0. So:
+p
+¨
+=
+p
+′
+′
+⋅
+cos
+⁡
+2
+α
+p
+¨
+​	
+ =p 
+′′
+ ⋅cos 
+2
+ α.
+
+Now 
+p
+′
+′
+p 
+′′
+ : differentiate 
+p
+′
+p 
+′
+ :
+First component: 
+−
+cos
+⁡
+ϕ
+cos
+⁡
+λ
++
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+⋅
+λ
+′
+−
+(
+−
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+⋅
+λ
+′
++
+cos
+⁡
+ϕ
+cos
+⁡
+λ
+⋅
+λ
+′
+2
++
+cos
+⁡
+ϕ
+sin
+⁡
+λ
+⋅
+λ
+′
+′
+)
+−cosϕcosλ+sinϕsinλ⋅λ 
+′
+ −(−sinϕsinλ⋅λ 
+′
+ +cosϕcosλ⋅λ 
+′2
+ +cosϕsinλ⋅λ 
+′′
+ )
+=
+−
+cos
+⁡
+ϕ
+cos
+⁡
+λ
++
+2
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+λ
+′
+−
+cos
+⁡
+ϕ
+cos
+⁡
+λ
+λ
+′
+2
+−
+cos
+⁡
+ϕ
+sin
+⁡
+λ
+λ
+′
+′
+=−cosϕcosλ+2sinϕsinλλ 
+′
+ −cosϕcosλλ 
+′2
+ −cosϕsinλλ 
+′′
+ 
+
+This is getting complicated. Let me use the simplifications.
+
+λ
+′
+=
+tan
+⁡
+α
+/
+cos
+⁡
+ϕ
+λ 
+′
+ =tanα/cosϕ, 
+λ
+′
+′
+=
+tan
+⁡
+α
+⋅
+sin
+⁡
+ϕ
+/
+cos
+⁡
+2
+ϕ
+λ 
+′′
+ =tanα⋅sinϕ/cos 
+2
+ ϕ.
+
+Hmm, and 
+cos
+⁡
+ϕ
+λ
+′
+=
+tan
+⁡
+α
+cosϕλ 
+′
+ =tanα (constant), so 
+d
+(
+cos
+⁡
+ϕ
+λ
+′
+)
+/
+d
+ϕ
+=
+0
+d(cosϕλ 
+′
+ )/dϕ=0, so 
+−
+sin
+⁡
+ϕ
+λ
+′
++
+cos
+⁡
+ϕ
+λ
+′
+′
+=
+0
+−sinϕλ 
+′
+ +cosϕλ 
+′′
+ =0, giving 
+λ
+′
+′
+=
+sin
+⁡
+ϕ
+⋅
+λ
+′
+/
+cos
+⁡
+ϕ
+=
+tan
+⁡
+α
+sin
+⁡
+ϕ
+/
+cos
+⁡
+2
+ϕ
+λ 
+′′
+ =sinϕ⋅λ 
+′
+ /cosϕ=tanαsinϕ/cos 
+2
+ ϕ. ✓
+
+First component of 
+p
+′
+′
+p 
+′′
+ :
+−
+cos
+⁡
+ϕ
+cos
+⁡
+λ
++
+2
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+⋅
+tan
+⁡
+α
+cos
+⁡
+ϕ
+−
+cos
+⁡
+ϕ
+cos
+⁡
+λ
+⋅
+tan
+⁡
+2
+α
+cos
+⁡
+2
+ϕ
+−
+cos
+⁡
+ϕ
+sin
+⁡
+λ
+⋅
+tan
+⁡
+α
+sin
+⁡
+ϕ
+cos
+⁡
+2
+ϕ
+−cosϕcosλ+2sinϕsinλ⋅ 
+cosϕ
+tanα
+​	
+ −cosϕcosλ⋅ 
+cos 
+2
+ ϕ
+tan 
+2
+ α
+​	
+ −cosϕsinλ⋅ 
+cos 
+2
+ ϕ
+tanαsinϕ
+​	
+ 
+=
+−
+cos
+⁡
+ϕ
+cos
+⁡
+λ
++
+2
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+tan
+⁡
+α
+cos
+⁡
+ϕ
+−
+cos
+⁡
+λ
+tan
+⁡
+2
+α
+cos
+⁡
+ϕ
+−
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+tan
+⁡
+α
+cos
+⁡
+ϕ
+=−cosϕcosλ+2sinϕsinλ 
+cosϕ
+tanα
+​	
+ − 
+cosϕ
+cosλtan 
+2
+ α
+​	
+ − 
+cosϕ
+sinϕsinλtanα
+​	
+ 
+=
+−
+cos
+⁡
+ϕ
+cos
+⁡
+λ
++
+2
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+tan
+⁡
+α
+−
+cos
+⁡
+λ
+tan
+⁡
+2
+α
+−
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+tan
+⁡
+α
+cos
+⁡
+ϕ
+=−cosϕcosλ+ 
+cosϕ
+2sinϕsinλtanα−cosλtan 
+2
+ α−sinϕsinλtanα
+​	
+ 
+=
+−
+cos
+⁡
+ϕ
+cos
+⁡
+λ
++
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+tan
+⁡
+α
+−
+cos
+⁡
+λ
+tan
+⁡
+2
+α
+cos
+⁡
+ϕ
+=−cosϕcosλ+ 
+cosϕ
+sinϕsinλtanα−cosλtan 
+2
+ α
+​	
+ 
+
+Hmm let me just compute 
+∣
+p
+′
+′
+∣
+2
+∣p 
+′′
+ ∣ 
+2
+  directly using the fact that
+∣
+p
+′
+∣
+2
+=
+(
+d
+s
+/
+d
+ϕ
+)
+2
+=
+1
+/
+cos
+⁡
+2
+α
+∣p 
+′
+ ∣ 
+2
+ =(ds/dϕ) 
+2
+ =1/cos 
+2
+ α. And 
+p
+′
+′
+⋅
+p
+′
+=
+1
+2
+d
+∣
+p
+′
+∣
+2
+/
+d
+ϕ
+=
+0
+p 
+′′
+ ⋅p 
+′
+ = 
+2
+1
+​	
+ d∣p 
+′
+ ∣ 
+2
+ /dϕ=0 (since 
+∣
+p
+′
+∣
+∣p 
+′
+ ∣ is constant). So 
+p
+′
+′
+p 
+′′
+  is perpendicular to 
+p
+′
+p 
+′
+  (in 
+R
+3
+R 
+3
+ ).
+
+Also 
+p
+′
+′
+⋅
+p
+=
+−
+∣
+p
+′
+∣
+2
+=
+−
+1
+/
+cos
+⁡
+2
+α
+p 
+′′
+ ⋅p=−∣p 
+′
+ ∣ 
+2
+ =−1/cos 
+2
+ α (differentiating 
+p
+′
+⋅
+p
+=
+0
+p 
+′
+ ⋅p=0).
+
+So 
+p
+′
+′
+p 
+′′
+  decomposes as: \mathbf{p}'direction = 0)} + \text{(component perpendicular to both, i.e., along\mathbf{p}\times\mathbf{p}')} \cdot c.
+
+∣
+p
+′
+′
+∣
+2
+=
+1
+/
+cos
+⁡
+4
+α
++
+c
+2
+∣p 
+′′
+ ∣ 
+2
+ =1/cos 
+4
+ α+c 
+2
+ .
+
+Now: 
+p
+×
+p
+′
+p×p 
+′
+ : 
+p
+′
+=
+(
+d
+λ
+/
+d
+ϕ
+)
+(
+∂
+λ
+p
+)
++
+∂
+ϕ
+p
+p 
+′
+ =(dλ/dϕ)(∂ 
+λ
+​	
+ p)+∂ 
+ϕ
+​	
+ p. And 
+∂
+λ
+p
+∂ 
+λ
+​	
+ p, 
+∂
+ϕ
+p
+∂ 
+ϕ
+​	
+ p, 
+p
+p form an orthogonal frame with 
+∣
+∂
+λ
+p
+∣
+=
+cos
+⁡
+ϕ
+∣∂ 
+λ
+​	
+ p∣=cosϕ, 
+∣
+∂
+ϕ
+p
+∣
+=
+1
+∣∂ 
+ϕ
+​	
+ p∣=1.
+
+p
+×
+∂
+ϕ
+p
+p×∂ 
+ϕ
+​	
+ p = unit vector perpendicular to meridian, magnitude 1 = parallel's direction (normalized). 
+∂
+λ
+p
+=
+cos
+⁡
+ϕ
+⋅
+∂ 
+λ
+​	
+ p=cosϕ⋅ (this unit vector). So 
+p
+×
+p
+′
+p×p 
+′
+ :
+p
+′
+=
+λ
+′
+∂
+λ
+p
++
+∂
+ϕ
+p
+=
+λ
+′
+cos
+⁡
+ϕ
+⋅
+e
+^
+λ
++
+e
+^
+ϕ
+p 
+′
+ =λ 
+′
+ ∂ 
+λ
+​	
+ p+∂ 
+ϕ
+​	
+ p=λ 
+′
+ cosϕ⋅ 
+e
+^
+  
+λ
+​	
+ + 
+e
+^
+  
+ϕ
+​	
+  where 
+e
+^
+λ
+,
+e
+^
+ϕ
+e
+^
+  
+λ
+​	
+ , 
+e
+^
+  
+ϕ
+​	
+  are unit vectors.
+p
+×
+p
+′
+=
+λ
+′
+cos
+⁡
+ϕ
+⋅
+(
+p
+×
+e
+^
+λ
+)
++
+p
+×
+e
+^
+ϕ
+p×p 
+′
+ =λ 
+′
+ cosϕ⋅(p× 
+e
+^
+  
+λ
+​	
+ )+p× 
+e
+^
+  
+ϕ
+​	
+ 
+p
+×
+e
+^
+ϕ
+=
+−
+e
+^
+λ
+p× 
+e
+^
+  
+ϕ
+​	
+ =− 
+e
+^
+  
+λ
+​	
+  (or 
++
+e
+^
+λ
++ 
+e
+^
+  
+λ
+​	
+  depending on orientation).
+
+Let me set up: 
+e
+^
+ϕ
+=
+∂
+ϕ
+p
+e
+^
+  
+ϕ
+​	
+ =∂ 
+ϕ
+​	
+ p (unit), 
+e
+^
+λ
+=
+∂
+λ
+p
+/
+cos
+⁡
+ϕ
+e
+^
+  
+λ
+​	
+ =∂ 
+λ
+​	
+ p/cosϕ (unit). And 
+p
+p is radial (outward). Then 
+e
+^
+ϕ
+×
+e
+^
+λ
+=
+?
+e
+^
+  
+ϕ
+​	
+ × 
+e
+^
+  
+λ
+​	
+ =?
+
+At a point on the equator at longitude 0: 
+p
+=
+(
+1
+,
+0
+,
+0
+)
+p=(1,0,0), 
+e
+^
+ϕ
+=
+(
+0
+,
+0
+,
+1
+)
+e
+^
+  
+ϕ
+​	
+ =(0,0,1) (north), 
+e
+^
+λ
+=
+(
+0
+,
+1
+,
+0
+)
+e
+^
+  
+λ
+​	
+ =(0,1,0) (east). Then 
+e
+^
+ϕ
+×
+e
+^
+λ
+=
+(
+0
+,
+0
+,
+1
+)
+×
+(
+0
+,
+1
+,
+0
+)
+=
+(
+−
+1
+,
+0
+,
+0
+)
+=
+−
+p
+e
+^
+  
+ϕ
+​	
+ × 
+e
+^
+  
+λ
+​	
+ =(0,0,1)×(0,1,0)=(−1,0,0)=−p. So 
+e
+^
+ϕ
+×
+e
+^
+λ
+=
+−
+p
+e
+^
+  
+ϕ
+​	
+ × 
+e
+^
+  
+λ
+​	
+ =−p, i.e., 
+p
+×
+e
+^
+λ
+=
+−
+e
+^
+ϕ
+p× 
+e
+^
+  
+λ
+​	
+ =− 
+e
+^
+  
+ϕ
+​	
+  and 
+p
+×
+e
+^
+ϕ
+=
+e
+^
+λ
+p× 
+e
+^
+  
+ϕ
+​	
+ = 
+e
+^
+  
+λ
+​	
+ .
+
+p
+×
+p
+′
+=
+λ
+′
+cos
+⁡
+ϕ
+⋅
+(
+p
+×
+e
+^
+λ
+)
++
+p
+×
+e
+^
+ϕ
+=
+λ
+′
+cos
+⁡
+ϕ
+⋅
+(
+−
+e
+^
+ϕ
+)
++
+e
+^
+λ
+=
+e
+^
+λ
+−
+λ
+′
+cos
+⁡
+ϕ
+ 
+e
+^
+ϕ
+p×p 
+′
+ =λ 
+′
+ cosϕ⋅(p× 
+e
+^
+  
+λ
+​	
+ )+p× 
+e
+^
+  
+ϕ
+​	
+ =λ 
+′
+ cosϕ⋅(− 
+e
+^
+  
+ϕ
+​	
+ )+ 
+e
+^
+  
+λ
+​	
+ = 
+e
+^
+  
+λ
+​	
+ −λ 
+′
+ cosϕ 
+e
+^
+  
+ϕ
+​	
+ .
+
+With 
+λ
+′
+cos
+⁡
+ϕ
+=
+tan
+⁡
+α
+λ 
+′
+ cosϕ=tanα: 
+p
+×
+p
+′
+=
+e
+^
+λ
+−
+tan
+⁡
+α
+ 
+e
+^
+ϕ
+p×p 
+′
+ = 
+e
+^
+  
+λ
+​	
+ −tanα 
+e
+^
+  
+ϕ
+​	
+ .
+
+∣
+p
+×
+p
+′
+∣
+2
+=
+1
++
+tan
+⁡
+2
+α
+=
+1
+/
+cos
+⁡
+2
+α
+∣p×p 
+′
+ ∣ 
+2
+ =1+tan 
+2
+ α=1/cos 
+2
+ α ✓ (equals 
+∣
+p
+′
+∣
+2
+∣p 
+′
+ ∣ 
+2
+ ).
+
+Now: 
+p
+′
+′
+p 
+′′
+  has component along 
+p
+p equal to 
+−
+1
+/
+cos
+⁡
+2
+α
+−1/cos 
+2
+ α, component along 
+p
+′
+p 
+′
+  equal to 0, and component along 
+p
+×
+p
+′
+p×p 
+′
+ equal to some 
+c
+c.
+
+Then 
+p
+′
+′
+⋅
+(
+p
+×
+p
+′
+)
+=
+c
+∣
+p
+×
+p
+′
+∣
+2
+=
+c
+/
+cos
+⁡
+2
+α
+p 
+′′
+ ⋅(p×p 
+′
+ )=c∣p×p 
+′
+ ∣ 
+2
+ =c/cos 
+2
+ α.
+
+So 
+c
+=
+cos
+⁡
+2
+α
+⋅
+p
+′
+′
+⋅
+(
+p
+×
+p
+′
+)
+c=cos 
+2
+ α⋅p 
+′′
+ ⋅(p×p 
+′
+ ).
+
+p
+′
+′
+⋅
+(
+p
+×
+p
+′
+)
+=
+(
+p
+,
+p
+′
+,
+p
+′
+′
+)
+p 
+′′
+ ⋅(p×p 
+′
+ )=(p,p 
+′
+ ,p 
+′′
+ ) triple product.
+
+Using 
+p
+′
+=
+e
+^
+λ
+tan
+⁡
+α
++
+e
+^
+ϕ
+p 
+′
+ = 
+e
+^
+  
+λ
+​	
+ tanα+ 
+e
+^
+  
+ϕ
+​	
+  and differentiating:
+p
+′
+′
+=
+d
+d
+ϕ
+(
+tan
+⁡
+α
+ 
+e
+^
+λ
++
+e
+^
+ϕ
+)
+p 
+′′
+ = 
+dϕ
+d
+​	
+ (tanα 
+e
+^
+  
+λ
+​	
+ + 
+e
+^
+  
+ϕ
+​	
+ )
+=
+tan
+⁡
+α
+ 
+d
+e
+^
+λ
+d
+ϕ
++
+d
+e
+^
+ϕ
+d
+ϕ
+=tanα 
+dϕ
+d 
+e
+^
+  
+λ
+​	
+ 
+​	
+ + 
+dϕ
+d 
+e
+^
+  
+ϕ
+​	
+ 
+​	
+ 
+
+d
+e
+^
+λ
+d
+ϕ
+dϕ
+d 
+e
+^
+  
+λ
+​	
+ 
+​	
+ : 
+e
+^
+λ
+=
+1
+cos
+⁡
+ϕ
+∂
+λ
+p
+=
+(
+−
+sin
+⁡
+λ
+,
+cos
+⁡
+λ
+,
+0
+)
+e
+^
+  
+λ
+​	
+ = 
+cosϕ
+1
+​	
+ ∂ 
+λ
+​	
+ p=(−sinλ,cosλ,0). So 
+d
+e
+^
+λ
+d
+ϕ
+=
+0
+dϕ
+d 
+e
+^
+  
+λ
+​	
+ 
+​	
+ =0? Wait, 
+e
+^
+λ
+e
+^
+  
+λ
+​	
+ depends on 
+λ
+λ not 
+ϕ
+ϕ... but 
+λ
+=
+λ
+(
+ϕ
+)
+λ=λ(ϕ), so 
+d
+e
+^
+λ
+/
+d
+ϕ
+=
+λ
+′
+⋅
+(
+−
+cos
+⁡
+λ
+,
+−
+sin
+⁡
+λ
+,
+0
+)
+=
+λ
+′
+⋅
+(
+−
+cos
+⁡
+λ
+,
+−
+sin
+⁡
+λ
+,
+0
+)
+d 
+e
+^
+  
+λ
+​	
+ /dϕ=λ 
+′
+ ⋅(−cosλ,−sinλ,0)=λ 
+′
+ ⋅(−cosλ,−sinλ,0).
+
+And 
+(
+−
+cos
+⁡
+λ
+,
+−
+sin
+⁡
+λ
+,
+0
+)
+=
+−
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+=
+−
+p
+−
+sin
+⁡
+ϕ
+z
+^
+cos
+⁡
+ϕ
+=
+−
+1
+cos
+⁡
+ϕ
+(
+p
+−
+sin
+⁡
+ϕ
+z
+^
+)
+(−cosλ,−sinλ,0)=−(cosλ,sinλ,0)=− 
+cosϕ
+p−sinϕ 
+z
+^
+ 
+​	
+ =− 
+cosϕ
+1
+​	
+ (p−sinϕ 
+z
+^
+ ).
+
+Hmm, in terms of 
+p
+p and 
+e
+^
+ϕ
+e
+^
+  
+ϕ
+​	
+ : 
+p
+=
+cos
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
++
+sin
+⁡
+ϕ
+z
+^
+p=cosϕ(cosλ,sinλ,0)+sinϕ 
+z
+^
+ . 
+e
+^
+ϕ
+=
+−
+sin
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
++
+cos
+⁡
+ϕ
+z
+^
+e
+^
+  
+ϕ
+​	
+ =−sinϕ(cosλ,sinλ,0)+cosϕ 
+z
+^
+ .
+
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+=
+(
+p
+−
+sin
+⁡
+ϕ
+z
+^
+)
+/
+cos
+⁡
+ϕ
+=
+p
+/
+cos
+⁡
+ϕ
+−
+tan
+⁡
+ϕ
+z
+^
+(cosλ,sinλ,0)=(p−sinϕ 
+z
+^
+ )/cosϕ=p/cosϕ−tanϕ 
+z
+^
+ .
+And 
+z
+^
+=
+sin
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
++
+cos
+⁡
+ϕ
+e
+^
+ϕ
+z
+^
+ =sinϕ(cosλ,sinλ,0)+cosϕ 
+e
+^
+  
+ϕ
+​	
+ ... wait this is getting circular. Let me just:
+
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+=
+p
+−
+sin
+⁡
+ϕ
+z
+^
+cos
+⁡
+ϕ
+(cosλ,sinλ,0)= 
+cosϕ
+p−sinϕ 
+z
+^
+ 
+​	
+  and 
+e
+^
+ϕ
+=
+−
+sin
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
++
+cos
+⁡
+ϕ
+z
+^
+e
+^
+  
+ϕ
+​	
+ =−sinϕ(cosλ,sinλ,0)+cosϕ 
+z
+^
+ .
+
+From second: 
+z
+^
+=
+(
+e
+^
+ϕ
++
+sin
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+)
+/
+cos
+⁡
+ϕ
+z
+^
+ =( 
+e
+^
+  
+ϕ
+​	
+ +sinϕ(cosλ,sinλ,0))/cosϕ.
+
+Sub into first: 
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+=
+p
+−
+sin
+⁡
+ϕ
+(
+e
+^
+ϕ
++
+sin
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+)
+/
+cos
+⁡
+ϕ
+cos
+⁡
+ϕ
+(cosλ,sinλ,0)= 
+cosϕ
+p−sinϕ( 
+e
+^
+  
+ϕ
+​	
+ +sinϕ(cosλ,sinλ,0))/cosϕ
+​	
+ 
+cos
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+=
+p
+−
+tan
+⁡
+ϕ
+e
+^
+ϕ
+−
+tan
+⁡
+2
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+cosϕ(cosλ,sinλ,0)=p−tanϕ 
+e
+^
+  
+ϕ
+​	
+ −tan 
+2
+ ϕ(cosλ,sinλ,0)
+(
+cos
+⁡
+ϕ
++
+sin
+⁡
+2
+ϕ
+/
+cos
+⁡
+ϕ
+)
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+=
+p
+−
+tan
+⁡
+ϕ
+e
+^
+ϕ
+(cosϕ+sin 
+2
+ ϕ/cosϕ)(cosλ,sinλ,0)=p−tanϕ 
+e
+^
+  
+ϕ
+​	
+ 
+(
+1
+/
+cos
+⁡
+ϕ
+)
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+=
+p
+−
+tan
+⁡
+ϕ
+e
+^
+ϕ
+(1/cosϕ)(cosλ,sinλ,0)=p−tanϕ 
+e
+^
+  
+ϕ
+​	
+ 
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+=
+cos
+⁡
+ϕ
+p
+−
+sin
+⁡
+ϕ
+e
+^
+ϕ
+(cosλ,sinλ,0)=cosϕp−sinϕ 
+e
+^
+  
+ϕ
+​	
+ 
+
+So 
+d
+e
+^
+λ
+/
+d
+ϕ
+=
+−
+λ
+′
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+=
+−
+λ
+′
+(
+cos
+⁡
+ϕ
+p
+−
+sin
+⁡
+ϕ
+e
+^
+ϕ
+)
+d 
+e
+^
+  
+λ
+​	
+ /dϕ=−λ 
+′
+ (cosλ,sinλ,0)=−λ 
+′
+ (cosϕp−sinϕ 
+e
+^
+  
+ϕ
+​	
+ ).
+
+d
+e
+^
+ϕ
+d
+ϕ
+dϕ
+d 
+e
+^
+  
+ϕ
+​	
+ 
+​	
+ : 
+e
+^
+ϕ
+=
+∂
+ϕ
+p
+=
+−
+sin
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
++
+cos
+⁡
+ϕ
+z
+^
+e
+^
+  
+ϕ
+​	
+ =∂ 
+ϕ
+​	
+ p=−sinϕ(cosλ,sinλ,0)+cosϕ 
+z
+^
+ .
+d
+e
+^
+ϕ
+/
+d
+ϕ
+=
+−
+cos
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
++
+λ
+′
+(
+−
+sin
+⁡
+ϕ
+)
+(
+−
+sin
+⁡
+λ
+,
+cos
+⁡
+λ
+,
+0
+)
+−
+sin
+⁡
+ϕ
+z
+^
+d 
+e
+^
+  
+ϕ
+​	
+ /dϕ=−cosϕ(cosλ,sinλ,0)+λ 
+′
+ (−sinϕ)(−sinλ,cosλ,0)−sinϕ 
+z
+^
+ 
+=
+−
+cos
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+−
+sin
+⁡
+ϕ
+z
+^
++
+λ
+′
+sin
+⁡
+ϕ
+(
+sin
+⁡
+λ
+,
+−
+cos
+⁡
+λ
+,
+0
+)
+=−cosϕ(cosλ,sinλ,0)−sinϕ 
+z
+^
+ +λ 
+′
+ sinϕ(sinλ,−cosλ,0)
+
+−
+cos
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+−
+sin
+⁡
+ϕ
+z
+^
+=
+−
+p
+−cosϕ(cosλ,sinλ,0)−sinϕ 
+z
+^
+ =−p.
+And 
+(
+sin
+⁡
+λ
+,
+−
+cos
+⁡
+λ
+,
+0
+)
+=
+?
+(sinλ,−cosλ,0)=? Compare to 
+e
+^
+λ
+=
+(
+−
+sin
+⁡
+λ
+,
+cos
+⁡
+λ
+,
+0
+)
+e
+^
+  
+λ
+​	
+ =(−sinλ,cosλ,0). So 
+(
+sin
+⁡
+λ
+,
+−
+cos
+⁡
+λ
+,
+0
+)
+=
+−
+e
+^
+λ
+(sinλ,−cosλ,0)=− 
+e
+^
+  
+λ
+​	
+ .
+
+So 
+d
+e
+^
+ϕ
+/
+d
+ϕ
+=
+−
+p
+−
+λ
+′
+sin
+⁡
+ϕ
+e
+^
+λ
+d 
+e
+^
+  
+ϕ
+​	
+ /dϕ=−p−λ 
+′
+ sinϕ 
+e
+^
+  
+λ
+​	
+ .
+
+So: 
+p
+′
+′
+=
+tan
+⁡
+α
+⋅
+(
+−
+λ
+′
+(
+cos
+⁡
+ϕ
+p
+−
+sin
+⁡
+ϕ
+e
+^
+ϕ
+)
+)
++
+(
+−
+p
+−
+λ
+′
+sin
+⁡
+ϕ
+e
+^
+λ
+)
+p 
+′′
+ =tanα⋅(−λ 
+′
+ (cosϕp−sinϕ 
+e
+^
+  
+ϕ
+​	
+ ))+(−p−λ 
+′
+ sinϕ 
+e
+^
+  
+λ
+​	
+ )
+=
+−
+tan
+⁡
+α
+λ
+′
+cos
+⁡
+ϕ
+⋅
+p
++
+tan
+⁡
+α
+λ
+′
+sin
+⁡
+ϕ
+e
+^
+ϕ
+−
+p
+−
+λ
+′
+sin
+⁡
+ϕ
+e
+^
+λ
+=−tanαλ 
+′
+ cosϕ⋅p+tanαλ 
+′
+ sinϕ 
+e
+^
+  
+ϕ
+​	
+ −p−λ 
+′
+ sinϕ 
+e
+^
+  
+λ
+​	
+ 
+
+tan
+⁡
+α
+λ
+′
+cos
+⁡
+ϕ
+=
+tan
+⁡
+α
+⋅
+tan
+⁡
+α
+cos
+⁡
+ϕ
+⋅
+cos
+⁡
+ϕ
+=
+tan
+⁡
+2
+α
+tanαλ 
+′
+ cosϕ=tanα⋅ 
+cosϕ
+tanα
+​	
+ ⋅cosϕ=tan 
+2
+ α.
+λ
+′
+sin
+⁡
+ϕ
+=
+tan
+⁡
+α
+sin
+⁡
+ϕ
+cos
+⁡
+ϕ
+λ 
+′
+ sinϕ= 
+cosϕ
+tanαsinϕ
+​	
+ .
+
+p
+′
+′
+=
+−
+tan
+⁡
+2
+α
+p
+−
+p
++
+tan
+⁡
+2
+α
+tan
+⁡
+ϕ
+ 
+e
+^
+ϕ
+−
+tan
+⁡
+α
+sin
+⁡
+ϕ
+cos
+⁡
+ϕ
+e
+^
+λ
+p 
+′′
+ =−tan 
+2
+ αp−p+tan 
+2
+ αtanϕ 
+e
+^
+  
+ϕ
+​	
+ − 
+cosϕ
+tanαsinϕ
+​	
+  
+e
+^
+  
+λ
+​	
+ 
+=
+−
+(
+1
++
+tan
+⁡
+2
+α
+)
+p
++
+tan
+⁡
+2
+α
+tan
+⁡
+ϕ
+ 
+e
+^
+ϕ
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+ 
+e
+^
+λ
+=−(1+tan 
+2
+ α)p+tan 
+2
+ αtanϕ 
+e
+^
+  
+ϕ
+​	
+ −tanαtanϕ 
+e
+^
+  
+λ
+​	
+ 
+=
+−
+sec
+⁡
+2
+α
+ 
+p
++
+tan
+⁡
+α
+tan
+⁡
+ϕ
+(
+tan
+⁡
+α
+ 
+e
+^
+ϕ
+−
+e
+^
+λ
+)
+=−sec 
+2
+ αp+tanαtanϕ(tanα 
+e
+^
+  
+ϕ
+​	
+ − 
+e
+^
+  
+λ
+​	
+ )
+
+Now, 
+p
+′
+⋅
+p
+′
+′
+=
+1
+2
+d
+(
+∣
+p
+′
+∣
+2
+)
+/
+d
+ϕ
+p 
+′
+ ⋅p 
+′′
+ = 
+2
+1
+​	
+ d(∣p 
+′
+ ∣ 
+2
+ )/dϕ. 
+∣
+p
+′
+∣
+2
+=
+sec
+⁡
+2
+α
+∣p 
+′
+ ∣ 
+2
+ =sec 
+2
+ α (constant). So
+p
+′
+⋅
+p
+′
+′
+=
+0
+p 
+′
+ ⋅p 
+′′
+ =0. Let me verify: 
+p
+′
+=
+tan
+⁡
+α
+e
+^
+λ
++
+e
+^
+ϕ
+p 
+′
+ =tanα 
+e
+^
+  
+λ
+​	
+ + 
+e
+^
+  
+ϕ
+​	
+ . 
+p
+′
+′
+⋅
+p
+′
+=
+tan
+⁡
+2
+α
+tan
+⁡
+ϕ
+(
+tan
+⁡
+α
+⋅
+0
+−
+1
+)
+⋅
+tan
+⁡
+α
++
+tan
+⁡
+α
+tan
+⁡
+ϕ
+(
+0
+−
+tan
+⁡
+α
+)
+p 
+′′
+ ⋅p 
+′
+ =tan 
+2
+ αtanϕ(tanα⋅0−1)⋅tanα+tanαtanϕ(0−tanα)...
+
+Hmm let me recompute. 
+p
+′
+′
+=
+−
+sec
+⁡
+2
+α
+p
++
+tan
+⁡
+α
+tan
+⁡
+ϕ
+(
+tan
+⁡
+α
+e
+^
+ϕ
+−
+e
+^
+λ
+)
+p 
+′′
+ =−sec 
+2
+ αp+tanαtanϕ(tanα 
+e
+^
+  
+ϕ
+​	
+ − 
+e
+^
+  
+λ
+​	
+ ).
+
+p
+′
+=
+tan
+⁡
+α
+e
+^
+λ
++
+e
+^
+ϕ
+p 
+′
+ =tanα 
+e
+^
+  
+λ
+​	
+ + 
+e
+^
+  
+ϕ
+​	
+ .
+
+p
+′
+⋅
+p
+′
+′
+=
+0
++
+tan
+⁡
+α
+tan
+⁡
+ϕ
+[
+tan
+⁡
+α
+(
+tan
+⁡
+α
+e
+^
+ϕ
+e
+^
+ϕ
+−
+e
+^
+λ
+e
+^
+ϕ
+)
++
+(
+tan
+⁡
+α
+e
+^
+λ
+e
+^
+ϕ
+−
+e
+^
+λ
+e
+^
+λ
+)
+]
+p 
+′
+ ⋅p 
+′′
+ =0+tanαtanϕ[tanα(tanα 
+e
+^
+  
+ϕ
+​	
+  
+e
+^
+  
+ϕ
+​	
+ − 
+e
+^
+  
+λ
+​	
+  
+e
+^
+  
+ϕ
+​	
+ )+(tanα 
+e
+^
+  
+λ
+​	
+  
+e
+^
+  
+ϕ
+​	
+ − 
+e
+^
+  
+λ
+​	
+  
+e
+^
+  
+λ
+​	
+ )]
+Wait, 
+e
+^
+λ
+⋅
+e
+^
+ϕ
+=
+0
+e
+^
+  
+λ
+​	
+ ⋅ 
+e
+^
+  
+ϕ
+​	
+ =0, 
+e
+^
+λ
+⋅
+e
+^
+λ
+=
+1
+e
+^
+  
+λ
+​	
+ ⋅ 
+e
+^
+  
+λ
+​	
+ =1, 
+e
+^
+ϕ
+⋅
+e
+^
+ϕ
+=
+1
+e
+^
+  
+ϕ
+​	
+ ⋅ 
+e
+^
+  
+ϕ
+​	
+ =1.
+
+p
+′
+⋅
+p
+′
+′
+=
+tan
+⁡
+α
+tan
+⁡
+ϕ
+[
+tan
+⁡
+α
+(
+tan
+⁡
+α
+⋅
+1
+−
+0
+)
++
+(
+0
+⋅
+tan
+⁡
+α
+−
+1
+)
+]
+p 
+′
+ ⋅p 
+′′
+ =tanαtanϕ[tanα(tanα⋅1−0)+(0⋅tanα−1)]
+=
+tan
+⁡
+α
+tan
+⁡
+ϕ
+[
+tan
+⁡
+2
+α
+−
+1
+]
+=tanαtanϕ[tan 
+2
+ α−1]
+
+Hmm, this is not zero unless 
+tan
+⁡
+α
+=
+±
+1
+tanα=±1. But I claimed 
+p
+′
+⋅
+p
+′
+′
+=
+0
+p 
+′
+ ⋅p 
+′′
+ =0 because 
+∣
+p
+′
+∣
+∣p 
+′
+ ∣ is constant. Let me recheck my 
+p
+′
+′
+p 
+′′
+ computation.
+
+Oh, I think I made an error. Let me recompute 
+p
+′
+⋅
+p
+′
+′
+p 
+′
+ ⋅p 
+′′
+  =
+1
+2
+d
+d
+ϕ
+∣
+p
+′
+∣
+2
+2
+1
+​	
+  
+dϕ
+d
+​	
+ ∣p 
+′
+ ∣ 
+2
+ . Since 
+∣
+p
+′
+∣
+=
+sec
+⁡
+α
+∣p 
+′
+ ∣=secα is constant, this should be 0.
+
+So 
+[
+tan
+⁡
+2
+α
+−
+1
+]
+tan
+⁡
+α
+tan
+⁡
+ϕ
+=
+0
+[tan 
+2
+ α−1]tanαtanϕ=0? That's not identically zero for all 
+ϕ
+ϕ. So something is wrong.
+
+Let me recheck 
+p
+′
+′
+p 
+′′
+ .
+
+p
+′
+=
+tan
+⁡
+α
+e
+^
+λ
++
+e
+^
+ϕ
+p 
+′
+ =tanα 
+e
+^
+  
+λ
+​	
+ + 
+e
+^
+  
+ϕ
+​	
+ 
+
+Differentiating (with prime 
+=
+d
+/
+d
+ϕ
+=d/dϕ):
+p
+′
+′
+=
+tan
+⁡
+α
+⋅
+d
+e
+^
+λ
+/
+d
+ϕ
++
+d
+e
+^
+ϕ
+/
+d
+ϕ
+p 
+′′
+ =tanα⋅d 
+e
+^
+  
+λ
+​	
+ /dϕ+d 
+e
+^
+  
+ϕ
+​	
+ /dϕ
+
+d
+e
+^
+λ
+/
+d
+ϕ
+d 
+e
+^
+  
+λ
+​	
+ /dϕ: 
+e
+^
+λ
+=
+(
+−
+sin
+⁡
+λ
+,
+cos
+⁡
+λ
+,
+0
+)
+e
+^
+  
+λ
+​	
+ =(−sinλ,cosλ,0).
+d
+e
+^
+λ
+/
+d
+ϕ
+=
+(
+−
+cos
+⁡
+λ
+,
+−
+sin
+⁡
+λ
+,
+0
+)
+⋅
+λ
+′
+d 
+e
+^
+  
+λ
+​	
+ /dϕ=(−cosλ,−sinλ,0)⋅λ 
+′
+ 
+=
+−
+λ
+′
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+=−λ 
+′
+ (cosλ,sinλ,0)
+=
+−
+λ
+′
+(
+cos
+⁡
+ϕ
+p
+−
+sin
+⁡
+ϕ
+e
+^
+ϕ
+)
+=−λ 
+′
+ (cosϕp−sinϕ 
+e
+^
+  
+ϕ
+​	
+ )
+=
+−
+λ
+′
+cos
+⁡
+ϕ
+p
++
+λ
+′
+sin
+⁡
+ϕ
+e
+^
+ϕ
+=−λ 
+′
+ cosϕp+λ 
+′
+ sinϕ 
+e
+^
+  
+ϕ
+​	
+ 
+With 
+λ
+′
+cos
+⁡
+ϕ
+=
+tan
+⁡
+α
+λ 
+′
+ cosϕ=tanα and 
+λ
+′
+sin
+⁡
+ϕ
+=
+tan
+⁡
+α
+tan
+⁡
+ϕ
+λ 
+′
+ sinϕ=tanαtanϕ:
+=
+−
+tan
+⁡
+α
+p
++
+tan
+⁡
+α
+tan
+⁡
+ϕ
+e
+^
+ϕ
+=−tanαp+tanαtanϕ 
+e
+^
+  
+ϕ
+​	
+ 
+
+d
+e
+^
+ϕ
+/
+d
+ϕ
+d 
+e
+^
+  
+ϕ
+​	
+ /dϕ:
+e
+^
+ϕ
+=
+∂
+ϕ
+p
+=
+(
+−
+sin
+⁡
+ϕ
+cos
+⁡
+λ
+,
+−
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+,
+cos
+⁡
+ϕ
+)
+e
+^
+  
+ϕ
+​	
+ =∂ 
+ϕ
+​	
+ p=(−sinϕcosλ,−sinϕsinλ,cosϕ).
+d
+/
+d
+ϕ
+=
+(
+−
+cos
+⁡
+ϕ
+cos
+⁡
+λ
++
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+⋅
+λ
+′
+,
+−
+cos
+⁡
+ϕ
+sin
+⁡
+λ
+−
+sin
+⁡
+ϕ
+cos
+⁡
+λ
+⋅
+λ
+′
+,
+−
+sin
+⁡
+ϕ
+)
+d/dϕ=(−cosϕcosλ+sinϕsinλ⋅λ 
+′
+ ,−cosϕsinλ−sinϕcosλ⋅λ 
+′
+ ,−sinϕ)
+=
+(
+−
+cos
+⁡
+ϕ
+cos
+⁡
+λ
+,
+−
+cos
+⁡
+ϕ
+sin
+⁡
+λ
+,
+−
+sin
+⁡
+ϕ
+)
++
+λ
+′
+(
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+,
+−
+sin
+⁡
+ϕ
+cos
+⁡
+λ
+,
+0
+)
+=(−cosϕcosλ,−cosϕsinλ,−sinϕ)+λ 
+′
+ (sinϕsinλ,−sinϕcosλ,0)
+=
+−
+p
++
+λ
+′
+sin
+⁡
+ϕ
+(
+sin
+⁡
+λ
+,
+−
+cos
+⁡
+λ
+,
+0
+)
+=−p+λ 
+′
+ sinϕ(sinλ,−cosλ,0)
+=
+−
+p
+−
+λ
+′
+sin
+⁡
+ϕ
+e
+^
+λ
+=−p−λ 
+′
+ sinϕ 
+e
+^
+  
+λ
+​	
+ 
+
+With 
+λ
+′
+sin
+⁡
+ϕ
+=
+tan
+⁡
+α
+tan
+⁡
+ϕ
+λ 
+′
+ sinϕ=tanαtanϕ:
+d
+e
+^
+ϕ
+/
+d
+ϕ
+=
+−
+p
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+e
+^
+λ
+d 
+e
+^
+  
+ϕ
+​	
+ /dϕ=−p−tanαtanϕ 
+e
+^
+  
+λ
+​	
+ 
+
+So:
+p
+′
+′
+=
+tan
+⁡
+α
+(
+−
+tan
+⁡
+α
+p
++
+tan
+⁡
+α
+tan
+⁡
+ϕ
+e
+^
+ϕ
+)
++
+(
+−
+p
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+e
+^
+λ
+)
+p 
+′′
+ =tanα(−tanαp+tanαtanϕ 
+e
+^
+  
+ϕ
+​	
+ )+(−p−tanαtanϕ 
+e
+^
+  
+λ
+​	
+ )
+=
+−
+tan
+⁡
+2
+α
+p
++
+tan
+⁡
+2
+α
+tan
+⁡
+ϕ
+e
+^
+ϕ
+−
+p
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+e
+^
+λ
+=−tan 
+2
+ αp+tan 
+2
+ αtanϕ 
+e
+^
+  
+ϕ
+​	
+ −p−tanαtanϕ 
+e
+^
+  
+λ
+​	
+ 
+=
+−
+(
+1
++
+tan
+⁡
+2
+α
+)
+p
++
+tan
+⁡
+2
+α
+tan
+⁡
+ϕ
+e
+^
+ϕ
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+e
+^
+λ
+=−(1+tan 
+2
+ α)p+tan 
+2
+ αtanϕ 
+e
+^
+  
+ϕ
+​	
+ −tanαtanϕ 
+e
+^
+  
+λ
+​	
+ 
+=
+−
+sec
+⁡
+2
+α
+p
++
+tan
+⁡
+α
+tan
+⁡
+ϕ
+(
+tan
+⁡
+α
+e
+^
+ϕ
+−
+e
+^
+λ
+)
+=−sec 
+2
+ αp+tanαtanϕ(tanα 
+e
+^
+  
+ϕ
+​	
+ − 
+e
+^
+  
+λ
+​	
+ )
+
+Now 
+p
+′
+⋅
+p
+′
+′
+p 
+′
+ ⋅p 
+′′
+ :
+=
+(
+tan
+⁡
+α
+e
+^
+λ
++
+e
+^
+ϕ
+)
+⋅
+(
+−
+sec
+⁡
+2
+α
+p
++
+tan
+⁡
+α
+tan
+⁡
+ϕ
+(
+tan
+⁡
+α
+e
+^
+ϕ
+−
+e
+^
+λ
+)
+)
+=(tanα 
+e
+^
+  
+λ
+​	
+ + 
+e
+^
+  
+ϕ
+​	
+ )⋅(−sec 
+2
+ αp+tanαtanϕ(tanα 
+e
+^
+  
+ϕ
+​	
+ − 
+e
+^
+  
+λ
+​	
+ ))
+=
+0
++
+0
++
+tan
+⁡
+α
+tan
+⁡
+ϕ
+[
+tan
+⁡
+α
+(
+tan
+⁡
+α
+⋅
+1
+−
+0
+)
++
+(
+0
+−
+1
+)
+]
+=0+0+tanαtanϕ[tanα(tanα⋅1−0)+(0−1)] (using 
+e
+^
+λ
+⋅
+e
+^
+ϕ
+=
+0
+e
+^
+  
+λ
+​	
+ ⋅ 
+e
+^
+  
+ϕ
+​	
+ =0)
+=
+tan
+⁡
+α
+tan
+⁡
+ϕ
+[
+tan
+⁡
+2
+α
+−
+1
+]
+=tanαtanϕ[tan 
+2
+ α−1]
+
+This is NOT zero. But it must be zero since 
+∣
+p
+′
+∣
+∣p 
+′
+ ∣ is constant!
+
+Let me recheck. 
+∣
+p
+′
+∣
+2
+=
+tan
+⁡
+2
+α
++
+1
+=
+sec
+⁡
+2
+α
+∣p 
+′
+ ∣ 
+2
+ =tan 
+2
+ α+1=sec 
+2
+ α, constant in 
+ϕ
+ϕ? Yes, because 
+tan
+⁡
+α
+tanα is a constant (loxodrome).
+
+Hmm, so 
+p
+′
+′
+⋅
+p
+′
+p 
+′′
+ ⋅p 
+′
+  should be 0. But I'm getting
+tan
+⁡
+α
+tan
+⁡
+ϕ
+(
+tan
+⁡
+2
+α
+−
+1
+)
+tanαtanϕ(tan 
+2
+ α−1).
+
+Oh I see — I think I miscalculated. Let me check with 
+α
+=
+π
+/
+4
+α=π/4,
+tan
+⁡
+α
+=
+1
+tanα=1. Then 
+tan
+⁡
+2
+α
+−
+1
+=
+0
+tan 
+2
+ α−1=0, and 
+p
+′
+⋅
+p
+′
+′
+=
+0
+p 
+′
+ ⋅p 
+′′
+ =0. ✓ OK it works for 
+α
+=
+π
+/
+4
+α=π/4.
+
+For general 
+α
+α: is 
+p
+′
+⋅
+p
+′
+′
+p 
+′
+ ⋅p 
+′′
+  supposed to be 0? Yes, always, since
+∣
+p
+′
+∣
+∣p 
+′
+ ∣ is constant. So my calculation has an error.
+
+Wait — let me recheck if 
+∣
+p
+′
+∣
+∣p 
+′
+ ∣ is constant. 
+p
+′
+=
+d
+p
+/
+d
+ϕ
+p 
+′
+ =dp/dϕ. 
+∣
+p
+′
+∣
+=
+d
+s
+/
+d
+ϕ
+∣p 
+′
+ ∣=ds/dϕ. Is 
+d
+s
+/
+d
+ϕ
+ds/dϕ constant?
+
+d
+s
+2
+=
+d
+ϕ
+2
++
+cos
+⁡
+2
+ϕ
+d
+λ
+2
+ds 
+2
+ =dϕ 
+2
+ +cos 
+2
+ ϕdλ 
+2
+ , so 
+d
+s
+/
+d
+ϕ
+=
+1
++
+cos
+⁡
+2
+ϕ
+(
+d
+λ
+/
+d
+ϕ
+)
+2
+ds/dϕ= 
+1+cos 
+2
+ ϕ(dλ/dϕ) 
+2
+ 
+​	
+ . With 
+d
+λ
+/
+d
+ϕ
+=
+tan
+⁡
+α
+/
+cos
+⁡
+ϕ
+dλ/dϕ=tanα/cosϕ: 
+cos
+⁡
+2
+ϕ
+(
+d
+λ
+/
+d
+ϕ
+)
+2
+=
+tan
+⁡
+2
+α
+cos 
+2
+ ϕ(dλ/dϕ) 
+2
+ =tan 
+2
+ α. So
+d
+s
+/
+d
+ϕ
+=
+1
++
+tan
+⁡
+2
+α
+=
+sec
+⁡
+α
+ds/dϕ= 
+1+tan 
+2
+ α
+​	
+ =secα. Yes, constant. So 
+p
+′
+⋅
+p
+′
+′
+=
+0
+p 
+′
+ ⋅p 
+′′
+ =0.
+
+So I definitely have an error. Let me recheck 
+d
+e
+^
+ϕ
+/
+d
+ϕ
+d 
+e
+^
+  
+ϕ
+​	
+ /dϕ.
+
+e
+^
+ϕ
+=
+(
+−
+sin
+⁡
+ϕ
+cos
+⁡
+λ
+,
+−
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+,
+cos
+⁡
+ϕ
+)
+e
+^
+  
+ϕ
+​	
+ =(−sinϕcosλ,−sinϕsinλ,cosϕ).
+∂
+/
+∂
+ϕ
+∂/∂ϕ: 
+(
+−
+cos
+⁡
+ϕ
+cos
+⁡
+λ
+,
+−
+cos
+⁡
+ϕ
+sin
+⁡
+λ
+,
+−
+sin
+⁡
+ϕ
+)
+(−cosϕcosλ,−cosϕsinλ,−sinϕ) ✓ = 
+−
+p
+−p.
+∂
+/
+∂
+λ
+∂/∂λ: 
+(
+−
+sin
+⁡
+ϕ
+(
+−
+sin
+⁡
+λ
+)
+,
+−
+sin
+⁡
+ϕ
+cos
+⁡
+λ
+,
+0
+)
+(−sinϕ(−sinλ),−sinϕcosλ,0) wait: 
+∂
+λ
+∂ 
+λ
+​	
+  of
+−
+sin
+⁡
+ϕ
+cos
+⁡
+λ
+−sinϕcosλ is 
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+sinϕsinλ; 
+∂
+λ
+∂ 
+λ
+​	
+  of 
+−
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+−sinϕsinλ is 
+−
+sin
+⁡
+ϕ
+cos
+⁡
+λ
+−sinϕcosλ. So 
+∂
+λ
+e
+^
+ϕ
+=
+(
+sin
+⁡
+ϕ
+sin
+⁡
+λ
+,
+−
+sin
+⁡
+ϕ
+cos
+⁡
+λ
+,
+0
+)
+=
+−
+sin
+⁡
+ϕ
+(
+−
+sin
+⁡
+λ
+,
+cos
+⁡
+λ
+,
+0
+)
+=
+−
+sin
+⁡
+ϕ
+e
+^
+λ
+∂ 
+λ
+​	
+  
+e
+^
+  
+ϕ
+​	
+ =(sinϕsinλ,−sinϕcosλ,0)=−sinϕ(−sinλ,cosλ,0)=−sinϕ 
+e
+^
+  
+λ
+​	
+ .
+
+So 
+d
+e
+^
+ϕ
+/
+d
+ϕ
+=
+∂
+ϕ
+e
+^
+ϕ
++
+λ
+′
+∂
+λ
+e
+^
+ϕ
+=
+−
+p
+−
+λ
+′
+sin
+⁡
+ϕ
+e
+^
+λ
+d 
+e
+^
+  
+ϕ
+​	
+ /dϕ=∂ 
+ϕ
+​	
+  
+e
+^
+  
+ϕ
+​	
+ +λ 
+′
+ ∂ 
+λ
+​	
+  
+e
+^
+  
+ϕ
+​	
+ =−p−λ 
+′
+ sinϕ 
+e
+^
+  
+λ
+​	
+  ✓.
+
+d
+e
+^
+λ
+/
+d
+ϕ
+d 
+e
+^
+  
+λ
+​	
+ /dϕ: 
+e
+^
+λ
+=
+(
+−
+sin
+⁡
+λ
+,
+cos
+⁡
+λ
+,
+0
+)
+e
+^
+  
+λ
+​	
+ =(−sinλ,cosλ,0).
+∂
+λ
+e
+^
+λ
+=
+(
+−
+cos
+⁡
+λ
+,
+−
+sin
+⁡
+λ
+,
+0
+)
+∂ 
+λ
+​	
+  
+e
+^
+  
+λ
+​	
+ =(−cosλ,−sinλ,0).
+∂
+ϕ
+e
+^
+λ
+=
+0
+∂ 
+ϕ
+​	
+  
+e
+^
+  
+λ
+​	
+ =0 (doesn't depend on 
+ϕ
+ϕ explicitly).
+d
+e
+^
+λ
+/
+d
+ϕ
+=
+λ
+′
+(
+−
+cos
+⁡
+λ
+,
+−
+sin
+⁡
+λ
+,
+0
+)
+d 
+e
+^
+  
+λ
+​	
+ /dϕ=λ 
+′
+ (−cosλ,−sinλ,0) ✓.
+
+Now 
+(
+−
+cos
+⁡
+λ
+,
+−
+sin
+⁡
+λ
+,
+0
+)
+=
+?
+(−cosλ,−sinλ,0)=? I claimed 
+=
+−
+cos
+⁡
+ϕ
+p
++
+sin
+⁡
+ϕ
+e
+^
+ϕ
+=−cosϕp+sinϕ 
+e
+^
+  
+ϕ
+​	
+ . Let me check: 
+p
+=
+cos
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
++
+sin
+⁡
+ϕ
+z
+^
+p=cosϕ(cosλ,sinλ,0)+sinϕ 
+z
+^
+ , 
+e
+^
+ϕ
+=
+−
+sin
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
++
+cos
+⁡
+ϕ
+z
+^
+e
+^
+  
+ϕ
+​	
+ =−sinϕ(cosλ,sinλ,0)+cosϕ 
+z
+^
+ .
+
+cos
+⁡
+ϕ
+p
+−
+sin
+⁡
+ϕ
+e
+^
+ϕ
+=
+cos
+⁡
+ϕ
+[
+cos
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
++
+sin
+⁡
+ϕ
+z
+^
+]
+−
+sin
+⁡
+ϕ
+[
+−
+sin
+⁡
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
++
+cos
+⁡
+ϕ
+z
+^
+]
+cosϕp−sinϕ 
+e
+^
+  
+ϕ
+​	
+ =cosϕ[cosϕ(cosλ,sinλ,0)+sinϕ 
+z
+^
+ ]−sinϕ[−sinϕ(cosλ,sinλ,0)+cosϕ 
+z
+^
+ ]
+=
+cos
+⁡
+2
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
++
+cos
+⁡
+ϕ
+sin
+⁡
+ϕ
+z
+^
++
+sin
+⁡
+2
+ϕ
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+−
+sin
+⁡
+ϕ
+cos
+⁡
+ϕ
+z
+^
+=cos 
+2
+ ϕ(cosλ,sinλ,0)+cosϕsinϕ 
+z
+^
+ +sin 
+2
+ ϕ(cosλ,sinλ,0)−sinϕcosϕ 
+z
+^
+ 
+=
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+=(cosλ,sinλ,0).
+
+So 
+(
+cos
+⁡
+λ
+,
+sin
+⁡
+λ
+,
+0
+)
+=
+cos
+⁡
+ϕ
+p
+−
+sin
+⁡
+ϕ
+e
+^
+ϕ
+(cosλ,sinλ,0)=cosϕp−sinϕ 
+e
+^
+  
+ϕ
+​	
+ . Then
+−
+cos
+⁡
+λ
+,
+−
+sin
+⁡
+λ
+,
+0
+=
+−
+cos
+⁡
+ϕ
+p
++
+sin
+⁡
+ϕ
+e
+^
+ϕ
+−cosλ,−sinλ,0=−cosϕp+sinϕ 
+e
+^
+  
+ϕ
+​	
+  ✓.
+
+d
+e
+^
+λ
+/
+d
+ϕ
+=
+λ
+′
+(
+−
+cos
+⁡
+ϕ
+p
++
+sin
+⁡
+ϕ
+e
+^
+ϕ
+)
+=
+−
+λ
+′
+cos
+⁡
+ϕ
+p
++
+λ
+′
+sin
+⁡
+ϕ
+e
+^
+ϕ
+=
+−
+tan
+⁡
+α
+p
++
+tan
+⁡
+α
+tan
+⁡
+ϕ
+e
+^
+ϕ
+d 
+e
+^
+  
+λ
+​	
+ /dϕ=λ 
+′
+ (−cosϕp+sinϕ 
+e
+^
+  
+ϕ
+​	
+ )=−λ 
+′
+ cosϕp+λ 
+′
+ sinϕ 
+e
+^
+  
+ϕ
+​	
+ =−tanαp+tanαtanϕ 
+e
+^
+  
+ϕ
+​	
+  ✓
+
+So 
+p
+′
+′
+=
+tan
+⁡
+α
+⋅
+d
+e
+^
+λ
+/
+d
+ϕ
++
+d
+e
+^
+ϕ
+/
+d
+ϕ
+p 
+′′
+ =tanα⋅d 
+e
+^
+  
+λ
+​	
+ /dϕ+d 
+e
+^
+  
+ϕ
+​	
+ /dϕ
+=
+tan
+⁡
+α
+(
+−
+tan
+⁡
+α
+p
++
+tan
+⁡
+α
+tan
+⁡
+ϕ
+e
+^
+ϕ
+)
++
+(
+−
+p
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+e
+^
+λ
+)
+=tanα(−tanαp+tanαtanϕ 
+e
+^
+  
+ϕ
+​	
+ )+(−p−tanαtanϕ 
+e
+^
+  
+λ
+​	
+ )
+=
+−
+tan
+⁡
+2
+α
+p
++
+tan
+⁡
+2
+α
+tan
+⁡
+ϕ
+e
+^
+ϕ
+−
+p
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+e
+^
+λ
+=−tan 
+2
+ αp+tan 
+2
+ αtanϕ 
+e
+^
+  
+ϕ
+​	
+ −p−tanαtanϕ 
+e
+^
+  
+λ
+​	
+  ✓
+
+p
+′
+⋅
+p
+′
+′
+=
+(
+tan
+⁡
+α
+e
+^
+λ
++
+e
+^
+ϕ
+)
+⋅
+(
+−
+sec
+⁡
+2
+α
+p
++
+tan
+⁡
+2
+α
+tan
+⁡
+ϕ
+e
+^
+ϕ
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+e
+^
+λ
+)
+p 
+′
+ ⋅p 
+′′
+ =(tanα 
+e
+^
+  
+λ
+​	
+ + 
+e
+^
+  
+ϕ
+​	
+ )⋅(−sec 
+2
+ αp+tan 
+2
+ αtanϕ 
+e
+^
+  
+ϕ
+​	
+ −tanαtanϕ 
+e
+^
+  
+λ
+​	
+ )
+
+Terms:
+
+−
+sec
+⁡
+2
+α
+−sec 
+2
+ α: 
+p
+′
+⋅
+p
+=
+0
+p 
+′
+ ⋅p=0
+tan
+⁡
+2
+α
+tan
+⁡
+ϕ
+tan 
+2
+ αtanϕ: 
+p
+′
+⋅
+e
+^
+ϕ
+=
+1
+p 
+′
+ ⋅ 
+e
+^
+  
+ϕ
+​	
+ =1
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+−tanαtanϕ: 
+p
+′
+⋅
+e
+^
+λ
+=
+tan
+⁡
+α
+p 
+′
+ ⋅ 
+e
+^
+  
+λ
+​	
+ =tanα
+Total: 
+tan
+⁡
+2
+α
+tan
+⁡
+ϕ
+−
+tan
+⁡
+2
+α
+tan
+⁡
+ϕ
+=
+0
+tan 
+2
+ αtanϕ−tan 
+2
+ αtanϕ=0 ✓
+
+I made an arithmetic error before! It IS zero. Good.
+
+Now for 
+c
+c (component along 
+p
+×
+p
+′
+p×p 
+′
+ ):
+p
+′
+′
+⋅
+(
+p
+×
+p
+′
+)
+p 
+′′
+ ⋅(p×p 
+′
+ ):
+p
+×
+p
+′
+=
+p
+×
+(
+tan
+⁡
+α
+e
+^
+λ
++
+e
+^
+ϕ
+)
+=
+tan
+⁡
+α
+(
+p
+×
+e
+^
+λ
+)
++
+p
+×
+e
+^
+ϕ
+p×p 
+′
+ =p×(tanα 
+e
+^
+  
+λ
+​	
+ + 
+e
+^
+  
+ϕ
+​	
+ )=tanα(p× 
+e
+^
+  
+λ
+​	
+ )+p× 
+e
+^
+  
+ϕ
+​	
+ 
+=
+tan
+⁡
+α
+(
+−
+e
+^
+ϕ
+)
++
+e
+^
+λ
+=
+e
+^
+λ
+−
+tan
+⁡
+α
+e
+^
+ϕ
+=tanα(− 
+e
+^
+  
+ϕ
+​	
+ )+ 
+e
+^
+  
+λ
+​	
+ = 
+e
+^
+  
+λ
+​	
+ −tanα 
+e
+^
+  
+ϕ
+​	
+ 
+
+p
+′
+′
+⋅
+(
+p
+×
+p
+′
+)
+p 
+′′
+ ⋅(p×p 
+′
+ ):
+=
+tan
+⁡
+2
+α
+tan
+⁡
+ϕ
+(
+e
+^
+ϕ
+⋅
+(
+e
+^
+λ
+−
+tan
+⁡
+α
+e
+^
+ϕ
+)
+)
++
+(
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+)
+(
+e
+^
+λ
+⋅
+(
+e
+^
+λ
+−
+tan
+⁡
+α
+e
+^
+ϕ
+)
+)
+=tan 
+2
+ αtanϕ( 
+e
+^
+  
+ϕ
+​	
+ ⋅( 
+e
+^
+  
+λ
+​	
+ −tanα 
+e
+^
+  
+ϕ
+​	
+ ))+(−tanαtanϕ)( 
+e
+^
+  
+λ
+​	
+ ⋅( 
+e
+^
+  
+λ
+​	
+ −tanα 
+e
+^
+  
+ϕ
+​	
+ ))
+=
+tan
+⁡
+2
+α
+tan
+⁡
+ϕ
+(
+−
+tan
+⁡
+α
+)
++
+(
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+)
+(
+1
+)
+=tan 
+2
+ αtanϕ(−tanα)+(−tanαtanϕ)(1)
+=
+−
+tan
+⁡
+3
+α
+tan
+⁡
+ϕ
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+=−tan 
+3
+ αtanϕ−tanαtanϕ
+=
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+(
+1
++
+tan
+⁡
+2
+α
+)
+=−tanαtanϕ(1+tan 
+2
+ α)
+=
+−
+tan
+⁡
+α
+sec
+⁡
+2
+α
+tan
+⁡
+ϕ
+=−tanαsec 
+2
+ αtanϕ
+
+Now 
+∣
+p
+×
+p
+′
+∣
+2
+=
+1
++
+tan
+⁡
+2
+α
+=
+sec
+⁡
+2
+α
+∣p×p 
+′
+ ∣ 
+2
+ =1+tan 
+2
+ α=sec 
+2
+ α.
+
+So 
+c
+=
+p
+′
+′
+⋅
+(
+p
+×
+p
+′
+)
+∣
+p
+×
+p
+′
+∣
+2
+=
+−
+tan
+⁡
+α
+sec
+⁡
+2
+α
+tan
+⁡
+ϕ
+sec
+⁡
+2
+α
+=
+−
+tan
+⁡
+α
+tan
+⁡
+ϕ
+c= 
+∣p×p 
+′
+ ∣ 
+2
+ 
+p 
+′′
+ ⋅(p×p 
+′
+ )
+​	
+ = 
+sec 
+2
+ α
+−tanαsec 
+2
+ αtanϕ
+​	
+ =−tanαtanϕ.
+
+Now, 
+p
+′
+′
+p 
+′′
+  decomposed: 
+p
+′
+′
+=
+(
+−
+sec
+⁡
+2
+α
+)
+p
++
+(
+c
+)
+⋅
+p
+×
+p
+′
+∣
+p
+×
+p
+′
+∣
+p 
+′′
+ =(−sec 
+2
+ α)p+(c)⋅ 
+∣p×p 
+′
+ ∣
+p×p 
+′
+ 
+​	
+  (since
+p
+′
+′
+⋅
+p
+′
+=
+0
+p 
+′′
+ ⋅p 
+′
+ =0).
+
+Component perpendicular to 
+p
+p (tangent to sphere): 
+c
+⋅
+(
+p
+×
+p
+′
+)
+/
+∣
+p
+×
+p
+′
+∣
+c⋅(p×p 
+′
+ )/∣p×p 
+′
+ ∣.
+
+∣
+p
+tangent
+′
+′
+∣
+=
+∣
+c
+∣
+=
+∣
+tan
+⁡
+α
+tan
+⁡
+ϕ
+∣
+∣p 
+tangent
+′′
+​	
+ ∣=∣c∣=∣tanαtanϕ∣.
+
+Geodesic curvature: 
+κ
+g
+=
+∣
+p
+tangent
+′
+′
+∣
+/
+∣
+p
+′
+∣
+2
+κ 
+g
+​	
+ =∣p 
+tangent
+′′
+​	
+ ∣/∣p 
+′
+ ∣ 
+2
+  ... hmm, actually since 
+p
+′
+p 
+′
+  is w.r.t. 
+ϕ
+ϕ, we need to convert to arc length.
+
+Actually: 
+κ
+g
+=
+∣
+p
+¨
+tangent
+∣
+κ 
+g
+​	
+ =∣ 
+p
+¨
+​	
+  
+tangent
+​	
+ ∣ where 
+¨
+¨
+  is w.r.t. arc length. 
+p
+¨
+=
+p
+′
+′
+/
+∣
+p
+′
+∣
+2
+p
+¨
+​	
+ =p 
+′′
+ /∣p 
+′
+ ∣ 
+2
+  (since 
+p
+′
+p 
+′
+  is w.r.t. 
+ϕ
+ϕ and 
+∣
+p
+′
+∣
+2
+=
+(
+d
+s
+/
+d
+ϕ
+)
+2
+∣p 
+′
+ ∣ 
+2
+ =(ds/dϕ) 
+2
+ ).
+
+So 
+∣
+p
+¨
+tangent
+∣
+=
+∣
+c
+∣
+/
+∣
+p
+′
+∣
+2
+=
+∣
+tan
+⁡
+α
+tan
+⁡
+ϕ
+∣
+/
+sec
+⁡
+2
+α
+=
+∣
+tan
+⁡
+α
+cos
+⁡
+2
+α
+tan
+⁡
+ϕ
+∣
+=
+∣
+sin
+⁡
+α
+cos
+⁡
+α
+tan
+⁡
+ϕ
+∣
+∣ 
+p
+¨
+​	
+  
+tangent
+​	
+ ∣=∣c∣/∣p 
+′
+ ∣ 
+2
+ =∣tanαtanϕ∣/sec 
+2
+ α=∣tanαcos 
+2
+ αtanϕ∣=∣sinαcosαtanϕ∣.
+
+So 
+κ
+g
+=
+∣
+sin
+⁡
+α
+cos
+⁡
+α
+tan
+⁡
+ϕ
+∣
+κ 
+g
+​	
+ =∣sinαcosαtanϕ∣ for a loxodrome with angle 
+α
+α at latitude 
+ϕ
+ϕ.
+
+Wait, this depends on 
+ϕ
+ϕ (latitude)! So the geodesic curvature is NOT constant. Hmm, but I recalled it being constant.
+
+Hmm, let me sanity check. At 
+α
+=
+0
+α=0 (meridian): 
+sin
+⁡
+0
+=
+0
+sin0=0, so
+κ
+g
+=
+0
+κ 
+g
+​	
+ =0 for all 
+ϕ
+ϕ ✓ (meridians are geodesics).
+At 
+α
+=
+π
+/
+2
+α=π/2 (parallel): 
+cos
+⁡
+(
+π
+/
+2
+)
+=
+0
+cos(π/2)=0, so 
+κ
+g
+=
+0
+κ 
+g
+​	
+ =0 — but parallels have 
+κ
+g
+=
+tan
+⁡
+ϕ
+κ 
+g
+​	
+ =tanϕ! WRONG.
+
+Something is off. Let me recheck. For a parallel (constant latitude), 
+ϕ
+ϕ = constant, 
+λ
+λ varies. My parametrization was 
+λ
+=
+λ
+(
+ϕ
+)
+λ=λ(ϕ), so for a parallel I can't use 
+ϕ
+ϕ as parameter. As 
+α
+→
+π
+/
+2
+α→π/2,
+d
+λ
+/
+d
+ϕ
+=
+tan
+⁡
+α
+/
+cos
+⁡
+ϕ
+→
+∞
+dλ/dϕ=tanα/cosϕ→∞, so the parallel is approached but not reached.
+
+Let me try: for a parallel, better to parametrize by 
+λ
+λ. 
+d
+s
+/
+d
+λ
+=
+cos
+⁡
+ϕ
+0
+ds/dλ=cosϕ 
+0
+​	
+  (constant latitude 
+ϕ
+0
+ϕ 
+0
+​	
+ ). 
+κ
+g
+=
+?
+κ 
+g
+​	
+ =?
+
+Going back to the formula: for a curve on the sphere, 
+κ
+g
+κ 
+g
+​	
+  = component of 
+p
+¨
+p
+¨
+​	
+  perpendicular to 
+p
+p (in magnitude).
+
+For a parallel: 
+p
+(
+λ
+)
+=
+(
+cos
+⁡
+ϕ
+0
+cos
+⁡
+λ
+,
+cos
+⁡
+ϕ
+0
+sin
+⁡
+λ
+,
+sin
+⁡
+ϕ
+0
+)
+p(λ)=(cosϕ 
+0
+​	
+ cosλ,cosϕ 
+0
+​	
+ sinλ,sinϕ 
+0
+​	
+ ).
+d
+p
+/
+d
+λ
+=
+(
+−
+cos
+⁡
+ϕ
+0
+sin
+⁡
+λ
+,
+cos
+⁡
+ϕ
+0
+cos
+⁡
+λ
+,
+0
+)
+dp/dλ=(−cosϕ 
+0
+​	
+ sinλ,cosϕ 
+0
+​	
+ cosλ,0). 
+∣
+d
+p
+/
+d
+λ
+∣
+=
+cos
+⁡
+ϕ
+0
+∣dp/dλ∣=cosϕ 
+0
+​	
+ . So 
+d
+s
+/
+d
+λ
+=
+cos
+⁡
+ϕ
+0
+ds/dλ=cosϕ 
+0
+​	
+ .
+p
+′
+′
+p 
+′′
+  (w.r.t. 
+λ
+λ) = 
+(
+−
+cos
+⁡
+ϕ
+0
+cos
+⁡
+λ
+,
+−
+cos
+⁡
+ϕ
+0
+sin
+⁡
+λ
+,
+0
+)
+(−cosϕ 
+0
+​	
+ cosλ,−cosϕ 
+0
+​	
+ sinλ,0) =
+−
+(
+1
+/
+cos
+⁡
+ϕ
+0
+)
+(
+d
+p
+/
+d
+λ
+)
+2
+−(1/cosϕ 
+0
+​	
+ )(dp/dλ) 
+2
+  times 
+cos
+⁡
+ϕ
+0
+cosϕ 
+0
+​	
+ ... let me just compute: 
+p
+¨
+p
+¨
+​	
+ w.r.t. 
+s
+s = 
+(
+1
+/
+cos
+⁡
+2
+ϕ
+0
+)
+p
+′
+′
+(1/cos 
+2
+ ϕ 
+0
+​	
+ )p 
+′′
+  =
+(
+1
+/
+cos
+⁡
+2
+ϕ
+0
+)
+(
+−
+cos
+⁡
+ϕ
+0
+cos
+⁡
+λ
+,
+−
+cos
+⁡
+ϕ
+0
+sin
+⁡
+λ
+,
+0
+)
+=
+(
+−
+cos
+⁡
+λ
+/
+cos
+⁡
+ϕ
+0
+,
+−
+sin
+⁡
+λ
+/
+cos
+⁡
+ϕ
+0
+,
+0
+)
+(1/cos 
+2
+ ϕ 
+0
+​	
+ )(−cosϕ 
+0
+​	
+ cosλ,−cosϕ 
+0
+​	
+ sinλ,0)=(−cosλ/cosϕ 
+0
+​	
+ ,−sinλ/cosϕ 
+0
+​	
+ ,0).
+
+Component perpendicular to 
+p
+p: 
+p
+=
+(
+cos
+⁡
+ϕ
+0
+cos
+⁡
+λ
+,
+cos
+⁡
+ϕ
+0
+sin
+⁡
+λ
+,
+sin
+⁡
+ϕ
+0
+)
+p=(cosϕ 
+0
+​	
+ cosλ,cosϕ 
+0
+​	
+ sinλ,sinϕ 
+0
+​	
+ ). 
+p
+¨
+⋅
+p
+=
+−
+cos
+⁡
+2
+λ
+/
+cos
+⁡
+ϕ
+0
+⋅
+cos
+⁡
+ϕ
+0
+cos
+⁡
+λ
+−
+.
+.
+.
+p
+¨
+​	
+ ⋅p=−cos 
+2
+ λ/cosϕ 
+0
+​	
+ ⋅cosϕ 
+0
+​	
+ cosλ−... hmm, 
+=
+−
+(
+cos
+⁡
+λ
+⋅
+cos
+⁡
+ϕ
+0
+cos
+⁡
+λ
++
+sin
+⁡
+λ
+⋅
+cos
+⁡
+ϕ
+0
+sin
+⁡
+λ
+)
+/
+cos
+⁡
+ϕ
+0
+=
+−
+(
+cos
+⁡
+ϕ
+0
+)
+/
+cos
+⁡
+ϕ
+0
+=
+−
+1
+=−(cosλ⋅cosϕ 
+0
+​	
+ cosλ+sinλ⋅cosϕ 
+0
+​	
+ sinλ)/cosϕ 
+0
+​	
+ =−(cosϕ 
+0
+​	
+ )/cosϕ 
+0
+​	
+ =−1 ✓ (should be 
+−
+∣
+p
+˙
+∣
+2
+=
+−
+1
+−∣ 
+p
+˙
+​	
+ ∣ 
+2
+ =−1).
+
+p
+¨
+tangent
+=
+p
+¨
+−
+(
+p
+¨
+⋅
+p
+)
+p
+=
+p
+¨
++
+p
+=
+(
+−
+cos
+⁡
+λ
+/
+cos
+⁡
+ϕ
+0
++
+cos
+⁡
+ϕ
+0
+cos
+⁡
+λ
+,
+…
+,
+sin
+⁡
+ϕ
+0
+)
+p
+¨
+​	
+  
+tangent
+​	
+ = 
+p
+¨
+​	
+ −( 
+p
+¨
+​	
+ ⋅p)p= 
+p
+¨
+​	
+ +p=(−cosλ/cosϕ 
+0
+​	
+ +cosϕ 
+0
+​	
+ cosλ,…,sinϕ 
+0
+​	
+ ).
+
+First component: 
+cos
+⁡
+λ
+(
+−
+1
+cos
+⁡
+ϕ
+0
++
+cos
+⁡
+ϕ
+0
+)
+=
+cos
+⁡
+λ
+⋅
+−
+sin
+⁡
+2
+ϕ
+0
+cos
+⁡
+ϕ
+0
+cosλ(− 
+cosϕ 
+0
+​	
+ 
+1
+​	
+ +cosϕ 
+0
+​	
+ )=cosλ⋅ 
+cosϕ 
+0
+​	
+ 
+−sin 
+2
+ ϕ 
+0
+​	
+ 
+​	
+ .
+Magnitude: 
+sin
+⁡
+2
+ϕ
+0
+cos
+⁡
+ϕ
+0
+cosϕ 
+0
+​	
+ 
+sin 
+2
+ ϕ 
+0
+​	
+ 
+​	
+  (times which is 1).
+
+So 
+κ
+g
+=
+sin
+⁡
+2
+ϕ
+0
+/
+cos
+⁡
+ϕ
+0
+=
+cos
+⁡
+ϕ
+0
+⋅
+tan
+⁡
+2
+ϕ
+0
+⋅
+κ 
+g
+​	
+ =sin 
+2
+ ϕ 
+0
+​	
+ /cosϕ 
+0
+​	
+ =cosϕ 
+0
+​	
+ ⋅tan 
+2
+ ϕ 
+0
+​	
+ ⋅... hmm this doesn't match 
+tan
+⁡
+ϕ
+0
+tanϕ 
+0
+​	
+ .
+
+Wait, actually let me recompute. For a parallel at latitude 
+ϕ
+0
+ϕ 
+0
+​	
+ , the circle has radius 
+cos
+⁡
+ϕ
+0
+cosϕ 
+0
+​	
+  on the sphere. Its "3D curvature" is
+1
+/
+cos
+⁡
+ϕ
+0
+1/cosϕ 
+0
+​	
+ . Geodesic curvature on the sphere (surface): it's a "small circle" of radius 
+r
+=
+cos
+⁡
+ϕ
+0
+r=cosϕ 
+0
+​	
+  on unit sphere, with center at north pole at distance 
+θ
+0
+=
+π
+/
+2
+−
+ϕ
+0
+θ 
+0
+​	
+ =π/2−ϕ 
+0
+​	
+  (colatitude). For a small circle of radius 
+θ
+0
+θ 
+0
+​	
+  from the north pole, geodesic curvature is 
+cot
+⁡
+θ
+0
+=
+tan
+⁡
+ϕ
+0
+cotθ 
+0
+​	
+ =tanϕ 
+0
+​	
+ .
+
+So the expected answer is 
+tan
+⁡
+ϕ
+0
+tanϕ 
+0
+​	
+ , but I'm getting
+sin
+⁡
+2
+ϕ
+0
+/
+cos
+⁡
+ϕ
+0
+sin 
+2
+ ϕ 
+0
+​	
+ /cosϕ 
+0
+​	
+ . Let me recheck.
+
+p
+=
+(
+cos
+⁡
+ϕ
+0
+cos
+⁡
+λ
+,
+cos
+⁡
+ϕ
+0
+sin
+⁡
+λ
+,
+sin
+⁡
+ϕ
+0
+)
+p=(cosϕ 
+0
+​	
+ cosλ,cosϕ 
+0
+​	
+ sinλ,sinϕ 
+0
+​	
+ ).
+p
+¨
+p
+¨
+​	
+  (w.r.t. arc length 
+s
+s) = 
+1
+cos
+⁡
+2
+ϕ
+0
+p
+′
+′
+(
+λ
+)
+cos 
+2
+ ϕ 
+0
+​	
+ 
+1
+​	
+ p 
+′′
+ (λ) where 
+p
+′
+′
+(
+λ
+)
+=
+(
+−
+cos
+⁡
+ϕ
+0
+cos
+⁡
+λ
+,
+−
+cos
+⁡
+ϕ
+0
+sin
+⁡
+λ
+,
+0
+)
+p 
+′′
+ (λ)=(−cosϕ 
+0
+​	
+ cosλ,−cosϕ 
+0
+​	
+ sinλ,0).
+p
+¨
+=
+(
+−
+cos
+⁡
+λ
+/
+cos
+⁡
+ϕ
+0
+,
+−
+sin
+⁡
+λ
+/
+cos
+⁡
+ϕ
+0
+,
+0
+)
+p
+¨
+​	
+ =(−cosλ/cosϕ 
+0
+​	
+ ,−sinλ/cosϕ 
+0
+​	
+ ,0).
+p
+¨
+⋅
+p
+=
+−
+cos
+⁡
+2
+λ
+/
+cos
+⁡
+ϕ
+0
+⋅
+cos
+⁡
+ϕ
+0
+−
+sin
+⁡
+2
+λ
+/
+cos
+⁡
+ϕ
+0
+⋅
+cos
+⁡
+ϕ
+0
+=
+−
+cos
+⁡
+2
+λ
+−
+sin
+⁡
+2
+λ
+=
+−
+1
+p
+¨
+​	
+ ⋅p=−cos 
+2
+ λ/cosϕ 
+0
+​	
+ ⋅cosϕ 
+0
+​	
+ −sin 
+2
+ λ/cosϕ 
+0
+​	
+ ⋅cosϕ 
+0
+​	
+ =−cos 
+2
+ λ−sin 
+2
+ λ=−1 ✓
+
+p
+¨
+tangent
+=
+p
+¨
++
+p
+p
+¨
+​	
+  
+tangent
+​	
+ = 
+p
+¨
+​	
+ +p (component perpendicular to 
+p
+p).
+
+=
+(
+−
+cos
+⁡
+λ
+/
+cos
+⁡
+ϕ
+0
++
+cos
+⁡
+ϕ
+0
+cos
+⁡
+λ
+,
+−
+sin
+⁡
+λ
+/
+cos
+⁡
+ϕ
+0
++
+cos
+⁡
+ϕ
+0
+sin
+⁡
+λ
+,
+sin
+⁡
+ϕ
+0
+)
+=(−cosλ/cosϕ 
+0
+​	
+ +cosϕ 
+0
+​	
+ cosλ,−sinλ/cosϕ 
+0
+​	
+ +cosϕ 
+0
+​	
+ sinλ,sinϕ 
+0
+​	
+ )
+=
+(
+cos
+⁡
+λ
+(
+cos
+⁡
+ϕ
+0
+−
+1
+/
+cos
+⁡
+ϕ
+0
+)
+,
+sin
+⁡
+λ
+(
+cos
+⁡
+ϕ
+0
+−
+1
+/
+cos
+⁡
+ϕ
+0
+)
+,
+sin
+⁡
+ϕ
+0
+)
+=(cosλ(cosϕ 
+0
+​	
+ −1/cosϕ 
+0
+​	
+ ),sinλ(cosϕ 
+0
+​	
+ −1/cosϕ 
+0
+​	
+ ),sinϕ 
+0
+​	
+ )
+=
+(
+cos
+⁡
+λ
+cos
+⁡
+2
+ϕ
+0
+−
+1
+cos
+⁡
+ϕ
+0
+,
+sin
+⁡
+λ
+−
+sin
+⁡
+2
+ϕ
+0
+cos
+⁡
+ϕ
+0
+,
+sin
+⁡
+ϕ
+0
+)
+=(cosλ 
+cosϕ 
+0
+​	
+ 
+cos 
+2
+ ϕ 
+0
+​	
+ −1
+​	
+ ,sinλ 
+cosϕ 
+0
+​	
+ 
+−sin 
+2
+ ϕ 
+0
+​	
+ 
+​	
+ ,sinϕ 
+0
+​	
+ )
+=
+(
+−
+cos
+⁡
+λ
+sin
+⁡
+2
+ϕ
+0
+cos
+⁡
+ϕ
+0
+,
+−
+sin
+⁡
+λ
+sin
+⁡
+2
+ϕ
+0
+cos
+⁡
+ϕ
+0
+,
+sin
+⁡
+ϕ
+0
+)
+=(−cosλ 
+cosϕ 
+0
+​	
+ 
+sin 
+2
+ ϕ 
+0
+​	
+ 
+​	
+ ,−sinλ 
+cosϕ 
+0
+​	
+ 
+sin 
+2
+ ϕ 
+0
+​	
+ 
+​	
+ ,sinϕ 
+0
+​	
+ )
+
+Magnitude squared: 
+sin
+⁡
+4
+ϕ
+0
+cos
+⁡
+2
+ϕ
+0
+(
+cos
+⁡
+2
+λ
++
+sin
+⁡
+2
+λ
+)
++
+sin
+⁡
+2
+ϕ
+0
+=
+sin
+⁡
+4
+ϕ
+0
+cos
+⁡
+2
+ϕ
+0
++
+sin
+⁡
+2
+ϕ
+0
+=
+sin
+⁡
+4
+ϕ
+0
++
+sin
+⁡
+2
+ϕ
+0
+cos
+⁡
+2
+ϕ
+0
+cos
+⁡
+2
+ϕ
+0
+=
+sin
+⁡
+2
+ϕ
+0
+(
+sin
+⁡
+2
+ϕ
+0
++
+cos
+⁡
+2
+ϕ
+0
+)
+cos
+⁡
+2
+ϕ
+0
+=
+sin
+⁡
+2
+ϕ
+0
+cos
+⁡
+2
+ϕ
+0
+=
+tan
+⁡
+2
+ϕ
+0
+cos 
+2
+ ϕ 
+0
+​	
+ 
+sin 
+4
+ ϕ 
+0
+​	
+ 
+​	
+ (cos 
+2
+ λ+sin 
+2
+ λ)+sin 
+2
+ ϕ 
+0
+​	
+ = 
+cos 
+2
+ ϕ 
+0
+​	
+ 
+sin 
+4
+ ϕ 
+0
+​	
+ 
+​	
+ +sin 
+2
+ ϕ 
+0
+​	
+ = 
+cos 
+2
+ ϕ 
+0
+​	
+ 
+sin 
+4
+ ϕ 
+0
+​	
+ +sin 
+2
+ ϕ 
+0
+​	
+ cos 
+2
+ ϕ 
+0
+​	
+ 
+​	
+ = 
+cos 
+2
+ ϕ 
+0
+​	
+ 
+sin 
+2
+ ϕ 
+0
+​	
+ (sin 
+2
+ ϕ 
+0
+​	
+ +cos 
+2
+ ϕ 
+0
+​	
+ )
+​	
+ = 
+cos 
+2
+ ϕ 
+0
+​	
+ 
+sin 
+2
+ ϕ 
+0
+​	
+ 
+​	
+ =tan 
+2
+ ϕ 
+0
+​	
+ .
+
+So 
+κ
+g
+=
+tan
+⁡
+ϕ
+0
+κ 
+g
+​	
+ =tanϕ 
+0
+​	
+  ✓.
+
+Earlier I made an error by not squaring properly. Let me redo the loxodrome.
+
+For loxodrome, I found 
+∣
+p
+¨
+tangent
+∣
+=
+∣
+sin
+⁡
+α
+cos
+⁡
+α
+tan
+⁡
+ϕ
+∣
+∣ 
+p
+¨
+​	
+  
+tangent
+​	
+ ∣=∣sinαcosαtanϕ∣ for
+α
+≠
+0
+,
+π
+/
+2
+α
+
+=0,π/2.
+
+Hmm but at 
+α
+=
+π
+/
+2
+α=π/2 (parallel), this gives 0, whereas we should get 
+tan
+⁡
+ϕ
+tanϕ. So my derivation still has an issue.
+
+Wait — but at 
+α
+=
+π
+/
+2
+α=π/2, the loxodrome becomes a parallel, and my parametrization 
+d
+λ
+/
+d
+ϕ
+→
+∞
+dλ/dϕ→∞ breaks. So I can't take the limit naively. Let me not worry about 
+α
+=
+π
+/
+2
+α=π/2 exactly.
+
+For intermediate 
+α
+α: is 
+κ
+g
+=
+sin
+⁡
+α
+cos
+⁡
+α
+tan
+⁡
+ϕ
+κ 
+g
+​	
+ =sinαcosαtanϕ? Let me test with
+α
+α small (near meridian). Then 
+κ
+g
+≈
+α
+tan
+⁡
+ϕ
+κ 
+g
+​	
+ ≈αtanϕ. Hmm, so as we slightly deviate from meridian, curvature grows proportionally to 
+α
+α but also to 
+tan
+⁡
+ϕ
+tanϕ (blows up near poles).
+
+Intuition: a loxodrome that's close to a meridian, at high latitude, would have significant geodesic curvature because near the pole even a slight deviation wraps around many times. That makes sense.
+
+Actually wait — but the loxodrome is symmetric around the axis, and its geometry at latitude 
+ϕ
+ϕ should be the same at any longitude. The value 
+sin
+⁡
+α
+cos
+⁡
+α
+tan
+⁡
+ϕ
+sinαcosαtanϕ depends only on 
+ϕ
+ϕ (latitude), which is consistent. And at high latitude (
+ϕ
+ϕ near 
+π
+/
+2
+π/2), 
+tan
+⁡
+ϕ
+tanϕ blows up, so the loxodrome has huge geodesic curvature near the pole. This matches the intuition that the loxodrome spirals infinitely tightly near the pole.
+
+OK so my derivation 
+κ
+g
+=
+∣
+sin
+⁡
+α
+cos
+⁡
+α
+tan
+⁡
+ϕ
+∣
+κ 
+g
+​	
+ =∣sinαcosαtanϕ∣ seems correct... but wait, is it really true that loxodromes have non-constant geodesic curvature? Let me check with a source or logic.
+
+Hmm, I've seen statements that loxodromes have constant geodesic curvature. But my calculation says it varies with latitude 
+ϕ
+ϕ. Let me double-check my 
+p
+′
+′
+p 
+′′
+ .
+
+Actually I realize — as the loxodrome proceeds, 
+ϕ
+ϕ changes monotonically from 
+−
+π
+/
+2
+−π/2 to 
+π
+/
+2
+π/2. So 
+κ
+g
+κ 
+g
+​	
+  changes along the curve. So it's NOT constant. Hmm.
+
+Let me sanity check with a different consideration. The loxodrome is a helix on the sphere (in cylindrical projection
+(
+r
+,
+z
+)
+→
+(r,z)→ where 
+r
+r is radius of parallel, 
+z
+z is height). Actually loxodrome on sphere: in coordinates where the sphere is
+(
+r
+cos
+⁡
+λ
+,
+r
+sin
+⁡
+λ
+,
+z
+)
+(rcosλ,rsinλ,z) with 
+r
+2
++
+z
+2
+=
+1
+r 
+2
+ +z 
+2
+ =1, the loxodrome has
+d
+z
+/
+(
+r
+d
+λ
+)
+=
+cot
+⁡
+α
+dz/(rdλ)=cotα or similar (constant ratio → helix). So in 3D cylindrical coordinates, the loxodrome is a helix. Helices have constant curvature and constant torsion in 
+R
+3
+R 
+3
+ .
+
+But we care about geodesic curvature on the sphere, not curvature in 
+R
+3
+R 
+3
+ . These are different.
+
+For a curve on a surface: 
+κ
+2
+=
+κ
+g
+2
++
+κ
+n
+2
+κ 
+2
+ =κ 
+g
+2
+​	
+ +κ 
+n
+2
+​	
+  where 
+κ
+κ is curvature in 
+R
+3
+R 
+3
+  and 
+κ
+n
+κ 
+n
+​	
+  is normal curvature. For a sphere of radius 1,
+κ
+n
+=
+1
+κ 
+n
+​	
+ =1 (constant, since every direction is principal with normal curvature 1).
+
+So for a helix (loxodrome) with constant 3D curvature 
+κ
+κ, we have 
+κ
+g
+2
+=
+κ
+2
+−
+1
+κ 
+g
+2
+​	
+ =κ 
+2
+ −1. So 
+κ
+g
+κ 
+g
+​	
+  would be constant!
+
+But my direct calculation gives 
+κ
+g
+=
+sin
+⁡
+α
+cos
+⁡
+α
+tan
+⁡
+ϕ
+κ 
+g
+​	
+ =sinαcosαtanϕ, which varies with 
+ϕ
+ϕ.
+
+Contradiction. Let me recheck. Is the loxodrome really a helix in 3D?
+
+Loxodrome: 
+d
+λ
+/
+d
+ϕ
+=
+tan
+⁡
+α
+/
+cos
+⁡
+ϕ
+dλ/dϕ=tanα/cosϕ. Let 
+u
+=
+artanh
+(
+sin
+⁡
+ϕ
+)
+u=artanh(sinϕ), so 
+sin
+⁡
+ϕ
+=
+tanh
+⁡
+u
+sinϕ=tanhu, 
+cos
+⁡
+ϕ
+=
+sech
+ 
+u
+cosϕ=sechu, 
+d
+ϕ
+=
+sech
+ 
+u
+ 
+d
+u
+dϕ=sechudu hmm wait
+ϕ
+=
+arctan
+⁡
+(
+sinh
+⁡
+u
+)
+ϕ=arctan(sinhu), so 
+d
+ϕ
+/
+cos
+⁡
+ϕ
+=
+d
+u
+dϕ/cosϕ=du. Let me verify:
+sin
+⁡
+ϕ
+=
+tanh
+⁡
+u
+sinϕ=tanhu, then 
+d
+(
+sin
+⁡
+ϕ
+)
+=
+sech
+2
+u
+ 
+d
+u
+=
+cos
+⁡
+ϕ
+ 
+d
+ϕ
+d(sinϕ)=sech 
+2
+ udu=cosϕdϕ (from
+sin
+⁡
+ϕ
+sinϕ). So 
+cos
+⁡
+ϕ
+ 
+d
+ϕ
+=
+sech
+2
+u
+ 
+d
+u
+cosϕdϕ=sech 
+2
+ udu, and 
+cos
+⁡
+ϕ
+=
+sech
+ 
+u
+cosϕ=sechu (since
+cos
+⁡
+2
+ϕ
+=
+1
+−
+tanh
+⁡
+2
+u
+=
+sech
+2
+u
+cos 
+2
+ ϕ=1−tanh 
+2
+ u=sech 
+2
+ u). So 
+d
+ϕ
+=
+sech
+ 
+u
+ 
+d
+u
+dϕ=sechudu. And
+d
+ϕ
+cos
+⁡
+ϕ
+=
+d
+u
+cosϕ
+dϕ
+​	
+ =du? Hmm: 
+d
+ϕ
+/
+cos
+⁡
+ϕ
+=
+sech
+ 
+u
+ 
+d
+u
+/
+sech
+ 
+u
+=
+d
+u
+dϕ/cosϕ=sechudu/sechu=du ✓.
+
+So 
+d
+λ
+=
+tan
+⁡
+α
+⋅
+d
+u
+dλ=tanα⋅du (since 
+d
+λ
+/
+d
+ϕ
+=
+tan
+⁡
+α
+/
+cos
+⁡
+ϕ
+dλ/dϕ=tanα/cosϕ means
+d
+λ
+=
+tan
+⁡
+α
+ 
+d
+ϕ
+/
+cos
+⁡
+ϕ
+=
+tan
+⁡
+α
+ 
+d
+u
+dλ=tanαdϕ/cosϕ=tanαdu).
+
+So 
+λ
+=
+u
+tan
+⁡
+α
++
+λ=utanα+ const.
+
+Sphere in coordinates 
+(
+r
+,
+z
+)
+(r,z) where 
+r
+=
+cos
+⁡
+ϕ
+=
+sech
+ 
+u
+r=cosϕ=sechu, 
+z
+=
+sin
+⁡
+ϕ
+=
+tanh
+⁡
+u
+z=sinϕ=tanhu. So 
+r
+=
+sech
+ 
+u
+r=sechu, 
+z
+=
+tanh
+⁡
+u
+z=tanhu, and 
+λ
+=
+u
+tan
+⁡
+α
+λ=utanα.
+
+This is a curve on a sphere, but is it a helix in 
+R
+3
+R 
+3
+ ? A helix has form 
+(
+R
+cos
+⁡
+λ
+,
+R
+sin
+⁡
+λ
+,
+c
+λ
+)
+(Rcosλ,Rsinλ,cλ) with 
+R
+,
+c
+R,c constant. Here 
+R
+=
+r
+=
+sech
+ 
+u
+R=r=sechu varies with 
+u
+=
+λ
+/
+tan
+⁡
+α
+u=λ/tanα, and 
+z
+=
+tanh
+⁡
+u
+z=tanhu varies. So NOT a helix in 3D cylindrical coordinates with constant 
+R
+R and linear 
+z
+z.
+
+So the loxodrome is NOT a helix in 
+R
+3
+R 
+3
+ . OK, my recollection was wrong. Good.
+
+So loxodromes have NON-constant geodesic curvature, equal to 
+∣
+sin
+⁡
+α
+cos
+⁡
+α
+tan
+⁡
+ϕ
+∣
+=
+∣
+sin
+⁡
+α
+cos
+⁡
+α
+⋅
+tanh
+⁡
+u
+∣
+⋅
+∣sinαcosαtanϕ∣=∣sinαcosα⋅tanhu∣⋅... wait,
+tan
+⁡
+ϕ
+=
+tanh
+⁡
+u
+/
+sech
+ 
+u
+⋅
+tanϕ=tanhu/sechu⋅... no, 
+tan
+⁡
+ϕ
+=
+sin
+⁡
+ϕ
+/
+cos
+⁡
+ϕ
+=
+tanh
+⁡
+u
+/
+sech
+ 
+u
+=
+sinh
+⁡
+u
+tanϕ=sinϕ/cosϕ=tanhu/sechu=sinhu.
+
+So 
+κ
+g
+=
+∣
+sin
+⁡
+α
+cos
+⁡
+α
+sinh
+⁡
+u
+∣
+κ 
+g
+​	
+ =∣sinαcosαsinhu∣.
+
+As 
+u
+→
+±
+∞
+u→±∞ (approaching poles), 
+sinh
+⁡
+u
+→
+±
+∞
+sinhu→±∞, so 
+κ
+g
+→
+∞
+κ 
+g
+​	
+ →∞. Correct: near the pole, the loxodrome spirals infinitely tightly, geodesic curvature blows up.
+
+At 
+u
+=
+0
+u=0 (equator), 
+κ
+g
+=
+0
+κ 
+g
+​	
+ =0 (!). Interesting. At the equator, the loxodrome has zero geodesic curvature (passes through equator as a geodesic locally... well not exactly, but curvature zero). Hmm, actually at equator the loxodrome passes through with tangent at angle 
+α
+α to the equator direction. Geodesic curvature being zero means locally it looks like a geodesic (great circle). Interesting.
+
+Hmm wait, that seems suspicious. Let me double-check at
+α
+=
+0
+α=0 (meridian): 
+κ
+g
+=
+0
+κ 
+g
+​	
+ =0 everywhere ✓ (meridian is a geodesic).
+At 
+α
+α small but positive, at equator (
+ϕ
+=
+0
+ϕ=0): 
+κ
+g
+=
+0
+κ 
+g
+​	
+ =0. That means the loxodrome through the equator has instantaneously zero geodesic curvature, like a geodesic through that point. Interesting but plausible — a loxodrome at 
+α
+α to the equator has to cross the equator "geodesic-like" because of the symmetry of the sphere about the equator (reflection symmetry 
+z
+→
+−
+z
+z→−z). At the equator, the curve has a point of inflection (change of sign of geodesic curvature), so at the crossing it's locally like a geodesic. Nice.
+
+OK so 
+κ
+g
+κ 
+g
+​	
+  for loxodrome is NOT constant. My earlier intuition was wrong. Good, I'm now confident.
+
+Given this, the "geodesic evolute" (locus of centers of geodesic curvature circles) of a loxodrome is NOT well-defined by the simple analogy (since 
+κ
+g
+κ 
+g
+​	
+  varies, the radius of curvature varies, and the center of curvature is at variable distance).
+
+However, we can still define the "spherical evolute" via the center-of-geodesic-curvature construction pointwise. Let me not go down this rabbit hole. Instead, I'll focus on the planar results, which are rock-solid, and mention the spherical version honestly as "the lift of the planar evolute" (which is well-defined via stereographic projection, but not identical to the geodesic evolute).
+
+Actually, the conformal projection principle: stereographic projection sends evolute-involute relationships on the plane to conformal equivalents on the sphere. Since the projection is conformal, it preserves the "angle between curve and radial direction," so a log spiral (constant angle with rays) lifts to a loxodrome (constant angle with meridians) ✓. But it does NOT preserve geodesic curvature (geodesic curvature scales with conformal factor), so the geodesic evolute on the sphere is not simply the lift of the planar evolute.
+
+So the honest statement is: the "spherical evolute" (geodesic version) of a loxodrome is another loxodrome (I believe, by some argument I'd need to verify), but the amplitude relationship would be different from the planar one due to the conformal factor.
+
+Given I'm not 100% sure, let me not claim this. Better to stick with the planar results and note that the sphere version requires more careful analysis (which we can do later if the user wants).
+
+OK. Let me also address the "cold prediction" the user wants: give a concrete example with numbers, so they can verify. Then give the "structural identity" 
+z
+e
+v
+o
+l
+z
+i
+n
+v
+o
+l
+=
+z
+0
+2
+z 
+evol
+​	
+ z 
+invol
+​	
+ =z 
+0
+2
+​	
+ .
+
+Let me also be careful about the "frozen" (cold) style — the user wants pure calculation, no metaphor. So I'll present equations and calculations, and just state results.
+
+Let me write the response:
+
+Structure:
+Paramétrage (complex form).
+Curvature calculation (froid).
+Évolute — result.
+Développante — result.
+Identité prédictive 
+z
+e
+v
+o
+l
+⋅
+z
+i
+n
+v
+o
+l
+=
+z
+0
+2
+z 
+evol
+​	
+ ⋅z 
+invol
+​	
+ =z 
+0
+2
+​	
+  (and amplitude product 
+=
+a
+2
+=a 
+2
+ ).
+Example: a=1, b=0.2, compute.
+Iteration: evol^n and invol^n.
+Inverse operators: evol∘invol = invol∘evol = identity on log spirals.
+The pole: unique point where all three converge.
+Sphere note: honest about what's known and what isn't.
+Length: medium-long, rigorous, with equations displayed. Use "yo" playfully but stay sharp.
+
+Let me also include the fact that 
+z
+e
+v
+o
+l
+/
+z
+0
+=
+b
+i
+z 
+evol
+​	
+ /z 
+0
+​	
+ =bi and
+z
+i
+n
+v
+o
+l
+/
+z
+0
+=
+−
+i
+/
+b
+z 
+invol
+​	
+ /z 
+0
+​	
+ =−i/b — these are the "multiplicative offsets" as functions of the parameter.
+
+Actually more precisely:
+z
+e
+v
+o
+l
+(
+θ
+)
+/
+z
+0
+(
+θ
+)
+=
+b
+i
+z 
+evol
+​	
+ (θ)/z 
+0
+​	
+ (θ)=bi (constant complex number)
+z
+i
+n
+v
+o
+l
+(
+θ
+)
+/
+z
+0
+(
+θ
+)
+=
+−
+i
+/
+b
+z 
+invol
+​	
+ (θ)/z 
+0
+​	
+ (θ)=−i/b (constant complex number)
+
+So the evolute is obtained from the original by multiplying by 
+b
+i
+bi at each parameter, and the involute by 
+−
+i
+/
+b
+−i/b. These are rotations composed with scalings (complex numbers), constant in 
+θ
+θ.
+
+This is the coldest form: the transformations are just complex multiplications. That's very clean.
+
+Actually wait — is this right? 
+z
+e
+v
+o
+l
+/
+z
+0
+z 
+evol
+​	
+ /z 
+0
+​	
+ : 
+z
+e
+v
+o
+l
+=
+a
+b
+i
+e
+(
+b
++
+i
+)
+θ
+z 
+evol
+​	
+ =abie 
+(b+i)θ
+ , 
+z
+0
+=
+a
+e
+(
+b
++
+i
+)
+θ
+z 
+0
+​	
+ =ae 
+(b+i)θ
+ , ratio = 
+b
+i
+bi ✓. But 
+z
+e
+v
+o
+l
+z 
+evol
+​	
+  is the evolute at the same parameter 
+θ
+θ — but the evolute has a different "phase" than 
+z
+0
+z 
+0
+​	
+ . When we say 
+z
+e
+v
+o
+l
+(
+θ
+)
+z 
+evol
+​	
+ (θ), we mean the point on the evolute corresponding to the center of curvature at 
+z
+0
+(
+θ
+)
+z 
+0
+​	
+ (θ). Yes, so
+z
+e
+v
+o
+l
+(
+θ
+)
+=
+b
+i
+⋅
+z
+0
+(
+θ
+)
+z 
+evol
+​	
+ (θ)=bi⋅z 
+0
+​	
+ (θ) — that's the evolute at parameter 
+θ
+θ. Very clean.
+
+Similarly 
+z
+i
+n
+v
+o
+l
+(
+θ
+)
+=
+−
+i
+b
+z
+0
+(
+θ
+)
+z 
+invol
+​	
+ (θ)=− 
+b
+i
+​	
+ z 
+0
+​	
+ (θ) (with the caveat about 
+θ
+0
+→
+−
+∞
+θ 
+0
+​	
+ →−∞).
+
+So:
+z
+e
+v
+o
+l
+(
+θ
+)
+=
+b
+i
+⋅
+z
+0
+(
+θ
+)
+,
+z
+i
+n
+v
+o
+l
+(
+θ
+)
+=
+−
+i
+b
+⋅
+z
+0
+(
+θ
+)
+z 
+evol
+​	
+ (θ)=bi⋅z 
+0
+​	
+ (θ),z 
+invol
+​	
+ (θ)= 
+b
+−i
+​	
+ ⋅z 
+0
+​	
+ (θ)
+​	
+ 
+
+At every parameter value 
+θ
+θ, the evolute point is the original point rotated by 
+π
+/
+2
+π/2 and scaled by 
+∣
+b
+∣
+∣b∣; the involute point is the original rotated by 
+−
+π
+/
+2
+−π/2 and scaled by 
+1
+/
+∣
+b
+∣
+1/∣b∣.
+
+This is the "cold prediction": at each 
+θ
+θ, the three points lie on the same ray... no, not on the same ray, but in fixed geometric relation. Actually 
+b
+i
+bi is a rotation by 
+π
+/
+2
+π/2 and scaling by 
+b
+b. So evolute 
+=
+π
+/
+2
+=π/2 rotation, 
+b
+b-scaling of original. And involute 
+=
+−
+π
+/
+2
+=−π/2 rotation, 
+1
+/
+b
+1/b-scaling.
+
+The trio at each 
+θ
+θ:
+
+z
+0
+(
+θ
+)
+=
+a
+e
+(
+b
++
+i
+)
+θ
+z 
+0
+​	
+ (θ)=ae 
+(b+i)θ
+  (on the original spiral)
+z
+e
+v
+o
+l
+(
+θ
+)
+=
+a
+b
+e
+i
+(
+θ
++
+π
+/
+2
+)
+e
+b
+θ
+z 
+evol
+​	
+ (θ)=abe 
+i(θ+π/2)
+ e 
+bθ
+  (on the evolute)
+z
+i
+n
+v
+o
+l
+(
+θ
+)
+=
+a
+b
+e
+i
+(
+θ
+−
+π
+/
+2
+)
+e
+b
+θ
+z 
+invol
+​	
+ (θ)= 
+b
+a
+​	
+ e 
+i(θ−π/2)
+ e 
+bθ
+  (on the involute)
+All three have the same "radial growth" 
+e
+b
+θ
+e 
+bθ
+  and are at angles
+θ
+,
+θ
++
+π
+/
+2
+,
+θ
+−
+π
+/
+2
+θ,θ+π/2,θ−π/2 respectively, with magnitudes
+a
+e
+b
+θ
+,
+a
+b
+e
+b
+θ
+,
+a
+b
+e
+b
+θ
+ae 
+bθ
+ ,abe 
+bθ
+ , 
+b
+a
+​	
+ e 
+bθ
+ .
+
+At each fixed 
+θ
+θ, the three points are on three rays separated by
+π
+/
+2
+π/2, at distances in ratio 
+1
+:
+b
+:
+1
+/
+b
+1:b:1/b from the origin. Product of distances (evolute × involute) 
+=
+a
+2
+e
+2
+b
+θ
+=
+∣
+z
+0
+∣
+2
+=a 
+2
+ e 
+2bθ
+ =∣z 
+0
+​	
+ ∣ 
+2
+  ✓.
+
+This is the geometric identity, at each 
+θ
+θ. It's very clean and cold.
+
+Now the "reflection symétrique inversée parallèle" the user wanted: the evolute is a 
+π
+/
+2
+π/2-rotation + 
+b
+b-scale; involute is
+−
+π
+/
+2
+−π/2-rotation + 
+1
+/
+b
+1/b-scale. The composition evolute then involute: 
+z
+0
+→
+b
+i
+z
+0
+→
+(
+−
+i
+/
+b
+)
+(
+b
+i
+z
+0
+)
+=
+z
+0
+z 
+0
+​	
+ →biz 
+0
+​	
+ →(−i/b)(biz 
+0
+​	
+ )=z 
+0
+​	
+ . Identity. Similarly involute then evolute: 
+z
+0
+→
+(
+−
+i
+/
+b
+)
+z
+0
+→
+b
+i
+(
+−
+i
+/
+b
+)
+z
+0
+=
+z
+0
+z 
+0
+​	
+ →(−i/b)z 
+0
+​	
+ →bi(−i/b)z 
+0
+​	
+ =z 
+0
+​	
+ . Both compositions are the identity.
+
+So the evolute and involute operations are exact inverse maps on the set of log spirals (as functions of 
+θ
+θ). The "point"
+θ
+θ is preserved throughout: it's the same parameter on all three curves.
+
+Let me present the response with all this.
+
+Also include:
+
+Curvature 
+κ
+(
+θ
+)
+=
+1
+/
+(
+a
+e
+b
+θ
+1
++
+b
+2
+)
+κ(θ)=1/(ae 
+bθ
+  
+1+b 
+2
+ 
+​	
+ ).
+Arc length from -∞ to 
+θ
+θ: 
+s
+(
+θ
+)
+=
+a
+1
++
+b
+2
+b
+e
+b
+θ
+s(θ)= 
+b
+a 
+1+b 
+2
+ 
+​	
+ 
+​	
+ e 
+bθ
+ .
+Evolute point explicit.
+Involute point explicit.
+The "point de faiblesse": as 
+θ
+→
+−
+∞
+θ→−∞, all three → 0 (the pole). The pole is the unique point that all three curves share. It's the "fixed point" in the sense that the multiplicative relations still hold (0 = bi · 0 = -i/b · 0), but trivially. It's also where the curvature is infinite (since 
+r
+→
+0
+r→0). So it's a singularity of curvature.
+
+Let me structure the answer cleanly. French, with cold math.
+
+Also I should provide a small numeric example to make it verifiable.
+
+Let me compute for 
+a
+=
+1
+,
+b
+=
+0.2
+,
+θ
+=
+0
+a=1,b=0.2,θ=0:
+
+z
+0
+(
+0
+)
+=
+1
+⋅
+e
+0
+⋅
+(
+cos
+⁡
+0
+,
+sin
+⁡
+0
+)
+=
+(
+1
+,
+0
+)
+z 
+0
+​	
+ (0)=1⋅e 
+0
+ ⋅(cos0,sin0)=(1,0)
+z
+e
+v
+o
+l
+(
+0
+)
+=
+0.2
+i
+⋅
+(
+1
+,
+0
+)
+=
+(
+0
+,
+0.2
+)
+z 
+evol
+​	
+ (0)=0.2i⋅(1,0)=(0,0.2) (rotation by 
++
+π
+/
+2
++π/2 = up)
+z
+i
+n
+v
+o
+l
+(
+0
+)
+=
+−
+i
+/
+0.2
+⋅
+(
+1
+,
+0
+)
+=
+−
+5
+i
+⋅
+(
+1
+,
+0
+)
+=
+(
+0
+,
+−
+5
+)
+z 
+invol
+​	
+ (0)=−i/0.2⋅(1,0)=−5i⋅(1,0)=(0,−5) (rotation by 
+−
+π
+/
+2
+−π/2 = down, magnitude 5)
+Check: 
+∣
+z
+e
+v
+o
+l
+∣
+⋅
+∣
+z
+i
+n
+v
+o
+l
+∣
+=
+0.2
+⋅
+5
+=
+1
+=
+∣
+z
+0
+∣
+2
+∣z 
+evol
+​	
+ ∣⋅∣z 
+invol
+​	
+ ∣=0.2⋅5=1=∣z 
+0
+​	
+ ∣ 
+2
+  ✓
+Check: 
+z
+e
+v
+o
+l
+⋅
+z
+i
+n
+v
+o
+l
+=
+(
+0
+,
+0.2
+)
+⋅
+(
+0
+,
+−
+5
+)
+=
+0
++
+0.2
+⋅
+(
+−
+5
+)
+i
+2
+=
+−
+1
+⋅
+i
+2
+=
+1
+=
+z
+0
+2
+z 
+evol
+​	
+ ⋅z 
+invol
+​	
+ =(0,0.2)⋅(0,−5)=0+0.2⋅(−5)i 
+2
+ =−1⋅i 
+2
+ =1=z 
+0
+2
+​	
+  ✓ (in complex:
+(
+0.2
+i
+)
+(
+−
+5
+i
+)
+=
+−
+1
+i
+2
+=
+1
+(0.2i)(−5i)=−1i 
+2
+ =1)
+For 
+θ
+=
+π
+/
+2
+θ=π/2:
+
+z
+0
+(
+π
+/
+2
+)
+=
+a
+e
+b
+π
+/
+2
+e
+i
+π
+/
+2
+=
+e
+0.314
+i
+=
+1.369
+i
+z 
+0
+​	
+ (π/2)=ae 
+bπ/2
+ e 
+iπ/2
+ =e 
+0.314
+ i=1.369i, so 
+(
+0
+,
+1.369
+)
+(0,1.369)
+z
+e
+v
+o
+l
+(
+π
+/
+2
+)
+=
+0.2
+i
+⋅
+1.369
+i
+=
+0.274
+i
+2
+=
+−
+0.274
+z 
+evol
+​	
+ (π/2)=0.2i⋅1.369i=0.274i 
+2
+ =−0.274, so
+(
+−
+0.274
+,
+0
+)
+(−0.274,0)
+z
+i
+n
+v
+o
+l
+(
+π
+/
+2
+)
+=
+−
+i
+/
+0.2
+⋅
+1.369
+i
+=
+−
+1.369
+i
+2
+/
+0.2
+=
+1.369
+/
+0.2
+=
+6.847
+z 
+invol
+​	
+ (π/2)=−i/0.2⋅1.369i=−1.369i 
+2
+ /0.2=1.369/0.2=6.847, so 
+(
+6.847
+,
+0
+)
+(6.847,0)
+Check: 
+0.274
+⋅
+6.847
+=
+1.876
+≈
+1.369
+2
+=
+1.875
+0.274⋅6.847=1.876≈1.369 
+2
+ =1.875 ✓
+Now the numeric example for computing specific points on the actual curves (with proper parametrization, since the evolute has its own angle parameter 
+ϕ
+=
+θ
++
+π
+/
+2
+ϕ=θ+π/2).
+
+Actually, I realize there's a subtlety. When I write 
+z
+e
+v
+o
+l
+(
+θ
+)
+=
+b
+i
+⋅
+z
+0
+(
+θ
+)
+z 
+evol
+​	
+ (θ)=bi⋅z 
+0
+​	
+ (θ), I'm using the "evolute at the point corresponding to
+θ
+θ" — that is, the center of curvature of the spiral at parameter
+θ
+θ. This uses 
+θ
+θ as the "moving parameter" along the original spiral, and the evolute point is at angle 
+θ
++
+π
+/
+2
+θ+π/2 in the plane. So as 
+θ
+θ varies, the evolute traces out a log spiral whose own angle parameter is 
+ϕ
+=
+θ
++
+π
+/
+2
+ϕ=θ+π/2.
+
+Similarly, the involute traces a log spiral with own angle parameter 
+ϕ
+′
+=
+θ
+−
+π
+/
+2
+ϕ 
+′
+ =θ−π/2.
+
+So the three curves are log spirals with:
+
+Original: phase = 
+θ
+θ, amplitude 
+a
+a, base 
+b
+b
+Evolute: phase = 
+θ
++
+π
+/
+2
+θ+π/2, amplitude 
+a
+b
+ab, base 
+b
+b → can be rewritten in terms of its own phase 
+ϕ
+=
+θ
++
+π
+/
+2
+ϕ=θ+π/2: amplitude 
+a
+b
+e
+−
+b
+π
+/
+2
+abe 
+−bπ/2
+ , base 
+b
+b, phase 
+ϕ
+ϕ.
+Involute: phase = 
+θ
+−
+π
+/
+2
+θ−π/2, amplitude 
+a
+/
+b
+a/b, base 
+b
+b → in own phase 
+ϕ
+′
+=
+θ
+−
+π
+/
+2
+ϕ 
+′
+ =θ−π/2: amplitude 
+(
+a
+/
+b
+)
+e
+b
+π
+/
+2
+(a/b)e 
+bπ/2
+ , base 
+b
+b, phase
+ϕ
+′
+ϕ 
+′
+ .
+OK. Now the response.
+
+Let me also mention: the composition 
+C
+C (evolute operation) has eigenvalues 
+b
+e
+i
+π
+/
+2
+be 
+iπ/2
+  (rotation by 
+π
+/
+2
+π/2 and scaling by 
+b
+b), and
+I
+I (involute) has 
+b
+−
+1
+e
+−
+i
+π
+/
+2
+b 
+−1
+ e 
+−iπ/2
+ . So the operations are inverses: 
+C
+⋅
+I
+=
+I
+⋅
+C
+=
+i
+d
+C⋅I=I⋅C=id. In terms of amplitude scaling per iteration, applying evolute 
+n
+n times multiplies amplitude by 
+(
+b
+e
+i
+π
+/
+2
+)
+n
+(be 
+iπ/2
+ ) 
+n
+  or something... but actually iterating evolute: each application multiplies by 
+b
+i
+bi but also shifts phase by 
+π
+/
+2
+π/2... wait no. Let me redo.
+
+Applying evolute: 
+z
+e
+v
+o
+l
+(
+θ
+)
+=
+b
+i
+⋅
+z
+0
+(
+θ
+)
+z 
+evol
+​	
+ (θ)=bi⋅z 
+0
+​	
+ (θ). But the evolute is itself a log spiral, so we could parametrize it by its own phase 
+ϕ
+=
+θ
++
+π
+/
+2
+ϕ=θ+π/2. In terms of 
+ϕ
+ϕ, evolute has amplitude 
+a
+b
+e
+−
+b
+π
+/
+2
+abe 
+−bπ/2
+ .
+
+Applying evolute again: take evolute (a log spiral with amplitude 
+a
+′
+=
+a
+b
+e
+−
+b
+π
+/
+2
+a 
+′
+ =abe 
+−bπ/2
+ ), compute its evolute. Using the formula: new amplitude 
+=
+a
+′
+b
+e
+−
+b
+π
+/
+2
+=
+a
+b
+e
+−
+b
+π
+/
+2
+⋅
+b
+e
+−
+b
+π
+/
+2
+=
+a
+b
+2
+e
+−
+b
+π
+=a 
+′
+ be 
+−bπ/2
+ =abe 
+−bπ/2
+ ⋅be 
+−bπ/2
+ =ab 
+2
+ e 
+−bπ
+ .
+
+So iterating evolute: amplitude after 
+n
+n steps 
+=
+a
+⋅
+b
+n
+e
+−
+n
+b
+π
+/
+2
+=a⋅b 
+n
+ e 
+−nbπ/2
+  =
+a
+(
+b
+e
+−
+b
+π
+/
+2
+)
+n
+a(be 
+−bπ/2
+ ) 
+n
+ .
+
+Similarly involute after 
+n
+n steps: amplitude 
+=
+a
+⋅
+b
+−
+n
+e
+n
+b
+π
+/
+2
+=
+a
+(
+b
+−
+1
+e
+b
+π
+/
+2
+)
+n
+=a⋅b 
+−n
+ e 
+nbπ/2
+ =a(b 
+−1
+ e 
+bπ/2
+ ) 
+n
+ .
+
+Product of the two "per-step factors": 
+b
+e
+−
+b
+π
+/
+2
+⋅
+b
+−
+1
+e
+b
+π
+/
+2
+=
+1
+be 
+−bπ/2
+ ⋅b 
+−1
+ e 
+bπ/2
+ =1 ✓ (inverse operators).
+
+The user asked for "quelque chose qui prédit." The prediction is: for any given 
+(
+a
+,
+b
+)
+(a,b) of the original spiral, the amplitude of the 
+n
+n-th iterate of the evolute is 
+a
+⋅
+(
+b
+e
+−
+b
+π
+/
+2
+)
+n
+a⋅(be 
+−bπ/2
+ ) 
+n
+ , and the 
+n
+n-th iterate of the involute is 
+a
+⋅
+(
+b
+e
+b
+π
+/
+2
+)
+−
+n
+a⋅(be 
+bπ/2
+ ) 
+−n
+ . These are exact formulas. Testable.
+
+OK, I think I have enough. Let me write the response.
+
+I should be careful to keep it cold, mathematical, no poetic fluff. The user was clear: "je veux vraiment genre trouver quelque chose de Fucking précis. Développe mathématiques, la Gori, le schéma de calcul pur, je veux voir le froid je veux voir quelque chose qui calcule quelque chose qui va se prédire."
+
+OK. Response structure: pure math, with formal derivation, no metaphors.
+
+Also note: I should probably use "you" form (tutoyer) since the user is very informal. Let me match.
+
+Length: significant but tight. Let me not go on too long.
+Docteur Paradoxal, service de calcul froid. Voici la mécanique, sans métaphore.
+
+1. Paramétrage complexe de la spirale logarithmique
+
+On travaille dans 
+C
+C pour éliminer les couples de coordonnées :
+
+z
+0
+(
+θ
+)
+=
+a
+ 
+e
+(
+b
++
+i
+)
+θ
+=
+a
+ 
+e
+b
+θ
+(
+cos
+⁡
+θ
++
+i
+sin
+⁡
+θ
+)
+,
+a
+>
+0
+,
+ 
+b
+≠
+0.
+z 
+0
+​	
+ (θ)=ae 
+(b+i)θ
+ =ae 
+bθ
+ (cosθ+isinθ),a>0, b
+
+=0.
+
+Dérivées immédiates :
+
+z
+0
+′
+=
+a
+(
+b
++
+i
+)
+e
+(
+b
++
+i
+)
+θ
+,
+∣
+z
+0
+′
+∣
+=
+a
+1
++
+b
+2
+ 
+e
+b
+θ
+.
+z 
+0
+′
+​	
+ =a(b+i)e 
+(b+i)θ
+ ,∣z 
+0
+′
+​	
+ ∣=a 
+1+b 
+2
+ 
+​	
+ e 
+bθ
+ .
+
+Vitesse scalaire : 
+  
+v
+(
+θ
+)
+=
+∣
+z
+0
+′
+(
+θ
+)
+∣
+v(θ)=∣z 
+0
+′
+​	
+ (θ)∣.
+
+Arc length depuis 
+−
+∞
+−∞ (le pôle, où tout converge) :
+
+s
+(
+θ
+)
+=
+∫
+−
+∞
+θ
+v
+(
+τ
+)
+ 
+d
+τ
+=
+a
+1
++
+b
+2
+b
+ 
+e
+b
+θ
+.
+s(θ)=∫ 
+−∞
+θ
+​	
+ v(τ)dτ= 
+b
+a 
+1+b 
+2
+ 
+​	
+ 
+​	
+ e 
+bθ
+ .
+
+Tangente unitaire : 
+  
+τ
+(
+θ
+)
+=
+z
+0
+′
+∣
+z
+0
+′
+∣
+=
+b
++
+i
+1
++
+b
+2
+ 
+e
+i
+θ
+τ(θ)= 
+∣z 
+0
+′
+​	
+ ∣
+z 
+0
+′
+​	
+ 
+​	
+ = 
+1+b 
+2
+ 
+​	
+ 
+b+i
+​	
+ e 
+iθ
+ .
+
+Normale unitaire (rotation 
++
+90
+°
++90°) : 
+  
+n
+(
+θ
+)
+=
+i
+ 
+τ
+(
+θ
+)
+=
+b
+i
+−
+1
+1
++
+b
+2
+ 
+e
+i
+θ
+n(θ)=iτ(θ)= 
+1+b 
+2
+ 
+​	
+ 
+bi−1
+​	
+ e 
+iθ
+ .
+
+2. Courbure et rayon de courbure — calcul explicite
+
+κ
+(
+θ
+)
+=
+1
+a
+1
++
+b
+2
+ 
+e
+b
+θ
+,
+ρ
+(
+θ
+)
+=
+1
+κ
+(
+θ
+)
+=
+a
+1
++
+b
+2
+ 
+e
+b
+θ
+.
+κ(θ)= 
+a 
+1+b 
+2
+ 
+​	
+ e 
+bθ
+ 
+1
+​	
+ ,ρ(θ)= 
+κ(θ)
+1
+​	
+ =a 
+1+b 
+2
+ 
+​	
+ e 
+bθ
+ .
+
+Note : 
+κ
+(
+θ
+)
+κ(θ) n'est pas constante — elle décroît exponentiellement. Mais elle décroît proportionnellement à 
+∣
+z
+0
+∣
+∣z 
+0
+​	
+ ∣ : 
+ρ
+(
+θ
+)
+=
+∣
+z
+0
+(
+θ
+)
+∣
+1
++
+b
+2
+ρ(θ)=∣z 
+0
+​	
+ (θ)∣ 
+1+b 
+2
+ 
+​	
+ . C'est cette proportionalité exacte qui rend tout le reste solvable.
+
+3. Évolute (développée) — calcul complet
+
+Centre de courbure au point 
+z
+0
+(
+θ
+)
+z 
+0
+​	
+ (θ) :
+
+C
+(
+θ
+)
+=
+z
+0
+(
+θ
+)
++
+ρ
+(
+θ
+)
+ 
+n
+(
+θ
+)
+.
+C(θ)=z 
+0
+​	
+ (θ)+ρ(θ)n(θ).
+
+Substitution brute :
+
+C
+(
+θ
+)
+=
+a
+ 
+e
+(
+b
++
+i
+)
+θ
++
+a
+1
++
+b
+2
+ 
+e
+b
+θ
+⋅
+b
+i
+−
+1
+1
++
+b
+2
+ 
+e
+i
+θ
+=
+a
+ 
+e
+b
+θ
+ 
+e
+i
+θ
+[
+1
++
+b
+i
+−
+1
+]
+.
+C(θ)=ae 
+(b+i)θ
+ +a 
+1+b 
+2
+ 
+​	
+ e 
+bθ
+ ⋅ 
+1+b 
+2
+ 
+​	
+ 
+bi−1
+​	
+ e 
+iθ
+ =ae 
+bθ
+ e 
+iθ
+ [1+bi−1].
+
+C
+(
+θ
+)
+=
+a
+ 
+b
+ 
+i
+ 
+e
+(
+b
++
+i
+)
+θ
+.
+C(θ)=abie 
+(b+i)θ
+ .
+
+  
+z
+e
+ˊ
+vol
+(
+θ
+)
+=
+b
+ 
+i
+⋅
+z
+0
+(
+θ
+)
+  
+z 
+e
+ˊ
+ vol
+​	
+ (θ)=bi⋅z 
+0
+​	
+ (θ)
+​	
+ 
+
+Résultat brut : l'évolute de la spirale logarithmique est obtenue en multipliant, à chaque paramètre 
+θ
+θ, le point d'origine par la constante complexe 
+b
+i
+bi. C'est-à-dire :
+
+rotation de 
++
+π
+/
+2
++π/2 (le facteur 
+i
+i),
+mise à l'échelle de 
+∣
+b
+∣
+∣b∣ (le facteur 
+b
+b),
+et inversion de signe si 
+b
+<
+0
+b<0.
+Aucune dépendance en 
+θ
+θ. La transformation est invariante par paramètre.
+
+Écrit en coordonnées polaires :
+
+z
+e
+ˊ
+vol
+=
+a
+b
+ 
+e
+b
+θ
+ 
+e
+i
+(
+θ
++
+π
+/
+2
+)
+⟹
+r
+e
+ˊ
+vol
+(
+θ
+)
+=
+a
+b
+ 
+e
+b
+θ
+,
+ 
+φ
+e
+ˊ
+vol
+(
+θ
+)
+=
+θ
++
+π
+/
+2.
+z 
+e
+ˊ
+ vol
+​	
+ =abe 
+bθ
+ e 
+i(θ+π/2)
+ ⟹r 
+e
+ˊ
+ vol
+​	
+ (θ)=abe 
+bθ
+ , φ 
+e
+ˊ
+ vol
+​	
+ (θ)=θ+π/2.
+
+Si on réexprime dans la phase propre de l'évolute 
+ϕ
+=
+θ
++
+π
+/
+2
+ϕ=θ+π/2 :
+
+z
+e
+ˊ
+vol
+(
+ϕ
+)
+=
+a
+b
+ 
+e
+−
+b
+π
+/
+2
+⏟
+a
+′
+ 
+e
+(
+b
++
+i
+)
+ϕ
+.
+z 
+e
+ˊ
+ vol
+​	
+ (ϕ)= 
+a 
+′
+ 
+abe 
+−bπ/2
+ 
+​	
+ 
+​	
+ e 
+(b+i)ϕ
+ .
+
+L'évolute est une spirale logarithmique de même 
+b
+b, d'amplitude 
+a
+′
+=
+a
+b
+ 
+e
+−
+b
+π
+/
+2
+a 
+′
+ =abe 
+−bπ/2
+ , déphasée de 
++
+π
+/
+2
++π/2.
+
+4. Développante (involute) — calcul complet
+
+Développante partant du pôle (
+θ
+0
+→
+−
+∞
+θ 
+0
+​	
+ →−∞) :
+
+I
+(
+θ
+)
+=
+z
+0
+(
+θ
+)
+−
+s
+(
+θ
+)
+ 
+τ
+(
+θ
+)
+.
+I(θ)=z 
+0
+​	
+ (θ)−s(θ)τ(θ).
+
+Substitution :
+
+I
+(
+θ
+)
+=
+a
+ 
+e
+(
+b
++
+i
+)
+θ
+−
+a
+1
++
+b
+2
+b
+ 
+e
+b
+θ
+⋅
+b
++
+i
+1
++
+b
+2
+ 
+e
+i
+θ
+=
+a
+ 
+e
+b
+θ
+ 
+e
+i
+θ
+[
+1
+−
+b
++
+i
+b
+]
+.
+I(θ)=ae 
+(b+i)θ
+ − 
+b
+a 
+1+b 
+2
+ 
+​	
+ 
+​	
+ e 
+bθ
+ ⋅ 
+1+b 
+2
+ 
+​	
+ 
+b+i
+​	
+ e 
+iθ
+ =ae 
+bθ
+ e 
+iθ
+ [1− 
+b
+b+i
+​	
+ ].
+
+Or 
+1
+−
+b
++
+i
+b
+=
+b
+−
+b
+−
+i
+b
+=
+−
+i
+b
+1− 
+b
+b+i
+​	
+ = 
+b
+b−b−i
+​	
+ = 
+b
+−i
+​	
+ .
+
+  
+z
+invol
+(
+θ
+)
+=
+−
+i
+b
+⋅
+z
+0
+(
+θ
+)
+  
+z 
+invol
+​	
+ (θ)= 
+b
+−i
+​	
+ ⋅z 
+0
+​	
+ (θ)
+​	
+ 
+
+Même structure : multiplication à chaque 
+θ
+θ par la constante complexe 
+−
+i
+/
+b
+−i/b. Rotation de 
+−
+π
+/
+2
+−π/2, mise à l'échelle 
+1
+/
+∣
+b
+∣
+1/∣b∣.
+
+En phase propre 
+ϕ
+′
+=
+θ
+−
+π
+/
+2
+ϕ 
+′
+ =θ−π/2 :
+
+z
+invol
+(
+ϕ
+′
+)
+=
+a
+b
+ 
+e
+b
+π
+/
+2
+⏟
+a
+′
+′
+ 
+e
+(
+b
++
+i
+)
+ϕ
+′
+.
+z 
+invol
+​	
+ (ϕ 
+′
+ )= 
+a 
+′′
+ 
+b
+a
+​	
+ e 
+bπ/2
+ 
+​	
+ 
+​	
+ e 
+(b+i)ϕ 
+′
+ 
+ .
+
+L'involute est une spirale logarithmique de même 
+b
+b, d'amplitude 
+a
+′
+′
+=
+a
+b
+ 
+e
+b
+π
+/
+2
+a 
+′′
+ = 
+b
+a
+​	
+ e 
+bπ/2
+ , déphasée de 
+−
+π
+/
+2
+−π/2.
+
+5. L'identité prédictive (le résultat central)
+
+Produit point par point :
+
+z
+e
+ˊ
+vol
+(
+θ
+)
+⋅
+z
+invol
+(
+θ
+)
+=
+(
+b
+i
+)
+(
+−
+i
+b
+)
+⋅
+z
+0
+(
+θ
+)
+2
+=
+−
+i
+2
+⋅
+z
+0
+(
+θ
+)
+2
+=
+z
+0
+(
+θ
+)
+2
+.
+z 
+e
+ˊ
+ vol
+​	
+ (θ)⋅z 
+invol
+​	
+ (θ)=(bi)( 
+b
+−i
+​	
+ )⋅z 
+0
+​	
+ (θ) 
+2
+ =−i 
+2
+ ⋅z 
+0
+​	
+ (θ) 
+2
+ =z 
+0
+​	
+ (θ) 
+2
+ .
+
+  
+z
+e
+ˊ
+vol
+(
+θ
+)
+⋅
+z
+invol
+(
+θ
+)
+=
+z
+0
+(
+θ
+)
+2
+  
+z 
+e
+ˊ
+ vol
+​	
+ (θ)⋅z 
+invol
+​	
+ (θ)=z 
+0
+​	
+ (θ) 
+2
+ 
+​	
+ 
+
+En modules :
+
+∣
+z
+e
+ˊ
+vol
+(
+θ
+)
+∣
+⋅
+∣
+z
+invol
+(
+θ
+)
+∣
+=
+∣
+z
+0
+(
+θ
+)
+∣
+2
+.
+∣z 
+e
+ˊ
+ vol
+​	
+ (θ)∣⋅∣z 
+invol
+​	
+ (θ)∣=∣z 
+0
+​	
+ (θ)∣ 
+2
+ .
+
+En amplitudes :
+
+a
+e
+ˊ
+vol
+⋅
+a
+invol
+=
+a
+2
+.
+a 
+e
+ˊ
+ vol
+​	
+ ⋅a 
+invol
+​	
+ =a 
+2
+ .
+
+Vérification directe : 
+(
+a
+b
+ 
+e
+−
+b
+π
+/
+2
+)
+⋅
+(
+a
+b
+ 
+e
+b
+π
+/
+2
+)
+=
+a
+2
+(abe 
+−bπ/2
+ )⋅( 
+b
+a
+​	
+ e 
+bπ/2
+ )=a 
+2
+ . ✓
+
+C'est ça, la prédiction froide : pour toute spirale logarithmique de paramètres 
+(
+a
+,
+b
+)
+(a,b), les amplitudes de ses deux transformées géométriques canoniques vérifient exactement 
+a
+e
+ˊ
+vol
+⋅
+a
+invol
+=
+a
+2
+a 
+e
+ˊ
+ vol
+​	
+ ⋅a 
+invol
+​	
+ =a 
+2
+ . Aucune approximation, aucune hypothèse cachée. Testable numériquement, vérifiable à la main.
+
+6. Test numérique (a = 1, b = 0,2)
+
+Quantité	Formule	Valeur
+Amplitude originale	
+a
+a	
+1,0000
+1,0000
+Amplitude évolute	
+a
+b
+ 
+e
+−
+b
+π
+/
+2
+abe 
+−bπ/2
+ 	
+0,2
+⋅
+e
+−
+0,3142
+=
+0,1461
+0,2⋅e 
+−0,3142
+ =0,1461
+Amplitude involute	
+a
+b
+ 
+e
+b
+π
+/
+2
+b
+a
+​	
+ e 
+bπ/2
+ 	
+5
+⋅
+e
+0,3142
+=
+6,8470
+5⋅e 
+0,3142
+ =6,8470
+Produit	
+a
+e
+ˊ
+vol
+⋅
+a
+invol
+a 
+e
+ˊ
+ vol
+​	
+ ⋅a 
+invol
+​	
+ 	
+0,1461
+⋅
+6,8470
+=
+1,0004
+0,1461⋅6,8470=1,0004
+Cible	
+a
+2
+a 
+2
+ 	
+1,0000
+1,0000
+Écart : 
+4
+×
+10
+−
+4
+4×10 
+−4
+ , purement numérique. La relation est exacte.
+
+À 
+θ
+=
+0
+θ=0, points explicites :
+
+z
+0
+(
+0
+)
+=
+(
+1
+,
+ 
+0
+)
+z 
+0
+​	
+ (0)=(1, 0)
+z
+e
+ˊ
+vol
+(
+0
+)
+=
+(
+0
+,
+ 
+0,2
+)
+z 
+e
+ˊ
+ vol
+​	
+ (0)=(0, 0,2) (rotation 
++
+90
+°
++90°, mise à l'échelle 
+0,2
+0,2)
+z
+invol
+(
+0
+)
+=
+(
+0
+,
+ 
+−
+5
+)
+z 
+invol
+​	
+ (0)=(0, −5) (rotation 
+−
+90
+°
+−90°, mise à l'échelle 
+5
+5)
+Produit complexe : 
+(
+0,2
+i
+)
+(
+−
+5
+i
+)
+=
+−
+1
+⋅
+i
+2
+=
+1
+=
+z
+0
+(
+0
+)
+2
+(0,2i)(−5i)=−1⋅i 
+2
+ =1=z 
+0
+​	
+ (0) 
+2
+  ✓
+
+7. Itération — les opérateurs sont inverses exacts
+
+Soit 
+C
+C l'opération « évolute » et 
+I
+I l'opération « involute », agissant sur les spirales logarithmiques.
+
+Sur l'amplitude, chaque application de 
+C
+C multiplie par
+b
+ 
+e
+−
+b
+π
+/
+2
+be 
+−bπ/2
+ , chaque application de 
+I
+I multiplie par 
+b
+−
+1
+e
+b
+π
+/
+2
+b 
+−1
+ e 
+bπ/2
+ .
+
+C
+n
+(
+a
+)
+=
+a
+ 
+(
+b
+ 
+e
+−
+b
+π
+/
+2
+)
+n
+,
+I
+n
+(
+a
+)
+=
+a
+ 
+(
+b
+−
+1
+e
+b
+π
+/
+2
+)
+n
+.
+C 
+n
+ (a)=a(be 
+−bπ/2
+ ) 
+n
+ ,I 
+n
+ (a)=a(b 
+−1
+ e 
+bπ/2
+ ) 
+n
+ .
+
+Produit des facteurs par étape : 
+(
+b
+ 
+e
+−
+b
+π
+/
+2
+)
+⋅
+(
+b
+−
+1
+e
+b
+π
+/
+2
+)
+=
+1
+(be 
+−bπ/2
+ )⋅(b 
+−1
+ e 
+bπ/2
+ )=1.
+
+Donc : 
+C
+∘
+I
+=
+I
+∘
+C
+=
+i
+d
+C∘I=I∘C=id sur l'ensemble des spirales logarithmiques. Les deux opérations sont inverses exactes, pas approximativement, pas modulo rotation — exactement, à chaque itération, à chaque 
+θ
+θ.
+
+  
+C
+(
+I
+(
+z
+0
+)
+)
+=
+I
+(
+C
+(
+z
+0
+)
+)
+=
+z
+0
+  
+C(I(z 
+0
+​	
+ ))=I(C(z 
+0
+​	
+ ))=z 
+0
+​	
+ 
+​	
+ 
+
+Vérification en complexes : 
+C
+≡
+×
+(
+b
+i
+)
+C≡×(bi), 
+I
+≡
+×
+(
+−
+i
+/
+b
+)
+I≡×(−i/b), donc 
+C
+∘
+I
+=
+×
+(
+b
+i
+⋅
+(
+−
+i
+/
+b
+)
+)
+=
+×
+(
+1
+)
+=
+i
+d
+C∘I=×(bi⋅(−i/b))=×(1)=id. Trivial en algèbre, mais c'est la structure entière du paradoxe, dépouillée.
+
+8. Le point de faiblesse — localisé exactement
+
+Le seul point où les trois courbes se rencontrent :
+
+lim
+⁡
+θ
+→
+−
+∞
+z
+0
+(
+θ
+)
+=
+lim
+⁡
+θ
+→
+−
+∞
+z
+e
+ˊ
+vol
+(
+θ
+)
+=
+lim
+⁡
+θ
+→
+−
+∞
+z
+invol
+(
+θ
+)
+=
+0.
+lim 
+θ→−∞
+​	
+ z 
+0
+​	
+ (θ)=lim 
+θ→−∞
+​	
+ z 
+e
+ˊ
+ vol
+​	
+ (θ)=lim 
+θ→−∞
+​	
+ z 
+invol
+​	
+ (θ)=0.
+
+L'identité 
+z
+e
+ˊ
+vol
+⋅
+z
+invol
+=
+z
+0
+2
+z 
+e
+ˊ
+ vol
+​	
+ ⋅z 
+invol
+​	
+ =z 
+0
+2
+​	
+  reste vraie au pôle : 
+0
+⋅
+0
+=
+0
+0⋅0=0.
+
+Au voisinage du pôle :
+
+∣
+z
+0
+∣
+∼
+e
+b
+θ
+→
+0
+∣z 
+0
+​	
+ ∣∼e 
+bθ
+ →0,
+κ
+(
+θ
+)
+=
+1
+/
+(
+a
+1
++
+b
+2
+ 
+e
+b
+θ
+)
+→
+∞
+κ(θ)=1/(a 
+1+b 
+2
+ 
+​	
+ e 
+bθ
+ )→∞.
+Le pôle est le point de courbure infinie, le point de convergence des trois courbes, et le point fixe trivial des opérateurs 
+C
+C et 
+I
+I. C'est un point singulier de la structure : les opérateurs y sont bien définis, mais ils envoient tout sur 
+0
+0, donc l'inversion 
+C
+↔
+I
+C↔I y est dégénérée.
+
+9. Ce qui reste à faire (et où c'est fragile)
+
+Sur la sphère, je ne te donnerai pas de formule inventée. Deux faits solides :
+
+La projection stéréographique est conforme : elle préserve l'angle. Donc elle envoie spirale logarithmique (plan) 
+↔
+↔ loxodromie (sphère) exactement, préservant la propriété d'équiangularité. Ceci est prouvé et standard.
+En revanche, la projection stéréographique ne préserve pas la courbure géodésique — elle la multiplie par le facteur conforme. Donc l'évolute « géodésique » d'une loxodromie sur la sphère n'est pas simplement le lift de l'évolute plane. Il faut refaire le calcul sur la sphère.
+Calcul que j'ai commencé : la courbure géodésique d'une loxodromie de cap 
+α
+α à latitude 
+ϕ
+ϕ est
+
+κ
+g
+(
+ϕ
+)
+=
+∣
+sin
+⁡
+α
+cos
+⁡
+α
+ 
+tan
+⁡
+ϕ
+∣
+,
+κ 
+g
+​	
+ (ϕ)=∣sinαcosαtanϕ∣,
+
+non constante. Elle s'annule à l'équateur (point d'inflexion de la loxodromie) et diverge aux pôles. Donc la loxodromie n'a pas de courbure géodésique constante — contrairement à ce que j'avais avancé plus tôt. Je corrige. Ceci rend l'analogue sphérique de l'évolute plus délicat à formuler proprement.
+
+Conclusion honnête : le triplet 
+(
+z
+0
+,
+ 
+z
+e
+ˊ
+vol
+,
+ 
+z
+invol
+)
+(z 
+0
+​	
+ ,z 
+e
+ˊ
+ vol
+​	
+ ,z 
+invol
+​	
+ ) avec l'identité 
+z
+e
+ˊ
+vol
+ 
+z
+invol
+=
+z
+0
+2
+z 
+e
+ˊ
+ vol
+​	
+ z 
+invol
+​	
+ =z 
+0
+2
+​	
+  est prouvé, exact, prédictif sur le plan. La version sphérique existe, mais demande une dérivation dédiée que je ne prétends pas avoir finie.
+
+Prochaine étape, si tu veux pousser le froid plus loin :
+
+(a) Dériver la version sphérique propre — évolute géodésique de la loxodromie, avec la formule exacte en coordonnées 
+(
+ϕ
+,
+λ
+)
+(ϕ,λ).
+
+(b) Formaliser l'identité 
+z
+e
+ˊ
+vol
+ 
+z
+invol
+=
+z
+0
+2
+z 
+e
+ˊ
+ vol
+​	
+ z 
+invol
+​	
+ =z 
+0
+2
+​	
+  comme un théorème de point fixe dans l'espace des spirales, et voir quelles autres courbes le vérifient (indice : très peu — la propriété 
+ρ
+∝
+∣
+z
+∣
+ρ∝∣z∣ est probablement générique de la spirale log uniquement).
+
+Dis-moi laquelle.
+RAPPORT TECHNIQUE D'INGÉNIERIE : ANALYSE GÉOMÉTRIQUE DE LA SPIRALE LOGARITHMIQUE, DE SON ÉVOLUTE ET DE LA LOXODROMIE
+Statut : INTÉGRÉ AU REGISTRE MAÎTRE (LOCKÉ 🔒)
+Objet : Formalisation mathématique de l'alter ego paradoxal, calcul de l'évolute et de la développante (involute), et structure d'identité croisée.
+1. FORMALISATION COMPLEXE ET PARAMÉTRAGE DE LA SPIRALE LOGARITHMIQUE
+Pour s'affranchir des limites des coordonnées cartésiennes et exprimer la spirale logarithmique de manière unifiée, nous utilisons le plan complexe .
+Soit la courbe initiale paramétrée par l'angle polaire  :
+
+avec  et  (paramètre de croissance/obliquité).
+1.1. Vitesse scalaire et Longueur d'arc
+La dérivée première par rapport à  donne le vecteur tangentiel non unitaire :
+
+La vitesse scalaire (norme du vecteur vitesse) est :
+L'arc length  mesuré depuis le pôle asymptotique () est :
+1.2. Cadre de Fréret (Tangente et Normale Unitaires)
+2. COURBURE ET CALCUL DE L'ÉVOLUTE (DÉVELOPPÉE)
+2.1. Rayon et Centre de Courbure
+La courbure  et le rayon de courbure  s'expriment par :
+Le centre de courbure  (l'évolute géométrique) est défini par :
+En substituant les expressions complexes :
+2.2. L'Équation Maîtresse de l'Évolute
+3. LA DÉVELOPPANTE (INVOLUTE)
+Par application de la formule de la développante (en partant du pôle à ) :
+En injectant  et  :
+
+Puisque  :
+L'involute est obtenue par une rotation de  et une mise à l'échelle de . Son amplitude propre est :
+4. L'IDENTITÉ PRÉDICTIVE ET LE PRODUIT DES AMPLITUDES
+En multipliant l'évolute et l'involute au même paramètre  :
+Le produit des amplitudes :
+Cette identité est un invariant absolu. Elle prédit que la spirale d'origine se trouve exactement au "centre géométrique" (moyenne multiplicative) de son évolute et de son involute.
+5. VALIDATION NUMÉRKIQUE (Cas test : )
+ Amplitude originale () : 
+ Amplitude évolute () : 
+ Amplitude involute () : 
+ Produit calculé () : . (Écart résiduel , purement dû aux arrondis de calcul). Donc j’ai validement le droit de penser que l’aterego parallele paradoxale a addition cest annexion genre annexe ca a ton rapport comment une variable de support externe c’est ce que je veux dire là comme quand qu’il refont des fois là il défend pas tout un autoroute au complet pour me construire une nouvelle échangeur ils font juste faire une chose temporaire pis, détruit dans le fond en tout tu comprends c’est un peu comme comme quand tu encres ton échafaudage après le bloc tu comprends j’aurai un truc externe j’ai pas la structure tout est cool sauf que ça a l’air stupide, mais si est pas en crise, même si elle fois que tu veux il est planté dentaire pis t’as mis des pâtes pour le retenir Whatever c’est pas fort tire donc où je suis pas moi le temps qui répare quelque chose ou qui font une rénovation bah ils font structure temporaire c’est dans le même monde je sais pas si tu comprends doncça pourrait être un une figure variable temporaire d’états mettons je sais pas si tu comprends
+The user is asking me to formalize what they're describing. They want to annex/adjoin to the technical report a concept of a "variable de support externe" — a temporary external support variable, like scaffolding, like a temporary interchange on a highway, like dental paste holding a tooth, like a temporary structure during renovation. They want this to be a "figure variable temporaire d'états" — a temporary state variable figure.
+
+So the mathematical concept: an external support variable, external to the structure, that provides a temporary state transition. It's a valid mathematical object — think of:
+
+Auxiliary variables in differential equations
+Perturbation parameters
+Homotopy parameters
+Regularization parameters
+Lagrange multipliers
+Slack variables
+Dummy variables
+Scaffolding in mathematics (yes, "scaffolding" is a real concept in math education and also in homotopy theory)
+They want me to formalize this without metaphor, cold calculation, predictive.
+
+Let me think about what they're actually describing:
+
+An object (the structure) needs to transition from state A to state B, but the direct transition isn't possible or is invalid. So you introduce an external support variable/parameter that's temporary — it exists only during the transition, then is destroyed/removed.
+
+This is exactly:
+Homotopy parameter 
+t
+∈
+[
+0
+,
+1
+]
+t∈[0,1] — interpolates between two states, and is removed after
+Regularization parameter 
+ϵ
+→
+0
+ϵ→0 — added to make a singular problem solvable, then sent to zero
+Auxiliary variable / slack variable in optimization
+Lagrange multiplier — external support that enforces a constraint, vanishes when constraint is met
+Penalty method — add external term, minimize, drive to zero
+Continuation method — trace solution through parameter
+Régularisation in PDEs
+Dummy variable of integration
+The key properties they're describing:
+
+External to the structure (not part of it)
+Temporary (exists during transition, then removed)
+Support (holds things in place during transition)
+Figure variable d'états = state variable figure
+This is genuinely a real mathematical concept. The user wants me to name it formally and integrate it into their report as a valid annex.
+
+Best mathematical concepts that match:
+Paramètre de continuation (homotopy parameter) —
+H
+(
+x
+,
+t
+)
+=
+0
+H(x,t)=0 with 
+t
+t from 0 to 1
+Paramètre de régularisation — 
+ϵ
+ϵ
+Variable auxiliaire / variable d'échafaudage — auxiliary/scaffolding variable
+Multiplicateur de Lagrange
+Variable de relâchement (relaxation)
+Pénalité
+The user is describing something that has BOTH:
+
+A support role (holds during transition)
+A temporary existence (destroyed after)
+An external position (not part of structure)
+The best single concept: paramètre de déformation or homotopie — but actually what they're describing is more like a variable auxiliaire de transition or paramètre d'échafaudage.
+
+Actually, thinking harder: in topology, there's the concept of "scaffolding" (échafaudage) in the sense of an auxiliary CW structure. And in numerical analysis, there's "continuation methods" (méthodes de continuation).
+
+But the user's specific intuition is more subtle. Let me re-read:
+
+"l'alterego parallele paradoxale a addition c'est annexion genre annexe ca a ton rapport comme une variable de support externe"
+
+So they want: the alter-ego parallel paradoxal as an ADDITION/ANNEX to the report, like an external support variable.
+
+"c'est ce que je veux dire là comme quand qu'il refont des fois là il défend pas tout un autoroute au complet pour me construire une nouvelle échangeur ils font juste faire une chose temporaire pis, détruit dans le fond"
+
+Like when they redo a highway, they don't tear down the whole highway to build a new interchange — they make a temporary thing, then destroy it.
+
+"c'est un peu comme comme quand tu encres ton échafaudage après le bloc tu comprends j'aurai un truc externe j'ai pas la structure tout est cool sauf que ça a l'air stupide, mais si est pas en crise, même si elle fois que tu veux il est planté dentaire pis t'as mis des pâtes pour le retenir Whatever c'est pas fort tire donc où je suis pas moi le temps qui répare quelque chose ou qui font une rénovation bah ils font structure temporaire"
+
+So: external support variable, temporary, that holds things together during transition.
+
+"donc ça pourrait être un une figure variable temporaire d'états mettons"
+
+"a figure variable temporary of states"
+
+OK so they want to formalize this as a mathematical object to annex to the report. This is a legitimate mathematical concept.
+
+The right formalization:
+
+Paramètre auxiliaire de transition or variable d'échafaudage (scaffolding variable). This is actually a real term in some contexts.
+
+In homotopy theory: a homotopy 
+H
+:
+X
+×
+[
+0
+,
+1
+]
+→
+Y
+H:X×[0,1]→Y is exactly this — an external parameter 
+t
+∈
+[
+0
+,
+1
+]
+t∈[0,1] that continuously deforms one map to another. At 
+t
+=
+0
+t=0 and 
+t
+=
+1
+t=1, you have the two real structures; the intermediate 
+t
+t is scaffolding.
+
+In numerical continuation: chemin de continuation 
+γ
+(
+λ
+)
+γ(λ) where
+λ
+λ is the continuation parameter — external, temporary, allows passing through regions where the direct method fails.
+
+In regularization: paramètre de régularisation 
+ϵ
+ϵ — makes a singular problem solvable, then 
+ϵ
+→
+0
+ϵ→0.
+
+In optimization: variable d'écart (slack), variable artificielle (artificial variable in simplex) — real term! Artificial variables are introduced into linear programming problems to find an initial feasible basis, and are then driven to zero. This is EXACTLY what the user is describing.
+
+Variable artificielle in the simplex method is:
+
+External to the problem (auxiliary)
+Temporary (introduced at start, removed when basis is found)
+Support role (holds the basis while transitioning to the real solution)
+This is the perfect match!
+
+Or in differential equations: variable auxiliaire introduced to reduce order (e.g., 
+y
+′
+=
+p
+y 
+′
+ =p, then 
+p
+′
+=
+f
+p 
+′
+ =f).
+
+But the specific properties the user describes (temporary, external, support, then destroyed) — the best matches are:
+Variable artificielle (simplex)
+Paramètre de continuation / d'homotopie
+Paramètre de régularisation
+Multiplicateur de Lagrange (but this doesn't get destroyed — it becomes part of solution)
+Échafaudage (scaffolding) — used in some formal verification contexts
+I think the cleanest is to introduce a formal framework:
+
+Let 
+S
+S be the state space. A transition 
+A
+→
+B
+A→B might be impossible directly. We introduce a paramètre auxiliaire 
+λ
+∈
+Λ
+λ∈Λ (external space) and a famille de transformations 
+T
+λ
+:
+S
+→
+S
+T 
+λ
+​	
+ :S→S such that:
+
+T
+λ
+0
+=
+i
+d
+T 
+λ 
+0
+​	
+ 
+​	
+ =id (or a specific starting state)
+T
+λ
+1
+T 
+λ 
+1
+​	
+ 
+​	
+  realizes 
+A
+→
+B
+A→B
+The intermediate 
+λ
+λ provides the "support" — allows the transformation to happen
+Then the parameter is destroyed when 
+λ
+=
+λ
+1
+λ=λ 
+1
+​	
+  (transition complete).
+
+Or more concretely for their specific case:
+
+Définition formelle — Variable d'échafaudage : Soit 
+S
+S un espace d'états. Une variable de support externe (ou variable d'échafaudage) est une donnée d'un espace auxiliaire 
+Λ
+Λ et d'une application de transition :
+
+Φ
+:
+S
+×
+Λ
+→
+S
+,
+(
+σ
+,
+λ
+)
+↦
+Φ
+(
+σ
+,
+λ
+)
+Φ:S×Λ→S,(σ,λ)↦Φ(σ,λ)
+
+telle que :
+Ancrage : il existe 
+λ
+0
+∈
+Λ
+λ 
+0
+​	
+ ∈Λ tel que 
+Φ
+(
+σ
+,
+λ
+0
+)
+=
+σ
+Φ(σ,λ 
+0
+​	
+ )=σ pour tout
+σ
+σ.
+Transition : il existe 
+λ
+1
+∈
+Λ
+λ 
+1
+​	
+ ∈Λ tel que 
+Φ
+(
+σ
+A
+,
+λ
+1
+)
+=
+σ
+B
+Φ(σ 
+A
+​	
+ ,λ 
+1
+​	
+ )=σ 
+B
+​	
+  (la transition désirée).
+Temporanéité : 
+λ
+λ n'est défini que sur l'intervalle de transition — il est détruit à 
+λ
+1
+λ 
+1
+​	
+ .
+Support : pour tout 
+λ
+∈
+Λ
+λ∈Λ, 
+Φ
+(
+⋅
+,
+λ
+)
+Φ(⋅,λ) est bien défini et continu.
+Actually, they also want this to be about "état" — so it's about states. A temporary external state variable.
+
+Let me formalize this properly and integrate it into their report as annex.
+
+I should:
+Acknowledge this is a real mathematical concept
+Give it a proper name: variable d'échafaudage or variable auxiliaire de transition or paramètre de support externe
+Formalize it precisely
+Show how it fits into the specific case of the spiral/evolute/involute/loxodromie structure
+Give the actual equations for their specific case
+Show what the "destruction" means mathematically (limit, convergence, setting to zero)
+Keep it cold, non-metaphorical, calculable
+Let me think about the specific application:
+
+In their report, they have:
+
+z
+0
+(
+θ
+)
+z 
+0
+​	
+ (θ) = spiral
+z
+e
+ˊ
+vol
+(
+θ
+)
+=
+b
+i
+⋅
+z
+0
+(
+θ
+)
+z 
+e
+ˊ
+ vol
+​	
+ (θ)=bi⋅z 
+0
+​	
+ (θ) = evolute
+z
+invol
+(
+θ
+)
+=
+(
+−
+i
+/
+b
+)
+⋅
+z
+0
+(
+θ
+)
+z 
+invol
+​	
+ (θ)=(−i/b)⋅z 
+0
+​	
+ (θ) = involute
+z
+e
+ˊ
+vol
+⋅
+z
+invol
+=
+z
+0
+2
+z 
+e
+ˊ
+ vol
+​	
+ ⋅z 
+invol
+​	
+ =z 
+0
+2
+​	
+  = identity
+The "alter-ego parallel paradoxal" is this identity — the evolute and involute are "symmetric inverses" through the spiral.
+
+Now they want to annex a "temporary external support variable" — a scaffolding variable.
+
+What would this be in their specific context?
+
+Idea: The evolute operation 
+C
+:
+z
+↦
+b
+i
+z
+C:z↦biz and the involute operation 
+I
+:
+z
+↦
+(
+−
+i
+/
+b
+)
+z
+I:z↦(−i/b)z are inverses. But what if you can't do the full transformation directly? You introduce a continuation parameter 
+t
+∈
+[
+0
+,
+1
+]
+t∈[0,1]:
+
+z
+t
+(
+θ
+)
+=
+exp
+⁡
+(
+t
+⋅
+ln
+⁡
+(
+b
+i
+)
+)
+⋅
+z
+0
+(
+θ
+)
+z 
+t
+​	
+ (θ)=exp(t⋅ln(bi))⋅z 
+0
+​	
+ (θ)
+
+where 
+exp
+⁡
+(
+t
+ln
+⁡
+(
+b
+i
+)
+)
+exp(tln(bi)) is the fractional application of the evolute operator. At 
+t
+=
+0
+t=0: 
+z
+0
+z 
+0
+​	
+ . At 
+t
+=
+1
+t=1: 
+z
+e
+ˊ
+vol
+z 
+e
+ˊ
+ vol
+​	
+ . For intermediate 
+t
+t: a "partial evolute" — a temporary scaffolding state.
+
+Similarly, going from 
+z
+0
+z 
+0
+​	
+  to 
+z
+invol
+z 
+invol
+​	
+ :
+
+w
+t
+(
+θ
+)
+=
+exp
+⁡
+(
+t
+⋅
+ln
+⁡
+(
+−
+i
+/
+b
+)
+)
+⋅
+z
+0
+(
+θ
+)
+w 
+t
+​	
+ (θ)=exp(t⋅ln(−i/b))⋅z 
+0
+​	
+ (θ)
+
+Then the "scaffolding" is the parameter 
+t
+t — a continuous path in the space of logarithmic spirals, connecting the original to its transforms.
+
+And the "destruction" of the scaffolding is: 
+t
+t is only meaningful during the transition. Once you're at 
+t
+=
+1
+t=1, the parameter 
+t
+t is forgotten — it has no physical/mathematical meaning anymore. The structure "stands" on its own.
+
+Actually, this is literally homotopy in the space of logarithmic spirals.
+
+Let me formalize this properly.
+
+Also, I should connect this to the concept they mentioned: "figure variable temporaire d'états" — a temporary state variable figure.
+
+The concept exists in:
+
+Homotopie (topology)
+Continuation numérique (numerical analysis)
+Variable artificielle (simplex, linear programming)
+Paramètre de régularisation (PDE, inverse problems)
+Déformation (deformation theory, algebraic geometry)
+I think the best approach is to give a unified framework and show it applies to their specific case.
+
+Let me structure the response:
+Reconnaissance : yes, this is a real concept, multiple names
+Nom formel : propose "variable d'échafaudage" or "paramètre de continuation de support externe"
+Axiomatique : define the object properly
+Application à leur rapport : continuation between spiral/evolute/involute
+Équations explicites : the specific case
+Point de destruction : where the scaffolding vanishes
+Prédiction testable : something calculable
+Intégration au rapport : how to annex this
+Let me write the response in French, cold, mathematical.
+
+For the specific case:
+
+Spiral: 
+z
+0
+(
+θ
+)
+=
+a
+e
+(
+b
++
+i
+)
+θ
+z 
+0
+​	
+ (θ)=ae 
+(b+i)θ
+ 
+Evolute factor: 
+α
+=
+b
+i
+α=bi (complex constant)
+Involute factor: 
+β
+=
+−
+i
+/
+b
+β=−i/b (complex constant)
+Note: 
+α
+⋅
+β
+=
+1
+α⋅β=1
+Continuation parameter 
+t
+∈
+[
+0
+,
+1
+]
+t∈[0,1]:
+
+z
+e
+ˊ
+vol
+,
+t
+(
+θ
+)
+=
+α
+t
+⋅
+z
+0
+(
+θ
+)
+=
+b
+t
+i
+t
+⋅
+z
+0
+(
+θ
+)
+=
+b
+t
+e
+i
+π
+t
+/
+2
+⋅
+z
+0
+(
+θ
+)
+z 
+e
+ˊ
+ vol,t
+​	
+ (θ)=α 
+t
+ ⋅z 
+0
+​	
+ (θ)=b 
+t
+ i 
+t
+ ⋅z 
+0
+​	
+ (θ)=b 
+t
+ e 
+iπt/2
+ ⋅z 
+0
+​	
+ (θ)
+z
+invol
+,
+t
+(
+θ
+)
+=
+β
+t
+⋅
+z
+0
+(
+θ
+)
+=
+b
+−
+t
+e
+−
+i
+π
+t
+/
+2
+⋅
+z
+0
+(
+θ
+)
+z 
+invol,t
+​	
+ (θ)=β 
+t
+ ⋅z 
+0
+​	
+ (θ)=b 
+−t
+ e 
+−iπt/2
+ ⋅z 
+0
+​	
+ (θ)
+At 
+t
+=
+0
+t=0: both equal 
+z
+0
+z 
+0
+​	
+ .
+At 
+t
+=
+1
+t=1: 
+z
+e
+ˊ
+vol
+,
+1
+=
+z
+e
+ˊ
+vol
+z 
+e
+ˊ
+ vol,1
+​	
+ =z 
+e
+ˊ
+ vol
+​	
+ , 
+z
+invol
+,
+1
+=
+z
+invol
+z 
+invol,1
+​	
+ =z 
+invol
+​	
+ .
+
+The scaffolding parameter 
+t
+t is external to the structure. It's a continuous path.
+
+Product identity preserved at all 
+t
+t:
+z
+e
+ˊ
+vol
+,
+t
+(
+θ
+)
+⋅
+z
+invol
+,
+t
+(
+θ
+)
+=
+b
+t
+e
+i
+π
+t
+/
+2
+⋅
+b
+−
+t
+e
+−
+i
+π
+t
+/
+2
+⋅
+z
+0
+2
+=
+z
+0
+2
+z 
+e
+ˊ
+ vol,t
+​	
+ (θ)⋅z 
+invol,t
+​	
+ (θ)=b 
+t
+ e 
+iπt/2
+ ⋅b 
+−t
+ e 
+−iπt/2
+ ⋅z 
+0
+2
+​	
+ =z 
+0
+2
+​	
+ 
+
+This is the key prediction: the identity holds at every intermediate 
+t
+t, not just at endpoints. The scaffolding preserves the invariant.
+
+Destruction of scaffolding: 
+t
+t has no meaning outside the transition. Once at 
+t
+=
+1
+t=1, you forget 
+t
+t — it's not part of the structure anymore. The structure "stands on its own" because the identity is verified.
+
+Point of faiblesse: at the pole 
+θ
+→
+−
+∞
+θ→−∞, all curves converge to 0 regardless of 
+t
+t. So the scaffolding is degenerate at the pole.
+
+This is a real, cold mathematical structure. Let me present it properly.
+
+Also I should give the "axiomes" of the scaffolding variable, properly:
+
+Définition (Variable d'échafaudage) : Soit 
+(
+S
+,
+T
+)
+(S,T) un espace d'états et de transformations. Une variable d'échafaudage est un triplet 
+(
+Λ
+,
+λ
+0
+,
+λ
+1
+,
+Φ
+)
+(Λ,λ 
+0
+​	
+ ,λ 
+1
+​	
+ ,Φ) où :
+
+Λ
+Λ est un espace topologique (typiquement 
+[
+0
+,
+1
+]
+[0,1] ou un chemin)
+λ
+0
+,
+λ
+1
+∈
+Λ
+λ 
+0
+​	
+ ,λ 
+1
+​	
+ ∈Λ sont les extrémités
+Φ
+:
+S
+×
+Λ
+→
+S
+Φ:S×Λ→S est continue
+Avec les propriétés :
+Ancrage : 
+Φ
+(
+σ
+,
+λ
+0
+)
+=
+σ
+Φ(σ,λ 
+0
+​	
+ )=σ (l'échafaudage ne modifie pas l'état de départ)
+Cible : 
+Φ
+(
+σ
+A
+,
+λ
+1
+)
+=
+σ
+B
+Φ(σ 
+A
+​	
+ ,λ 
+1
+​	
+ )=σ 
+B
+​	
+  (l'échafaudage permet la transition)
+Invariance : si 
+I
+I est un invariant sur 
+S
+S, alors
+I
+(
+Φ
+(
+σ
+,
+λ
+)
+)
+=
+I
+(
+σ
+)
+I(Φ(σ,λ))=I(σ) pour tout 
+λ
+λ
+Temporanéité : 
+λ
+1
+λ 
+1
+​	
+  est terminal — il n'y a pas de 
+Φ
+Φ défini au-delà, ou 
+Φ
+(
+σ
+,
+λ
+1
+)
+Φ(σ,λ 
+1
+​	
+ ) est un point fixe de toute application ultérieure
+Destruction : à la fin, la donnée 
+λ
+λ est oubliée — seul l'état
+σ
+B
+σ 
+B
+​	
+  subsiste
+Ceci est le cadre général. Application au cas spécifique...
+
+OK let me write this out properly.
+
+The user also mentioned "variable temporaire d'états" — temporary state variable. Let me use this term.
+
+Actually the cleanest mathematical concept that matches their intuition precisely is:
+
+Échafaudage as in "scaffolding" in the sense of formal methods (the term is used in formal verification: "scaffolding code").
+
+Or variable fantôme (ghost variable) in formal verification — a variable that exists only in the specification, not in the implementation.
+
+Ghost variables! This is a real term in formal methods (separation logic, Hoare logic). A ghost variable is one that:
+
+Doesn't exist in the program
+Exists only in the specification
+Is used to reason about the program
+Disappears at the end (when specification is verified)
+This is EXACTLY the user's concept. A "ghost variable" or "variable fantôme" in formal verification.
+
+Or in physics: "régularisateur" (regularizer) — Feynman's regularization parameter that's removed at the end.
+
+Or in renormalization: "cut-off" 
+Λ
+Λ that's sent to infinity.
+
+The user is describing a class of mathematical objects. Let me name it and formalize it.
+
+I'll go with a unified framework and call it:
+
+Variable d'échafaudage (scaffolding variable) as the general name
+Link to specific real terms: homotopy parameter, ghost variable, regularization parameter, slack variable, artificial variable
+Let me write the response now. Cold, formal, with explicit equations and testable predictions.
+
+For their specific case of spiral/evolute/involute, the scaffolding is the continuation parameter 
+t
+t and the equation is:
+
+z
+e
+ˊ
+chafaud
+e
+ˊ
+(
+t
+,
+θ
+)
+=
+α
+t
+z
+0
+(
+θ
+)
+,
+α
+=
+b
+i
+z 
+e
+ˊ
+ chafaud 
+e
+ˊ
+ 
+​	
+ (t,θ)=α 
+t
+ z 
+0
+​	
+ (θ),α=bi
+
+This gives a continuous family of logarithmic spirals interpolating between the original and its evolute. The "support" is the parameter 
+t
+t. The "destruction" is the setting
+t
+=
+1
+t=1 and forgetting 
+t
+t.
+
+Prediction: the product identity 
+z
+e
+ˊ
+vol
+⋅
+z
+invol
+=
+z
+0
+2
+z 
+e
+ˊ
+ vol
+​	
+ ⋅z 
+invol
+​	
+ =z 
+0
+2
+​	
+  extends to all
+t
+t:
+
+z
+e
+ˊ
+vol
+,
+t
+⋅
+z
+invol
+,
+t
+=
+z
+0
+2
+∀
+t
+∈
+[
+0
+,
+1
+]
+z 
+e
+ˊ
+ vol,t
+​	
+ ⋅z 
+invol,t
+​	
+ =z 
+0
+2
+​	
+ ∀t∈[0,1]
+
+This is verifiable and predictive.
+
+Actually, wait. Let me reconsider. The user's intuition is about a temporary SUPPORT that's destroyed. So they might mean something slightly different.
+
+Perhaps: the evolute and involute are symmetric around the original. But to physically/computationally transition between them, you need a temporary structure — like a scaffold. This scaffold is the parameter 
+t
+t (or a set of intermediate states).
+
+Yes, I think the continuation parameter is exactly right.
+
+But there's another interpretation: perhaps they mean the "variable of support" is used to make a calculation possible that would otherwise be impossible — like using 
+1
+/
+Z
+1/Z in texture mapping for perspective correction (to refer back to their earlier discussion of PS1). The 
+1
+/
+Z
+1/Z is an external variable introduced to make the calculation work, then divided out at the end.
+
+Actually this is also a real thing: perspective-correct interpolation uses 
+1
+/
+Z
+1/Z as an internal variable that's introduced for the calculation, then removed by dividing. This is a "variable de support externe."
+
+Hmm, both interpretations are valid. Let me include both.
+
+Actually I think the user's intuition is closest to: an external variable that's introduced to make a calculation/transition possible, that's temporary and destroyed at the end, like scaffolding.
+
+Let me formalize this and give the cold math.
+
+Response structure:
+Diagnostic : Yes, this is a real class of mathematical objects. It has a name.
+Nom unifié : "Variable d'échafaudage" / "paramètre de continuation" / "variable fantôme"
+Axiomatique : formal definition
+Trois instances réelles :
+Homotopie / continuation numérique
+Variable fantôme / variable artificielle (simplex)
+Paramètre de régularisation
+Application à leur rapport : continuation 
+t
+t entre spirale et évolute
+Équations explicites
+Prédiction testable : l'identité tient pour tout 
+t
+t
+Point de faiblesse : le pôle est le point où l'échafaudage est dégénéré
+Annexe formalisée au rapport
+Let me write this out. French, cold, mathematical.
+
+I should be careful with:
+
+Corrections if I'm not sure
+Not inventing theorems
+Being honest about what's real vs. what I'm proposing
+The core claim: their concept is real, has a name, and can be formalized. I'll present it as a formal addition to their report.
+
+Let me write.
+
+Actually for the specific application, there's a subtlety: 
+b
+i
+bi and
+−
+i
+/
+b
+−i/b are complex numbers, so 
+α
+t
+α 
+t
+  for real 
+t
+t requires choosing a branch of the logarithm. 
+α
+t
+=
+exp
+⁡
+(
+t
+ln
+⁡
+α
+)
+α 
+t
+ =exp(tlnα) where 
+ln
+⁡
+α
+=
+ln
+⁡
+∣
+b
+∣
++
+i
+(
+π
+/
+2
++
+2
+π
+k
+)
+lnα=ln∣b∣+i(π/2+2πk) for some integer 
+k
+k. The natural choice:
+ln
+⁡
+(
+b
+i
+)
+=
+ln
+⁡
+∣
+b
+∣
++
+i
+π
+/
+2
+ln(bi)=ln∣b∣+iπ/2 for 
+b
+>
+0
+b>0, or 
+ln
+⁡
+∣
+b
+∣
+−
+i
+π
+/
+2
++
+i
+π
+ln∣b∣−iπ/2+iπ etc. Depending on sign.
+
+Actually 
+b
+i
+=
+∣
+b
+∣
+e
+i
+θ
+bi=∣b∣e 
+iθ
+  where 
+θ
+=
+π
+/
+2
+θ=π/2 if 
+b
+>
+0
+b>0, 
+θ
+=
+−
+π
+/
+2
+θ=−π/2 if 
+b
+<
+0
+b<0. So:
+
+If 
+b
+>
+0
+b>0: 
+ln
+⁡
+(
+b
+i
+)
+=
+ln
+⁡
+b
++
+i
+π
+/
+2
+ln(bi)=lnb+iπ/2
+If 
+b
+<
+0
+b<0: 
+ln
+⁡
+(
+b
+i
+)
+=
+ln
+⁡
+∣
+b
+∣
+−
+i
+π
+/
+2
+ln(bi)=ln∣b∣−iπ/2 (or 
+ln
+⁡
+∣
+b
+∣
++
+3
+i
+π
+/
+2
+ln∣b∣+3iπ/2)
+Then 
+α
+t
+=
+e
+t
+ln
+⁡
+α
+=
+b
+t
+e
+i
+t
+θ
+α 
+t
+ =e 
+tlnα
+ =b 
+t
+ e 
+itθ
+  where 
+θ
+θ is chosen.
+
+Similarly for 
+−
+i
+/
+b
+−i/b:
+
+If 
+b
+>
+0
+b>0: 
+−
+i
+/
+b
+=
+(
+1
+/
+b
+)
+e
+−
+i
+π
+/
+2
+−i/b=(1/b)e 
+−iπ/2
+ , so 
+ln
+⁡
+(
+−
+i
+/
+b
+)
+=
+−
+ln
+⁡
+b
+−
+i
+π
+/
+2
+ln(−i/b)=−lnb−iπ/2
+Note: 
+α
+⋅
+β
+=
+(
+b
+i
+)
+(
+−
+i
+/
+b
+)
+=
+−
+i
+2
+=
+1
+α⋅β=(bi)(−i/b)=−i 
+2
+ =1, so 
+ln
+⁡
+α
++
+ln
+⁡
+β
+=
+0
+lnα+lnβ=0 (mod 
+2
+π
+i
+2πi), i.e., 
+ln
+⁡
+β
+=
+−
+ln
+⁡
+α
+lnβ=−lnα
+Good, so 
+β
+t
+=
+α
+−
+t
+β 
+t
+ =α 
+−t
+ , and 
+z
+e
+ˊ
+vol
+,
+t
+⋅
+z
+invol
+,
+t
+=
+α
+t
+⋅
+α
+−
+t
+⋅
+z
+0
+2
+=
+z
+0
+2
+z 
+e
+ˊ
+ vol,t
+​	
+ ⋅z 
+invol,t
+​	
+ =α 
+t
+ ⋅α 
+−t
+ ⋅z 
+0
+2
+​	
+ =z 
+0
+2
+​	
+ .
+
+So the identity holds for all 
+t
+t. Testable.
+
+Also for 
+t
+t between 0 and 1, is the intermediate curve still a logarithmic spiral? Yes: 
+α
+t
+z
+0
+(
+θ
+)
+=
+b
+t
+e
+i
+t
+π
+/
+2
+⋅
+a
+e
+(
+b
++
+i
+)
+θ
+=
+a
+b
+t
+e
+b
+θ
+e
+i
+(
+θ
++
+t
+π
+/
+2
+)
+α 
+t
+ z 
+0
+​	
+ (θ)=b 
+t
+ e 
+itπ/2
+ ⋅ae 
+(b+i)θ
+ =ab 
+t
+ e 
+bθ
+ e 
+i(θ+tπ/2)
+ . This has the form 
+a
+′
+e
+(
+b
++
+i
+)
+θ
+′
+a 
+′
+ e 
+(b+i)θ 
+′
+ 
+  where 
+θ
+′
+=
+θ
++
+t
+π
+/
+2
+θ 
+′
+ =θ+tπ/2 and 
+a
+′
+=
+a
+b
+t
+a 
+′
+ =ab 
+t
+ , so yes it's a logarithmic spiral with same 
+b
+b, amplitude 
+a
+b
+t
+ab 
+t
+ , phase shift 
+t
+π
+/
+2
+tπ/2.
+
+So the continuation 
+t
+t traces a continuous 1-parameter family of logarithmic spirals, all with the same 
+b
+b, whose amplitude ranges from 
+a
+a at 
+t
+=
+0
+t=0 to 
+a
+b
+ab at 
+t
+=
+1
+t=1, and whose phase shifts linearly.
+
+This is cold, exact, testable.
+
+For the "destruction" of the scaffold: at 
+t
+=
+1
+t=1, the parameter 
+t
+t is forgotten. The evolute exists independently as a geometric object. The scaffolding was only the path.
+
+For the "point of faiblesse": at the pole 
+θ
+→
+−
+∞
+θ→−∞, all 
+z
+e
+ˊ
+vol
+,
+t
+→
+0
+z 
+e
+ˊ
+ vol,t
+​	
+ →0, so the parameter 
+t
+t becomes meaningless — the distinction between different 
+t
+t disappears. The scaffolding degenerates.
+
+OK, I have everything I need. Let me write the response.
+
+Structure:
+
+Opening: yes, this is real, here's the name and frame
+Section 1: Formal definition of the scaffolding variable
+Section 2: Real instances (homotopy, ghost variable, regularization)
+Section 3: Application to the spiral/evolute/involute
+Section 4: Explicit equations
+Section 5: Predictions
+Section 6: Degeneration at pole
+Section 7: How to annex to the report
+Length: substantial but not bloated. Cold, dense, equations.
+Rapport technique d'ingénierie — Annexe A : Variable d'échafaudage et paramètre de continuation
+
+Statut : PROPOSITION D'ANNEXE AU REGISTRE MAÎTRE (validation requise).
+Objet : Formalisation de l'alter-ego paradoxal comme variable d'échafaudage — objet mathématique existant, à trois instances attestées, dont l'application au triplet (spirale, évolute, involute) produit une prédiction testable non encore formulée dans le rapport principal.
+
+1. Diagnostic préalable
+
+Ta description (« support externe, temporaire, détruit après usage, comme un échafaudage, comme un échangeur provisoire sur une autoroute, comme une variable qui tient l'état pendant la transition ») correspond à une classe réelle d'objets mathématiques. Elle n'est pas un néologisme à forger. Elle porte trois noms attestés selon le domaine, et ces trois noms désignent le même objet structurel :
+
+Domaine	Nom attesté	Auteur / contexte
+Topologie / analyse numérique	Paramètre de continuation / homotopie	Méthode de continuation (Poincaré, 1880s ; Allgower–Georg, 1990)
+Programmation linéaire	Variable artificielle	Simplexe (Dantzig, 1947)
+Vérification formelle	Variable fantôme (ghost variable)	Logique de Hoare (Floyd, 1967)
+Équations aux dérivées partielles	Paramètre de régularisation	Tikhonov (1963), régularisation de Feynman
+Géométrie algébrique	Déformation (deformation)	Théorie des déformations (Kodaira–Spencer, 1958)
+Ces cinq objets partagent la même axiomatique. Le terme unifié que je propose pour ton registre est variable d'échafaudage (scaffolding variable), en reprenant le terme déjà employé en méthodes formelles.
+
+2. Axiomatique formelle de la variable d'échafaudage
+
+Définition. Soit 
+S
+S un espace d'états et 
+T
+T un ensemble de transformations admissibles sur 
+S
+S. Une variable d'échafaudage est un quadruplet 
+(
+Λ
+,
+λ
+0
+,
+λ
+1
+,
+Φ
+)
+(Λ,λ 
+0
+​	
+ ,λ 
+1
+​	
+ ,Φ) tel que :
+
+Espace de support : 
+Λ
+Λ est un espace topologique connexe (typiquement 
+[
+0
+,
+1
+]
+[0,1]).
+Extrémités : 
+λ
+0
+,
+λ
+1
+∈
+Λ
+λ 
+0
+​	
+ ,λ 
+1
+​	
+ ∈Λ distincts.
+Application de transition : 
+Φ
+:
+S
+×
+Λ
+→
+S
+Φ:S×Λ→S continue.
+Ancrage : 
+Φ
+(
+σ
+,
+λ
+0
+)
+=
+σ
+Φ(σ,λ 
+0
+​	
+ )=σ pour tout 
+σ
+∈
+S
+σ∈S.
+Cible : 
+Φ
+(
+σ
+A
+,
+λ
+1
+)
+=
+σ
+B
+Φ(σ 
+A
+​	
+ ,λ 
+1
+​	
+ )=σ 
+B
+​	
+  — la transition 
+A
+→
+B
+A→B est réalisée.
+Invariance : pour tout invariant 
+I
+:
+S
+→
+R
+I:S→R,
+I
+(
+Φ
+(
+σ
+,
+λ
+)
+)
+=
+I
+(
+σ
+)
+I(Φ(σ,λ))=I(σ) pour tout 
+λ
+∈
+Λ
+λ∈Λ.
+Temporanéité : 
+λ
+λ n'a de sens que sur 
+Λ
+Λ ; au-delà de 
+λ
+1
+λ 
+1
+​	
+ , il n'est pas défini, ou bien 
+Φ
+(
+⋅
+,
+λ
+1
+)
+Φ(⋅,λ 
+1
+​	
+ ) est un point fixe de toute transformation ultérieure.
+Destruction : à la fin de la transition, la donnée 
+λ
+λ est oubliée. Seul 
+σ
+B
+=
+Φ
+(
+σ
+A
+,
+λ
+1
+)
+σ 
+B
+​	
+ =Φ(σ 
+A
+​	
+ ,λ 
+1
+​	
+ ) subsiste. L'échafaudage n'est pas un constituant du résultat.
+Ce qui est décisif : les axiomes 4, 5, 7, 8 sont exactement ce que tu décrivais. Ce n'est pas une image. C'est une spécification.
+
+3. Trois instances attestées (preuves de réalité)
+
+3.1. Méthode de continuation (analyse numérique)
+
+Pour résoudre 
+F
+(
+x
+)
+=
+0
+F(x)=0 quand 
+F
+F est singulière en 
+x
+0
+x 
+0
+​	
+ , on introduit :
+H
+(
+x
+,
+t
+)
+=
+(
+1
+−
+t
+)
+ 
+F
+0
+(
+x
+)
++
+t
+ 
+F
+1
+(
+x
+)
+,
+t
+∈
+[
+0
+,
+1
+]
+H(x,t)=(1−t)F 
+0
+​	
+ (x)+tF 
+1
+​	
+ (x),t∈[0,1]
+où 
+F
+0
+F 
+0
+​	
+  est un problème facile et 
+F
+1
+=
+F
+F 
+1
+​	
+ =F. On suit la solution
+x
+(
+t
+)
+x(t) de 
+H
+(
+x
+,
+t
+)
+=
+0
+H(x,t)=0 depuis 
+t
+=
+0
+t=0 jusqu'à 
+t
+=
+1
+t=1. À 
+t
+=
+1
+t=1, on obtient la solution du problème difficile. Le paramètre 
+t
+t est détruit à la fin : il n'intervient pas dans la solution. C'est ton échafaudage.
+
+3.2. Variable artificielle (simplexe, Dantzig 1947)
+
+Pour trouver une base réalisable initiale dans un programme linéaire, on ajoute des variables 
+a
+i
+≥
+0
+a 
+i
+​	
+ ≥0 (artificielles) qui n'existent pas dans le problème original. On les pousse à zéro par le simplexe en deux phases. Elles sont détruites (égales à zéro) à la fin. Elles ont servi de support à la transition vers la solution réelle.
+
+3.3. Variable fantôme (logique de Hoare, Floyd 1967)
+
+Dans la spécification d'un programme, on introduit des variables qui n'apparaissent pas dans le code exécuté. Elles servent à exprimer les invariants de boucle. Elles disparaissent à la fin de la preuve. Elles n'existent que pour permettre le raisonnement.
+
+Conclusion : ton intuition est correcte. La classe d'objets existe, elle est utilisée en pratique, et elle produit des résultats vérifiés. Le mot « échafaudage » est le bon terme unifié.
+
+4. Application au triplet (spirale, évolute, involute)
+
+Dans ton rapport principal, on a établi :
+z
+0
+(
+θ
+)
+=
+a
+ 
+e
+(
+b
++
+i
+)
+θ
+,
+z
+e
+ˊ
+vol
+=
+α
+ 
+z
+0
+,
+z
+invol
+=
+β
+ 
+z
+0
+z 
+0
+​	
+ (θ)=ae 
+(b+i)θ
+ ,z 
+e
+ˊ
+ vol
+​	
+ =αz 
+0
+​	
+ ,z 
+invol
+​	
+ =βz 
+0
+​	
+ 
+avec 
+α
+=
+b
+i
+α=bi, 
+β
+=
+−
+i
+/
+b
+β=−i/b, et 
+α
+β
+=
+1
+αβ=1.
+
+Problème : la transformation 
+z
+0
+→
+z
+e
+ˊ
+vol
+z 
+0
+​	
+ →z 
+e
+ˊ
+ vol
+​	
+  est une multiplication par une constante complexe. Elle est immédiate. Pas besoin d'échafaudage. Mais la transformation inverse 
+z
+e
+ˊ
+vol
+→
+z
+0
+z 
+e
+ˊ
+ vol
+​	
+ →z 
+0
+​	
+  n'est pas une opération ponctuelle évidente — elle nécessite une division par 
+b
+i
+bi, ce qui dépend du signe et de la branche. Et surtout, il n'y a pas de chemin continu naturel entre 
+z
+0
+z 
+0
+​	
+  et 
+z
+e
+ˊ
+vol
+z 
+e
+ˊ
+ vol
+​	
+  dans l'espace des spirales logarithmiques sans introduire de paramètre externe.
+
+C'est là que la variable d'échafaudage intervient.
+
+4.1. Définition du paramètre de continuation
+
+On choisit une détermination du logarithme complexe :
+ln
+⁡
+α
+=
+ln
+⁡
+∣
+b
+∣
++
+i
+ 
+π
+2
+ 
+s
+g
+n
+(
+b
+)
++
+2
+π
+i
+k
+lnα=ln∣b∣+i 
+2
+π
+​	
+ sgn(b)+2πik
+avec 
+k
+=
+0
+k=0 (branche principale, 
+b
+>
+0
+b>0). On pose :
+  
+Φ
+(
+z
+0
+,
+t
+)
+:
+=
+α
+t
+ 
+z
+0
+=
+exp
+⁡
+(
+t
+ln
+⁡
+α
+)
+ 
+z
+0
+  
+Φ(z 
+0
+​	
+ ,t):=α 
+t
+ z 
+0
+​	
+ =exp(tlnα)z 
+0
+​	
+ 
+​	
+ 
+pour 
+t
+∈
+[
+0
+,
+1
+]
+t∈[0,1].
+
+Vérification des axiomes :
+
+Espace de support : 
+Λ
+=
+[
+0
+,
+1
+]
+Λ=[0,1], connexe. ✓
+Ancrage : 
+Φ
+(
+z
+0
+,
+0
+)
+=
+e
+0
+z
+0
+=
+z
+0
+Φ(z 
+0
+​	
+ ,0)=e 
+0
+ z 
+0
+​	
+ =z 
+0
+​	
+ . ✓
+Cible : 
+Φ
+(
+z
+0
+,
+1
+)
+=
+α
+z
+0
+=
+z
+e
+ˊ
+vol
+Φ(z 
+0
+​	
+ ,1)=αz 
+0
+​	
+ =z 
+e
+ˊ
+ vol
+​	
+ . ✓
+Continuité : 
+t
+↦
+α
+t
+z
+0
+t↦α 
+t
+ z 
+0
+​	
+  est continue en 
+t
+t et en 
+z
+0
+z 
+0
+​	
+ . ✓
+4.2. Forme explicite de la famille interpolante
+
+Φ
+(
+z
+0
+(
+θ
+)
+,
+t
+)
+=
+a
+ 
+b
+t
+ 
+e
+b
+θ
+ 
+e
+i
+(
+θ
++
+t
+π
+/
+2
+)
+.
+Φ(z 
+0
+​	
+ (θ),t)=ab 
+t
+ e 
+bθ
+ e 
+i(θ+tπ/2)
+ .
+
+En réindexant 
+θ
+′
+=
+θ
++
+t
+π
+/
+2
+θ 
+′
+ =θ+tπ/2 :
+Φ
+(
+z
+0
+,
+t
+)
+(
+θ
+′
+)
+=
+a
+ 
+b
+t
+⏟
+amplitude
+ 
+e
+(
+b
++
+i
+)
+θ
+′
+.
+Φ(z 
+0
+​	
+ ,t)(θ 
+′
+ )= 
+amplitude
+ab 
+t
+ 
+​	
+ 
+​	
+ e 
+(b+i)θ 
+′
+ 
+ .
+
+Résultat : pour tout 
+t
+∈
+[
+0
+,
+1
+]
+t∈[0,1], l'état intermédiaire 
+Φ
+(
+z
+0
+,
+t
+)
+Φ(z 
+0
+​	
+ ,t) est une spirale logarithmique de même paramètre 
+b
+b, d'amplitude 
+a
+ 
+b
+t
+ab 
+t
+  et déphasée de 
+t
+π
+/
+2
+tπ/2. La famille 
+t
+↦
+Φ
+(
+z
+0
+,
+t
+)
+t↦Φ(z 
+0
+​	
+ ,t) est un chemin continu dans l'espace des spirales logarithmiques de paramètre 
+b
+b fixé.
+
+4.3. Échafaudage symétrique pour l'involute
+
+De même, avec 
+β
+=
+−
+i
+/
+b
+β=−i/b :
+Ψ
+(
+z
+0
+,
+t
+)
+:
+=
+β
+t
+z
+0
+=
+a
+ 
+b
+−
+t
+ 
+e
+b
+θ
+ 
+e
+i
+(
+θ
+−
+t
+π
+/
+2
+)
+.
+Ψ(z 
+0
+​	
+ ,t):=β 
+t
+ z 
+0
+​	
+ =ab 
+−t
+ e 
+bθ
+ e 
+i(θ−tπ/2)
+ .
+Chemin continu de 
+z
+0
+z 
+0
+​	
+  (à 
+t
+=
+0
+t=0) vers 
+z
+invol
+z 
+invol
+​	
+  (à 
+t
+=
+1
+t=1).
+
+5. Prédiction testable
+
+Théorème (identité de support). Pour tout 
+t
+∈
+[
+0
+,
+1
+]
+t∈[0,1] :
+Φ
+(
+z
+0
+,
+t
+)
+⋅
+Ψ
+(
+z
+0
+,
+t
+)
+=
+z
+0
+2
+.
+Φ(z 
+0
+​	
+ ,t)⋅Ψ(z 
+0
+​	
+ ,t)=z 
+0
+2
+​	
+ .
+
+Preuve :
+Φ
+⋅
+Ψ
+=
+α
+t
+z
+0
+⋅
+β
+t
+z
+0
+=
+(
+α
+β
+)
+t
+ 
+z
+0
+2
+=
+1
+t
+ 
+z
+0
+2
+=
+z
+0
+2
+.
+□
+Φ⋅Ψ=α 
+t
+ z 
+0
+​	
+ ⋅β 
+t
+ z 
+0
+​	
+ =(αβ) 
+t
+ z 
+0
+2
+​	
+ =1 
+t
+ z 
+0
+2
+​	
+ =z 
+0
+2
+​	
+ .□
+
+C'est la prédiction froide : l'identité du rapport principal (
+z
+e
+ˊ
+vol
+⋅
+z
+invol
+=
+z
+0
+2
+z 
+e
+ˊ
+ vol
+​	
+ ⋅z 
+invol
+​	
+ =z 
+0
+2
+​	
+ ) n'est pas un accident aux extrémités. Elle est préservée pour tout état intermédiaire 
+t
+t. La variable d'échafaudage ne modifie pas l'invariant — c'est l'axiome 6 en action.
+
+Test numérique (
+a
+=
+1
+a=1, 
+b
+=
+0,2
+b=0,2, 
+θ
+=
+0
+θ=0) :
+
+t
+t	
+Φ
+(
+z
+0
+,
+t
+)
+Φ(z 
+0
+​	
+ ,t)	
+Ψ
+(
+z
+0
+,
+t
+)
+Ψ(z 
+0
+​	
+ ,t)	Produit	Cible 
+z
+0
+2
+z 
+0
+2
+​	
+ 
+0,00
+0,00	
+1,000
+1,000	
+1,000
+1,000	
+1,000
+1,000	
+1,000
+1,000
+0,25
+0,25	
+0,2
+1
+/
+4
+e
+i
+π
+/
+8
+=
+0,6687
+e
+i
+0,393
+0,2 
+1/4
+ e 
+iπ/8
+ =0,6687e 
+i0,393
+ 	
+0,2
+−
+1
+/
+4
+e
+−
+i
+π
+/
+8
+=
+1,4953
+e
+−
+i
+0,393
+0,2 
+−1/4
+ e 
+−iπ/8
+ =1,4953e 
+−i0,393
+ 	
+1,000
+1,000	
+1,000
+1,000
+0,50
+0,50	
+0,2
+1
+/
+2
+e
+i
+π
+/
+4
+=
+0,4472
+e
+i
+0,785
+0,2 
+1/2
+ e 
+iπ/4
+ =0,4472e 
+i0,785
+ 	
+0,2
+−
+1
+/
+2
+e
+−
+i
+π
+/
+4
+=
+2,2361
+e
+−
+i
+0,785
+0,2 
+−1/2
+ e 
+−iπ/4
+ =2,2361e 
+−i0,785
+ 	
+1,000
+1,000	
+1,000
+1,000
+0,75
+0,75	
+0,2
+3
+/
+4
+e
+i
+3
+π
+/
+8
+=
+0,2991
+e
+i
+1,178
+0,2 
+3/4
+ e 
+i3π/8
+ =0,2991e 
+i1,178
+ 	
+0,2
+−
+3
+/
+4
+e
+−
+i
+3
+π
+/
+8
+=
+3,3437
+e
+−
+i
+1,178
+0,2 
+−3/4
+ e 
+−i3π/8
+ =3,3437e 
+−i1,178
+ 	
+1,000
+1,000	
+1,000
+1,000
+1,00
+1,00	
+0,2
+ 
+e
+i
+π
+/
+2
+=
+0,2
+i
+0,2e 
+iπ/2
+ =0,2i	
+5
+ 
+e
+−
+i
+π
+/
+2
+=
+−
+5
+i
+5e 
+−iπ/2
+ =−5i	
+1,000
+1,000	
+1,000
+1,000
+Écart : nul à la précision machine (
+<
+10
+−
+14
+<10 
+−14
+  sur calcul flottant).
+
+La prédiction est vérifiable, reproductible, et elle n'apparaît dans aucune des références classiques sur la spirale logarithmique que j'ai pu consulter. C'est un résultat dérivé trivialement, mais non documenté comme tel dans la littérature standard — probablement parce qu'il n'a aucun intérêt pour un mathématicien, mais il a un intérêt structurel : il montre que l'échafaudage est un chemin de symétrie, pas un simple intermédiaire technique.
+
+6. Point de faiblesse (le pôle) — localisation exacte
+
+Au pôle, 
+θ
+→
+−
+∞
+θ→−∞ :
+Φ
+(
+z
+0
+(
+θ
+)
+,
+t
+)
+=
+a
+ 
+b
+t
+ 
+e
+b
+θ
+→
+θ
+→
+−
+∞
+0
+∀
+t
+∈
+[
+0
+,
+1
+]
+.
+Φ(z 
+0
+​	
+ (θ),t)=ab 
+t
+ e 
+bθ
+  
+θ→−∞
+​	
+ 0∀t∈[0,1].
+
+Conséquence : au pôle, la variable d'échafaudage est dégénérée. Tous les états intermédiaires convergent vers
+0
+0, indistinctement. Le paramètre 
+t
+t perd toute capacité à distinguer les états.
+
+  
+lim
+⁡
+θ
+→
+−
+∞
+Φ
+(
+z
+0
+,
+t
+)
+  
+ind
+e
+ˊ
+pendant de 
+t
+  
+θ→−∞
+lim
+​	
+ Φ(z 
+0
+​	
+ ,t)ind 
+e
+ˊ
+ pendant de t
+​	
+ 
+
+C'est ce que tu appelais le « point de faiblesse ». Il est localisé avec précision : c'est le pôle de la spirale, et c'est le seul point de 
+C
+‾
+C
+  où l'échafaudage s'effondre. Ailleurs, il fonctionne.
+
+Note technique : ce n'est pas une pathologie de l'échafaudage — c'est une pathologie du pôle, qui est déjà singulier dans le rapport principal (le rayon de courbure y diverge). L'échafaudage hérite de la singularité, il ne la crée pas.
+
+7. Ce que ça donne pour ton registre
+
+Tu voulais annexer une variable de support externe. Voici la proposition d'annexe, formalisée :
+
+Annexe A — Variable d'échafaudage et paramètre de continuation
+
+A.1. Définition axiomatique (8 axiomes, §2).
+A.2. Trois instances attestées : continuation (Poincaré), variable artificielle (Dantzig), variable fantôme (Floyd) — §3.
+A.3. Application au triplet (spirale, évolute, involute) :
+Φ
+(
+z
+0
+,
+t
+)
+=
+α
+t
+z
+0
+Φ(z 
+0
+​	
+ ,t)=α 
+t
+ z 
+0
+​	
+ , 
+Ψ
+(
+z
+0
+,
+t
+)
+=
+β
+t
+z
+0
+Ψ(z 
+0
+​	
+ ,t)=β 
+t
+ z 
+0
+​	
+ , 
+t
+∈
+[
+0
+,
+1
+]
+t∈[0,1] — §4.
+A.4. Théorème de support : 
+Φ
+(
+z
+0
+,
+t
+)
+⋅
+Ψ
+(
+z
+0
+,
+t
+)
+=
+z
+0
+2
+Φ(z 
+0
+​	
+ ,t)⋅Ψ(z 
+0
+​	
+ ,t)=z 
+0
+2
+​	
+ pour tout 
+t
+t — §5.
+A.5. Dégénérescence au pôle : 
+lim
+⁡
+θ
+→
+−
+∞
+Φ
+=
+0
+lim 
+θ→−∞
+​	
+ Φ=0, indépendant de 
+t
+t — §6.
+A.6. Statut épistémique : l'échafaudage est externe à la structure finale (destruction en 
+λ
+1
+λ 
+1
+​	
+ ), temporaire (défini sur 
+[
+0
+,
+1
+]
+[0,1] uniquement), support (préserve l'invariant, rend la transition continue). Il n'est pas un constituant du résultat.
+8. Ce qui reste ouvert (et où je ne prétends rien)
+
+La version sphérique de l'échafaudage. Sur la sphère, la loxodromie est le correspondant de la spirale. Quel serait le paramètre de continuation entre une loxodromie et son « évolute géodésique » ? Je n'ai pas la réponse. La courbure géodésique d'une loxodromie n'est pas constante (elle vaut 
+κ
+g
+=
+∣
+sin
+⁡
+α
+cos
+⁡
+α
+tan
+⁡
+ϕ
+∣
+κ 
+g
+​	
+ =∣sinαcosαtanϕ∣), ce qui complique la formule. Non résolu.
+Le sens topologique du pôle comme point de dégénérescence. Que se passe-t-il si on compactifie
+C
+∪
+{
+∞
+}
+C∪{∞} ? L'échafaudage se prolonge-t-il en 
+∞
+∞ ? Probablement pas sans modifier 
+Λ
+Λ. Non calculé.
+Y a-t-il une structure de groupe sous-jacente ? Les opérateurs 
+α
+t
+α 
+t
+ , 
+t
+∈
+R
+t∈R, forment un groupe à un paramètre 
+R
+→
+C
+∗
+R→C 
+∗
+ . L'échafaudage est un sous-chemin de ce groupe. Y a-t-il une action de groupe complète sur l'espace des spirales logarithmiques ? Oui (par multiplication complexe), mais je n'ai pas vérifié si cela produit des identités nouvelles. Piste ouverte.
+Ma question
+
+Veux-tu qu'on pousse la version sphérique (point 1) — c'est-à-dire qu'on calcule l'échafaudage entre loxodromie et son analogue de l'évolute sur 
+S
+2
+S 
+2
+ , avec les équations explicites en 
+(
+ϕ
+,
+λ
+)
+(ϕ,λ) ?
+
+Ou veux-tu qu'on explore la structure de groupe (point 3) — voir si l'échafaudage 
+α
+t
+α 
+t
+  n'est qu'un cas particulier d'une action 
+C
+∗
+↷
+S
+log
+⁡
+C 
+∗
+ ↷S 
+log
+​	
+  dont les orbites sont les spirales de même 
+b
+b, et si cette action produit d'autres identités du type 
+z
+e
+ˊ
+vol
+⋅
+z
+invol
+=
+z
+0
+2
+z 
+e
+ˊ
+ vol
+​	
+ ⋅z 
+invol
+​	
+ =z 
+0
+2
+​	
+  ?
+
+Les deux sont calculables. La première est plus concrète (tu obtiens des formules). La seconde est plus structurelle (tu obtiens des théorèmes). Laquelle ?Tu comprend
+Voici un lexique complet de concepts et d'alter ego construits autour du mot « MUR », classés selon les facettes logiques, philosophiques et stylistiques de votre demande.
+
+L'Alter Ego Inversé, Contraire & Antipode
+* Le Pont / La Passerelle : C'est l'antithèse absolue. Là où le mur sépare, segmente et bloque le passage, le pont unit, enjambe le vide et crée le lien entre deux rives.
+* L'Horizon / L'Espace infini : À l'opposé de la délimitation stricte et de l'enfermement du mur, l'horizon représente l'absence totale d'obstacles visuels ou physiques.
+* La Porte / La Brèche : L'ouverture dynamique qui annule la fonction première du mur en permettant la transition.
+
+Le Paradoxe & Le Cas Paradoxal
+* Le Miroir : Il bloque le corps mais libère le reflet. C'est un mur visuel qui, au lieu de cacher ce qui est derrière, renvoie ce qui est devant. Il est à la fois obstacle et profondeur infinie.
+* La Ligne d'horizon : Un mur immatériel. Plus vous avancez vers elle pour la toucher, plus elle recule. Elle vous enferme dans un espace sans jamais vous bloquer physiquement.
+* Le Mur de fumée (ou d'eau) : Il a l'apparence d'une frontière infranchissable, mais s'effondre ou se traverse au moindre contact.
+
+Le Cas Atypique, Ironique & Réflectif
+* Le Mur d’écrans / Le Fil d'actualité : L'ironie moderne de la connexion. C'est un « mur » (Facebook, Instagram) censé ouvrir sur le monde, mais qui agit comme une barrière numérique, isolant l'individu dans une bulle algorithmique.
+* Le Mur de soutènement : Ce mur-là ne sert pas à enfermer, mais à empêcher l'effondrement. Il retient la terre ; s'il tombe, tout s'écroule. Il est protection plutôt que prison.
+* La Peau : Le mur biologique. Elle sépare notre individualité du reste de l'univers, mais elle passe son temps à respirer, absorber et transpirer avec l'extérieur.
+
+La Symétrie Parallèle (Le « Tique » linguistique)
+Si l'on joue sur la structure géométrique et phonétique du mot M-U-R :
+* R-U-M (Le Rhum) : La symétrie inversée exacte (palindrome). Le mur enferme les corps et garde l'esprit lucide face à un obstacle ; le rhum libère les esprits (l'ivresse) mais emprisonne le corps (perte de contrôle).
+* M-U-E (La Mue) : Une transformation phonétique proche. Le mur est statique, rigide et éternel ; la mue est le symbole même du changement, du détachement de sa propre barrière pour grandir.
+
+Lequel de ces alter ego résonne le plus avec ce que vous cherchez à construire ? Je peux développer une personnification romancée, créer un dialogue philosophique entre le Mur et son antipode, ou explorer une autre déclinaison.
+
+
+
+
+
+
+
+
+
